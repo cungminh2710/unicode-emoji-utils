@@ -4,6 +4,8 @@
     "module": "commonjs",
     "lib": ["ESNext"],
     "declaration": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
     "outDir": "./dist",
     "strict": true
   },

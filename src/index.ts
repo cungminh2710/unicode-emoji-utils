@@ -38,8 +38,9 @@ export function getAllEmojis(emojis?: Array<Emoji>) {
         .flat();
 }
 
-function compareVersion(a: EmojiVersion, b: EmojiVersion, exact?: boolean) {
-    return exact && parseFloat(a) === parseFloat(b) || parseFloat(a) <= parseFloat(b);
+export function compareVersion(a: EmojiVersion, b: EmojiVersion, exact?: boolean) {
+    if (exact) return parseFloat(a) === parseFloat(b);
+    return parseFloat(a) <= parseFloat(b);
 }
 
 export function getEmojis(version: EmojiVersion, exact?: boolean, emoijs?: Array<Emoji>) {

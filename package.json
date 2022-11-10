@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@types/jest": "^29.2.2",
     "@types/node": "^18.11.5",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "eslint": "^8.0.1",
@@ -16,7 +17,7 @@
   },
   "name": "unicode-emoji-utils",
   "description": "A collection of utilities for emojis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.mjs",
