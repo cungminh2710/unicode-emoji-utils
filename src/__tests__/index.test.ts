@@ -1,4 +1,4 @@
-import { type Emoji, getAllEmojis, hasEmoji, compareVersion, stripEmojies, getEmojis, getAllComponents, extractEmojis, getEmojisByGroup } from '../';
+import { type Emoji, getAllEmojis, hasEmoji, compareVersion, stripEmojies, filterEmojis, getAllComponents, extractEmojis, getEmojisByGroup } from '../';
 import unicodeEmojis from '../unicode-emojis';
 
 const ztring = 'adfsadfs safdsaf dsafds ';
@@ -33,13 +33,13 @@ test('getAllEmojis', () => {
     }
 });
 
-test('getEmojis', () => {
-    expect(getEmojis('1.0', false, testEmojis)).toEqual(testEmojis);
-    expect(getEmojis('1.0', true, testEmojis)).toEqual(testEmojis);
-    expect(getAllEmojis(getEmojis('1.0', true)).includes('😂')).toBe(false); // v0.6
-    expect(getAllEmojis(getEmojis('1.0', true)).includes('👨🏻‍🤝‍👨🏽')).toBe(false); // v12.1
-    expect(getAllEmojis(getEmojis('1.0')).includes('😂')).toBe(true);
-    expect(getAllEmojis(getEmojis('1.0')).includes('👨🏻‍🤝‍👨🏽')).toBe(false);
+test('filterEmojis', () => {
+    expect(filterEmojis('1.0', false, testEmojis)).toEqual(testEmojis);
+    expect(filterEmojis('1.0', true, testEmojis)).toEqual(testEmojis);
+    expect(getAllEmojis(filterEmojis('1.0', true)).includes('😂')).toBe(false); // v0.6
+    expect(getAllEmojis(filterEmojis('1.0', true)).includes('👨🏻‍🤝‍👨🏽')).toBe(false); // v12.1
+    expect(getAllEmojis(filterEmojis('1.0')).includes('😂')).toBe(true);
+    expect(getAllEmojis(filterEmojis('1.0')).includes('👨🏻‍🤝‍👨🏽')).toBe(false);
 });
 
 test('getEmojisByGroup', () => {

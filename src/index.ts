@@ -32,6 +32,11 @@ export type Emoji = {
 }
 type Group = 'category' | 'group' | 'subgroup';
 
+/**
+ * Get All Emojis as an array of emoji character
+ * @param emojis 
+ * @returns 
+ */
 export function getAllEmojis(emojis?: Array<Emoji>) {
     return (emojis ?? unicodeEmojis.emojis)
         .map(e => [e.emoji, ...(e.variations ?? []).map(v => v.emoji)])
@@ -43,13 +48,20 @@ export function compareVersion(a: EmojiVersion, b: EmojiVersion, exact?: boolean
     return parseFloat(a) <= parseFloat(b);
 }
 
-export function getEmojis(version: EmojiVersion, exact?: boolean, emoijs?: Array<Emoji>) {
+/**
+ * Filter Emoijs by the Unicode Version
+ * @param version 
+ * @param exact 
+ * @param emoijs 
+ * @returns 
+ */
+export function filterEmojis(version: EmojiVersion, exact?: boolean, emoijs?: Array<Emoji>) {
     const filteredEmojis: Array<Emoji> = [];
 
     for (const emoji of (emoijs ?? unicodeEmojis.emojis)) {
         if (compareVersion(emoji.version, version, exact)) {
             if (emoji.variations) {
-                emoji.variations = getEmojis(version, exact, emoji.variations)
+                emoji.variations = filterEmojis(version, exact, emoji.variations)
             }
             filteredEmojis.push(emoji);
         }
@@ -58,6 +70,12 @@ export function getEmojis(version: EmojiVersion, exact?: boolean, emoijs?: Array
     return filteredEmojis;
 }
 
+/**
+ * Get Emojis by group, category or subgroup
+ * @param group category | group | subgroup
+ * @param emojis 
+ * @returns 
+ */
 export function getEmojisByGroup(group: Group, emojis?: Array<Emoji>) {
     const map = new Map<string, Array<Emoji>>();
     for (const emoji of (emojis ?? unicodeEmojis.emojis)) {
@@ -71,26 +89,67 @@ export function getEmojisByGroup(group: Group, emojis?: Array<Emoji>) {
     return map;
 }
 
+/**
+ * Get Unicode Emoji Components
+ * @returns 
+ */
 export function getAllComponents() {
     return unicodeEmojis.components;
 }
 
+/**
+ * Emoji Regular Expression
+ * @returns Emoji Regex
+ */
 export function getEmojiRegex() {
     return emojiRegex();
 }
 
+/**
+ * Check whether a given text has emojis
+ * @param text 
+ * @returns text has emojis
+ */
 export function hasEmoji(text: string) {
     return getEmojiRegex().test(text);
 }
 
+/**
+ * Checks if `value` is classified as a `String` primitive or object.
+ *
+ * @param {*} value The value to check.
+ * @returns {boolean} Returns `true` if `value` is a string, else `false`.
+ * @example
+ *
+ * isString('abc')
+ * // => true
+ *
+ * isString(1)
+ * // => false
+ */
+function isString(value: any): value is string {
+    const type = typeof value
+    return type === 'string' || (type === 'object' && value != null && !Array.isArray(value) && Object.prototype.toString.call(value) === '[object String]')
+}
+
+/**
+ * Extract Emojis in a given text and preserve the order of appearance
+ * @param text 
+ * @returns 
+ */
 export function extractEmojis(text: string) {
     const emojis = getAllEmojis();
     return Array.from(text.matchAll(getEmojiRegex()))
         .map(match => match[0])
         .map(emojiStr => emojis.find(e => e === emojiStr))
-        .filter(Boolean);
+        .filter<string>(isString);
 }
 
+/**
+ * Strip / Remove Emojis in a given text
+ * @param text 
+ * @returns 
+ */
 export function stripEmojies(text: string) {
     return text.replace(getEmojiRegex(), '');
 }
