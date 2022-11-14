@@ -33,6 +33,28 @@ export type Emoji = {
 type Group = 'category' | 'group' | 'subgroup';
 
 /**
+ * Check whether a value is a valid Emoji Version
+ * @param version - Version
+ * @returns 
+ */
+export function isValidEmojiVersion(version: any): version is EmojiVersion {
+    return version === '0.6' ||
+        version === "0.7" ||
+        version === "1.0" ||
+        version === "2.0" ||
+        version === "3.0" ||
+        version === "4.0" ||
+        version === "5.0" ||
+        version === "11.0" ||
+        version === "12.0" ||
+        version === "12.1" ||
+        version === "13.0" ||
+        version === "13.1" ||
+        version === "14.0" ||
+        version === "15.0";
+}
+
+/**
  * Get All Emojis as an array of emoji character
  * @param emojis 
  * @returns 

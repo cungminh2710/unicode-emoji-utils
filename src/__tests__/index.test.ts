@@ -1,4 +1,4 @@
-import { type Emoji, getAllEmojis, hasEmoji, compareVersion, stripEmojies, filterEmojis, getAllComponents, extractEmojis, getEmojisByGroup } from '../';
+import { type Emoji, getAllEmojis, hasEmoji, compareVersion, stripEmojies, filterEmojis, getAllComponents, extractEmojis, getEmojisByGroup, isValidEmojiVersion } from '../';
 import unicodeEmojis from '../unicode-emojis';
 
 const ztring = 'adfsadfs safdsaf dsafds ';
@@ -65,4 +65,15 @@ test('compareVersion', () => {
     expect(compareVersion('0.6', '1.0', true)).toBe(false);
     expect(compareVersion('0.6', '12.0')).toBe(true);
     expect(compareVersion('12.0', '11.0')).toBe(false);
+})
+
+test('isValidEmojiVersion', () => {
+    expect(isValidEmojiVersion(null)).toBe(false);
+    expect(isValidEmojiVersion(1)).toBe(false);
+    expect(isValidEmojiVersion("")).toBe(false);
+    expect(isValidEmojiVersion("abc")).toBe(false);
+    expect(isValidEmojiVersion("1.0")).toBe(true);
+    expect(isValidEmojiVersion("2.0")).toBe(true);
+    expect(isValidEmojiVersion("14.0")).toBe(true);
+    expect(isValidEmojiVersion("15.0")).toBe(true);
 })
