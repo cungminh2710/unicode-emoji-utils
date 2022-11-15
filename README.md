@@ -26,6 +26,13 @@ yarn add unicode-emoji-utils
 import { type Emoji, getAllEmojis, hasEmoji, compareVersion, stripEmojies, filterEmojis, getAllComponents, extractEmojis, getEmojisByGroup } from 'unicode-emoji-utils';
 ```
 
+### Check valid EmojiVersion (type guard)
+```javascript
+isValidEmojiVersion("1.0"); // true
+isValidEmojiVersion("1.2"); // false
+isValidEmojiVersion(1); // false
+```
+
 ### Check whether a text has emojis
 
 ```javascript
