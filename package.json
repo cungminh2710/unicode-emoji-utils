@@ -18,7 +18,7 @@
   "name": "unicode-emoji-utils",
   "description": "A collection of utilities for emojis",
   "keywords": ["unicode", "emoji", "smiley", "utilities", "regex"],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -38,14 +38,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cungminh2710/emoji-util.git"
+    "url": "git+https://github.com/cungminh2710/unicode-emoji-utils.git"
   },
   "author": "Minh Cung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cungminh2710/emoji-util/issues"
+    "url": "https://github.com/cungminh2710/unicode-emoji-utils/issues"
   },
-  "homepage": "https://github.com/cungminh2710/emoji-util#readme",
+  "homepage": "https://github.com/cungminh2710/unicode-emoji-utils#readme",
   "dependencies": {
     "emoji-regex": "10.2.1"
   }
