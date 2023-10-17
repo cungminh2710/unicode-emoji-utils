@@ -49,7 +49,7 @@ test('filterEmojis', () => {
 	expect(filterEmojis('1.0', true, testEmojis)).toEqual(testEmojis);
 	expect(getAllEmojis(filterEmojis('1.0', true)).includes('😂')).toBe(false); // v0.6
 	expect(getAllEmojis(filterEmojis('1.0', true)).includes('👨🏻‍🤝‍👨🏽')).toBe(false); // v12.1
-	expect(getAllEmojis(filterEmojis('15.1', true)).includes('🙂‍↔️')).toBe(false); // v15.1 - head shaking
+	expect(getAllEmojis(filterEmojis('1.0', true)).includes('🙂‍↔️')).toBe(false); // v15.1 - head shaking
 	expect(getAllEmojis(filterEmojis('1.0')).includes('😂')).toBe(true);
 	expect(getAllEmojis(filterEmojis('1.0')).includes('👨🏻‍🤝‍👨🏽')).toBe(false);
 });
