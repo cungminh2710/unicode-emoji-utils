@@ -47,6 +47,6 @@
   },
   "homepage": "https://github.com/cungminh2710/unicode-emoji-utils#readme",
   "dependencies": {
-    "emoji-regex": "10.2.1"
+    "emoji-regex": "10.3.0"
   }
 }
