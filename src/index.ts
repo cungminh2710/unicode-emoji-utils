@@ -54,7 +54,8 @@ export function isValidEmojiVersion(version: any): version is EmojiVersion {
 		version === '13.0' ||
 		version === '13.1' ||
 		version === '14.0' ||
-		version === '15.0'
+		version === '15.0' ||
+		version === '15.1'
 	);
 }
 
