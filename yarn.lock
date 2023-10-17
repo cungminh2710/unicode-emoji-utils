@@ -877,10 +877,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.9.tgz#02d013de7058cea16d36168ef2fc653464cfbad4"
   integrity sha512-CRpX21/kGdzjOpFsZSkcrXMGIBWMGNIHXXBVFSH+ggkftxg+XYP20TESbh+zFvFj3EQOl5byk0HTRn1IL6hbqg==
 
-"@types/node@18.17.6":
-  version "18.17.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.6.tgz#0296e9a30b22d2a8fcaa48d3c45afe51474ca55b"
-  integrity sha512-fGmT/P7z7ecA6bv/ia5DlaWCH4YeZvAQMNpUhrJjtAhOhZfoxS1VLUgU2pdk63efSjQaOJWdXMuAJsws+8I6dg==
+"@types/node@18.18.5":
+  version "18.18.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.18.5.tgz#afc0fd975df946d6e1add5bbf98264225b212244"
+  integrity sha512-4slmbtwV59ZxitY4ixUZdy1uRLf9eSIvBWPQxNjhHYWEtn0FryfKpyS2cvADYXTayWdKEIsJengncrVvkI4I6A==
 
 "@types/semver@^7.3.12":
   version "7.3.13"
