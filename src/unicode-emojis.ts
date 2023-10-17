@@ -1,7 +1,7 @@
 import { type Emoji } from './'
 const UnicodeEmojis: {
-  components: Record<string, Array<Emoji>>,
-  emojis: Array<Emoji>
+    components: Record<string, Array<Emoji>>,
+    emojis: Array<Emoji>
 } = {
   "components": {
     "skin-tone": [
@@ -791,6 +791,24 @@ const UnicodeEmojis: {
         "shock",
         "vibrate"
       ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "🙂‍↔️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    {
+      "emoji": "🙂‍↕️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
       "category": "face-emotion",
       "group": "smileys-emotion",
       "subgroup": "face-neutral-skeptical"
@@ -11750,6 +11768,114 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "🚶‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏾‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏿‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🚶‍♀️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏼‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏽‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏾‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏿‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🚶‍♂️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🚶🏻‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏼‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏽‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏾‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🚶🏿‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "🧍",
       "description": "person standing",
       "version": "12.0",
@@ -11986,6 +12112,114 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "🧎‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏾‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏿‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🧎‍♀️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏼‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏽‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏾‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏿‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🧎‍♂️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧎🏻‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏼‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏽‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏾‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧎🏿‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦯",
       "description": "person with white cane",
       "version": "12.1",
@@ -12022,6 +12256,42 @@ const UnicodeEmojis: {
           "emoji": "🧑🏿‍🦯",
           "description": "person with white cane: dark skin tone",
           "version": "12.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦯‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏼‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏽‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏾‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏿‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
         }
       ]
     },
@@ -12067,6 +12337,42 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "👨‍🦯‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏼‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏽‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏾‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏿‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦯",
       "description": "woman with white cane",
       "version": "12.0",
@@ -12108,6 +12414,42 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "👩‍🦯‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏼‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏽‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏾‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏿‍🦯‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦼",
       "description": "person in motorized wheelchair",
       "version": "12.1",
@@ -12144,6 +12486,42 @@ const UnicodeEmojis: {
           "emoji": "🧑🏿‍🦼",
           "description": "person in motorized wheelchair: dark skin tone",
           "version": "12.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦼‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏼‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏽‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏾‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏿‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
         }
       ]
     },
@@ -12189,6 +12567,42 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "👨‍🦼‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏼‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏽‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏾‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏿‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦼",
       "description": "woman in motorized wheelchair",
       "version": "12.0",
@@ -12230,6 +12644,42 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "👩‍🦼‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏼‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏽‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏾‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏿‍🦼‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "🧑‍🦽",
       "description": "person in manual wheelchair",
       "version": "12.1",
@@ -12266,6 +12716,42 @@ const UnicodeEmojis: {
           "emoji": "🧑🏿‍🦽",
           "description": "person in manual wheelchair: dark skin tone",
           "version": "12.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🧑‍🦽‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🧑🏻‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏼‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏽‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏾‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑🏿‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
         }
       ]
     },
@@ -12311,6 +12797,42 @@ const UnicodeEmojis: {
       ]
     },
     {
+      "emoji": "👨‍🦽‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👨🏻‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏼‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏽‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏾‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👨🏿‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
       "emoji": "👩‍🦽",
       "description": "woman in manual wheelchair",
       "version": "12.0",
@@ -12348,6 +12870,42 @@ const UnicodeEmojis: {
           "emoji": "👩🏿‍🦽",
           "description": "woman in manual wheelchair: dark skin tone",
           "version": "12.0"
+        }
+      ]
+    },
+    {
+      "emoji": "👩‍🦽‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "👩🏻‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏼‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏽‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏾‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "👩🏿‍🦽‍➡️",
+          "description": null,
+          "version": "15.1"
         }
       ]
     },
@@ -12470,6 +13028,114 @@ const UnicodeEmojis: {
           "emoji": "🏃🏿‍♀️",
           "description": "woman running: dark skin tone",
           "version": "4.0"
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏼‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏽‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏾‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏿‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♀️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏼‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏽‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏾‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏿‍♀️‍➡️",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
+    },
+    {
+      "emoji": "🏃‍♂️‍➡️",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-activity",
+      "variations": [
+        {
+          "emoji": "🏃🏻‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏼‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏽‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏾‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🏃🏿‍♂️‍➡️",
+          "description": null,
+          "version": "15.1"
         }
       ]
     },
@@ -16311,142 +16977,339 @@ const UnicodeEmojis: {
       ]
     },
     {
-      "emoji": "👪",
-      "description": "family",
-      "version": "0.6",
+      "emoji": "👨‍👩‍👦",
+      "description": "family: man, woman, boy",
+      "version": "2.0",
       "keywords": [
-        "family"
+        "boy",
+        "family",
+        "man",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
-      "subgroup": "family",
-      "variations": [
-        {
-          "emoji": "👨‍👩‍👦",
-          "description": "family: man, woman, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👩‍👧",
-          "description": "family: man, woman, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👩‍👧‍👦",
-          "description": "family: man, woman, girl, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👩‍👦‍👦",
-          "description": "family: man, woman, boy, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👩‍👧‍👧",
-          "description": "family: man, woman, girl, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👨‍👦",
-          "description": "family: man, man, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👨‍👧",
-          "description": "family: man, man, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👨‍👧‍👦",
-          "description": "family: man, man, girl, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👨‍👦‍👦",
-          "description": "family: man, man, boy, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👨‍👧‍👧",
-          "description": "family: man, man, girl, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👩‍👩‍👦",
-          "description": "family: woman, woman, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👩‍👩‍👧",
-          "description": "family: woman, woman, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👩‍👩‍👧‍👦",
-          "description": "family: woman, woman, girl, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👩‍👩‍👦‍👦",
-          "description": "family: woman, woman, boy, boy",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👩‍👩‍👧‍👧",
-          "description": "family: woman, woman, girl, girl",
-          "version": "2.0"
-        },
-        {
-          "emoji": "👨‍👦",
-          "description": "family: man, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👨‍👦‍👦",
-          "description": "family: man, boy, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👨‍👧",
-          "description": "family: man, girl",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👨‍👧‍👦",
-          "description": "family: man, girl, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👨‍👧‍👧",
-          "description": "family: man, girl, girl",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👩‍👦",
-          "description": "family: woman, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👩‍👦‍👦",
-          "description": "family: woman, boy, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👩‍👧",
-          "description": "family: woman, girl",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👩‍👧‍👦",
-          "description": "family: woman, girl, boy",
-          "version": "4.0"
-        },
-        {
-          "emoji": "👩‍👧‍👧",
-          "description": "family: woman, girl, girl",
-          "version": "4.0"
-        }
-      ]
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👩‍👧",
+      "description": "family: man, woman, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👩‍👧‍👦",
+      "description": "family: man, woman, girl, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "girl",
+        "man",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👩‍👦‍👦",
+      "description": "family: man, woman, boy, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "man",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👩‍👧‍👧",
+      "description": "family: man, woman, girl, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👨‍👦",
+      "description": "family: man, man, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👨‍👧",
+      "description": "family: man, man, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👨‍👧‍👦",
+      "description": "family: man, man, girl, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👨‍👦‍👦",
+      "description": "family: man, man, boy, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👨‍👧‍👧",
+      "description": "family: man, man, girl, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👩‍👦",
+      "description": "family: woman, woman, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👩‍👧",
+      "description": "family: woman, woman, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👩‍👧‍👦",
+      "description": "family: woman, woman, girl, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👩‍👦‍👦",
+      "description": "family: woman, woman, boy, boy",
+      "version": "2.0",
+      "keywords": [
+        "boy",
+        "family",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👩‍👧‍👧",
+      "description": "family: woman, woman, girl, girl",
+      "version": "2.0",
+      "keywords": [
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👦",
+      "description": "family: man, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👦‍👦",
+      "description": "family: man, boy, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👧",
+      "description": "family: man, girl",
+      "version": "4.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👧‍👦",
+      "description": "family: man, girl, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👨‍👧‍👧",
+      "description": "family: man, girl, girl",
+      "version": "4.0",
+      "keywords": [
+        "family",
+        "girl",
+        "man"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👦",
+      "description": "family: woman, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👦‍👦",
+      "description": "family: woman, boy, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👧",
+      "description": "family: woman, girl",
+      "version": "4.0",
+      "keywords": [
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👧‍👦",
+      "description": "family: woman, girl, boy",
+      "version": "4.0",
+      "keywords": [
+        "boy",
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
+    },
+    {
+      "emoji": "👩‍👧‍👧",
+      "description": "family: woman, girl, girl",
+      "version": "4.0",
+      "keywords": [
+        "family",
+        "girl",
+        "woman"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "family"
     },
     {
       "emoji": "🗣️",
@@ -16503,6 +17366,39 @@ const UnicodeEmojis: {
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-symbol"
+    },
+    {
+      "emoji": "👪",
+      "description": "family",
+      "version": "0.6",
+      "keywords": [
+        "family"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol",
+      "variations": [
+        {
+          "emoji": "🧑‍🧑‍🧒",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑‍🧑‍🧒‍🧒",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑‍🧒",
+          "description": null,
+          "version": "15.1"
+        },
+        {
+          "emoji": "🧑‍🧒‍🧒",
+          "description": null,
+          "version": "15.1"
+        }
+      ]
     },
     {
       "emoji": "👣",
@@ -17636,6 +18532,15 @@ const UnicodeEmojis: {
       "subgroup": "animal-bird"
     },
     {
+      "emoji": "🐦‍🔥",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-bird"
+    },
+    {
       "emoji": "🐸",
       "description": "frog",
       "version": "0.6",
@@ -18536,6 +19441,15 @@ const UnicodeEmojis: {
       "subgroup": "food-fruit"
     },
     {
+      "emoji": "🍋‍🟩",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-fruit"
+    },
+    {
       "emoji": "🍌",
       "description": "banana",
       "version": "0.6",
@@ -18941,6 +19855,15 @@ const UnicodeEmojis: {
         "pod",
         "vegetable"
       ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🍄‍🟫",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
       "category": "food-drink",
       "group": "food-drink",
       "subgroup": "food-vegetable"
@@ -27179,6 +28102,15 @@ const UnicodeEmojis: {
       "subgroup": "tool"
     },
     {
+      "emoji": "⛓️‍💥",
+      "description": null,
+      "version": "15.1",
+      "keywords": null,
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "tool"
+    },
+    {
       "emoji": "⛓️",
       "description": "chains",
       "version": "0.7",
@@ -33607,7 +34539,7 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🇹🇷",
-      "description": "flag: Turkey",
+      "description": "flag: Türkiye",
       "version": "2.0",
       "keywords": [
         "flag"
