@@ -17,7 +17,13 @@
   },
   "name": "unicode-emoji-utils",
   "description": "A collection of utilities for emojis",
-  "keywords": ["unicode", "emoji", "smiley", "utilities", "regex"],
+  "keywords": [
+    "unicode",
+    "emoji",
+    "smiley",
+    "utilities",
+    "regex"
+  ],
   "version": "1.1.2",
   "sideEffects": false,
   "main": "dist/index.js",
