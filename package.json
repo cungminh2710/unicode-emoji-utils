@@ -53,6 +53,6 @@
   },
   "homepage": "https://github.com/cungminh2710/unicode-emoji-utils#readme",
   "dependencies": {
-    "emoji-regex": "10.4.0"
+    "emoji-regex-xs": "^1.0.0"
   }
 }

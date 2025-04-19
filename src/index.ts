@@ -1,4 +1,4 @@
-import emojiRegex from 'emoji-regex';
+import emojiRegex from 'emoji-regex-xs';
 import unicodeEmojis from './unicode-emojis';
 
 type Maybe<T> = T | undefined | null;
