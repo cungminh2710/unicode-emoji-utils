@@ -1,6 +1,4 @@
 import * as fs from 'fs';
-import * as https from 'https';
-import * as readline from 'readline';
 import * as htmlparser2 from 'htmlparser2';
 
 import { type Emoji } from '../src';
@@ -9,8 +7,8 @@ type Maybe<T> = T | undefined | null;
 
 /* ------------- PARAMETERS ------------- */
 
-const unicodeEmojiVersion = '15.1';
-const unicodeCldrVersion = '43';
+const unicodeEmojiVersion = '16.0';
+const unicodeCldrVersion = '46';
 const unicodeCldrLocale = 'en';
 
 /* ------------- EMOJIS CONSOLIDATION ------------- */

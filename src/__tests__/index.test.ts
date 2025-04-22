@@ -50,6 +50,7 @@ test('filterEmojis', () => {
 	expect(getAllEmojis(filterEmojis('1.0', true)).includes('😂')).toBe(false); // v0.6
 	expect(getAllEmojis(filterEmojis('1.0', true)).includes('👨🏻‍🤝‍👨🏽')).toBe(false); // v12.1
 	expect(getAllEmojis(filterEmojis('1.0', true)).includes('🙂‍↔️')).toBe(false); // v15.1 - head shaking
+	expect(getAllEmojis(filterEmojis('1.0', true)).includes('🫜')).toBe(false); // v16.0 - root vegetable
 	expect(getAllEmojis(filterEmojis('1.0')).includes('😂')).toBe(true);
 	expect(getAllEmojis(filterEmojis('1.0')).includes('👨🏻‍🤝‍👨🏽')).toBe(false);
 });
@@ -80,6 +81,7 @@ test('compareVersion', () => {
 	expect(compareVersion('0.6', '12.0')).toBe(true);
 	expect(compareVersion('12.0', '11.0')).toBe(false);
 	expect(compareVersion('12.0', '15.1')).toBe(true);
+	expect(compareVersion('12.0', '16.0')).toBe(true);
 });
 
 test('isValidEmojiVersion', () => {
@@ -92,4 +94,5 @@ test('isValidEmojiVersion', () => {
 	expect(isValidEmojiVersion('14.0')).toBe(true);
 	expect(isValidEmojiVersion('15.0')).toBe(true);
 	expect(isValidEmojiVersion('15.1')).toBe(true);
+	expect(isValidEmojiVersion('16.0')).toBe(true);
 });
