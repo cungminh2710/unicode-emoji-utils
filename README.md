@@ -4,7 +4,7 @@ A collection of utilities for emojis and raw data for Unicode Emojis
 
 - Support CommonJS and ES Module
 
-- Full list of `Unicode Emoji, Version 15.1` from [Unicode](https://home.unicode.org/emoji/about-emoji/).
+- Full list of `Unicode Emoji, Version 16.0` from [Unicode](https://home.unicode.org/emoji/about-emoji/).
 
 ## 🔌 Installation
 
