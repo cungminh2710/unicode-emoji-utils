@@ -17,7 +17,8 @@ export type EmojiVersion =
 	| '13.1'
 	| '14.0'
 	| '15.0'
-	| '15.1';
+	| '15.1'
+	| '16.0';
 type CodePoint = string;
 export type Emoji = {
 	emoji: string;
@@ -55,7 +56,8 @@ export function isValidEmojiVersion(version: any): version is EmojiVersion {
 		version === '13.1' ||
 		version === '14.0' ||
 		version === '15.0' ||
-		version === '15.1'
+		version === '15.1' || 
+		version === '16.0'
 	);
 }
 

@@ -69,9 +69,17 @@ const UnicodeEmojis: {
       "description": "grinning face",
       "version": "1.0",
       "keywords": [
+        "cheerful",
+        "cheery",
         "face",
         "grin",
-        "grinning face"
+        "grinning",
+        "happy",
+        "laugh",
+        "nice",
+        "smile",
+        "smiling",
+        "teeth"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -82,11 +90,19 @@ const UnicodeEmojis: {
       "description": "grinning face with big eyes",
       "version": "0.6",
       "keywords": [
+        "awesome",
+        "big",
+        "eyes",
         "face",
-        "grinning face with big eyes",
+        "grin",
+        "grinning",
+        "happy",
         "mouth",
         "open",
-        "smile"
+        "smile",
+        "smiling",
+        "teeth",
+        "yay"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -98,11 +114,17 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "eye",
+        "eyes",
         "face",
-        "grinning face with smiling eyes",
+        "grin",
+        "grinning",
+        "happy",
+        "laugh",
+        "lol",
         "mouth",
         "open",
-        "smile"
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -113,11 +135,17 @@ const UnicodeEmojis: {
       "description": "beaming face with smiling eyes",
       "version": "0.6",
       "keywords": [
-        "beaming face with smiling eyes",
+        "beaming",
         "eye",
+        "eyes",
         "face",
         "grin",
-        "smile"
+        "grinning",
+        "happy",
+        "nice",
+        "smile",
+        "smiling",
+        "teeth"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -128,12 +156,21 @@ const UnicodeEmojis: {
       "description": "grinning squinting face",
       "version": "0.6",
       "keywords": [
+        "closed",
+        "eyes",
         "face",
-        "grinning squinting face",
+        "grinning",
+        "haha",
+        "hahaha",
+        "happy",
         "laugh",
+        "lol",
         "mouth",
-        "satisfied",
-        "smile"
+        "open",
+        "rofl",
+        "smile",
+        "smiling",
+        "squinting"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -145,10 +182,17 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cold",
+        "dejected",
+        "excited",
         "face",
-        "grinning face with sweat",
+        "grinning",
+        "mouth",
+        "nervous",
         "open",
         "smile",
+        "smiling",
+        "stress",
+        "stressed",
         "sweat"
       ],
       "category": "face-emotion",
@@ -160,13 +204,22 @@ const UnicodeEmojis: {
       "description": "rolling on the floor laughing",
       "version": "3.0",
       "keywords": [
+        "crying",
         "face",
         "floor",
+        "funny",
+        "haha",
+        "happy",
+        "hehe",
+        "hilarious",
+        "joy",
         "laugh",
+        "lmao",
+        "lol",
         "rofl",
+        "roflmao",
         "rolling",
-        "rolling on the floor laughing",
-        "rotfl"
+        "tear"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -177,10 +230,20 @@ const UnicodeEmojis: {
       "description": "face with tears of joy",
       "version": "0.6",
       "keywords": [
+        "crying",
         "face",
-        "face with tears of joy",
+        "feels",
+        "funny",
+        "haha",
+        "happy",
+        "hehe",
+        "hilarious",
         "joy",
         "laugh",
+        "lmao",
+        "lol",
+        "rofl",
+        "roflmao",
         "tear"
       ],
       "category": "face-emotion",
@@ -193,8 +256,10 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "face",
-        "slightly smiling face",
-        "smile"
+        "happy",
+        "slightly",
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -206,6 +271,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "face",
+        "hehe",
+        "smile",
         "upside-down"
       ],
       "category": "face-emotion",
@@ -219,9 +286,17 @@ const UnicodeEmojis: {
       "keywords": [
         "disappear",
         "dissolve",
+        "embarrassed",
+        "face",
+        "haha",
+        "heat",
+        "hot",
         "liquid",
+        "lol",
         "melt",
-        "melting face"
+        "melting",
+        "sarcasm",
+        "sarcastic"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -233,8 +308,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "face",
+        "flirt",
+        "heartbreaker",
+        "sexy",
+        "slide",
+        "tease",
         "wink",
-        "winking face"
+        "winking",
+        "winks"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -247,9 +328,12 @@ const UnicodeEmojis: {
       "keywords": [
         "blush",
         "eye",
+        "eyes",
         "face",
+        "glad",
+        "satisfied",
         "smile",
-        "smiling face with smiling eyes"
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -261,11 +345,21 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "angel",
+        "angelic",
+        "angels",
+        "blessed",
         "face",
+        "fairy",
+        "fairytale",
         "fantasy",
         "halo",
+        "happy",
         "innocent",
-        "smiling face with halo"
+        "peaceful",
+        "smile",
+        "smiling",
+        "spirit",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -276,11 +370,18 @@ const UnicodeEmojis: {
       "description": "smiling face with hearts",
       "version": "11.0",
       "keywords": [
+        "3",
         "adore",
         "crush",
+        "face",
+        "heart",
         "hearts",
-        "in love",
-        "smiling face with hearts"
+        "ily",
+        "love",
+        "romance",
+        "smile",
+        "smiling",
+        "you"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -291,11 +392,20 @@ const UnicodeEmojis: {
       "description": "smiling face with heart-eyes",
       "version": "0.6",
       "keywords": [
+        "143",
+        "bae",
         "eye",
         "face",
+        "feels",
+        "heart-eyes",
+        "hearts",
+        "ily",
+        "kisses",
         "love",
+        "romance",
+        "romantic",
         "smile",
-        "smiling face with heart-eyes"
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -306,11 +416,15 @@ const UnicodeEmojis: {
       "description": "star-struck",
       "version": "5.0",
       "keywords": [
+        "excited",
         "eyes",
         "face",
         "grinning",
+        "smile",
         "star",
-        "star-struck"
+        "star-struck",
+        "starry-eyed",
+        "wow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -321,9 +435,22 @@ const UnicodeEmojis: {
       "description": "face blowing a kiss",
       "version": "0.6",
       "keywords": [
+        "adorbs",
+        "bae",
+        "blowing",
         "face",
-        "face blowing a kiss",
-        "kiss"
+        "flirt",
+        "heart",
+        "ily",
+        "kiss",
+        "love",
+        "lover",
+        "miss",
+        "muah",
+        "romantic",
+        "smooch",
+        "xoxo",
+        "you"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -334,9 +461,18 @@ const UnicodeEmojis: {
       "description": "kissing face",
       "version": "1.0",
       "keywords": [
+        "143",
+        "date",
+        "dating",
         "face",
+        "flirt",
+        "ily",
         "kiss",
-        "kissing face"
+        "love",
+        "smooch",
+        "smooches",
+        "xoxo",
+        "you"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -348,10 +484,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "face",
+        "happy",
         "outlined",
         "relaxed",
         "smile",
-        "smiling face"
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -362,11 +499,21 @@ const UnicodeEmojis: {
       "description": "kissing face with closed eyes",
       "version": "0.6",
       "keywords": [
+        "143",
+        "bae",
+        "blush",
         "closed",
+        "date",
+        "dating",
         "eye",
+        "eyes",
         "face",
-        "kiss",
-        "kissing face with closed eyes"
+        "flirt",
+        "ily",
+        "kisses",
+        "kissing",
+        "smooches",
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -377,11 +524,22 @@ const UnicodeEmojis: {
       "description": "kissing face with smiling eyes",
       "version": "1.0",
       "keywords": [
+        "143",
+        "closed",
+        "date",
+        "dating",
         "eye",
+        "eyes",
         "face",
+        "flirt",
+        "ily",
         "kiss",
-        "kissing face with smiling eyes",
-        "smile"
+        "kisses",
+        "kissing",
+        "love",
+        "night",
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -392,11 +550,17 @@ const UnicodeEmojis: {
       "description": "smiling face with tear",
       "version": "13.0",
       "keywords": [
+        "face",
+        "glad",
         "grateful",
+        "happy",
+        "joy",
+        "pain",
         "proud",
         "relieved",
+        "smile",
+        "smiley",
         "smiling",
-        "smiling face with tear",
         "tear",
         "touched"
       ],
@@ -410,11 +574,18 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "delicious",
+        "eat",
         "face",
-        "face savoring food",
-        "savouring",
+        "food",
+        "full",
+        "hungry",
+        "savor",
         "smile",
-        "yum"
+        "smiling",
+        "tasty",
+        "um",
+        "yum",
+        "yummy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -425,8 +596,13 @@ const UnicodeEmojis: {
       "description": "face with tongue",
       "version": "1.0",
       "keywords": [
+        "awesome",
+        "cool",
         "face",
-        "face with tongue",
+        "nice",
+        "party",
+        "stuck-out",
+        "sweet",
         "tongue"
       ],
       "category": "face-emotion",
@@ -438,12 +614,22 @@ const UnicodeEmojis: {
       "description": "winking face with tongue",
       "version": "0.6",
       "keywords": [
+        "crazy",
+        "epic",
         "eye",
         "face",
+        "funny",
         "joke",
+        "loopy",
+        "nutty",
+        "party",
+        "stuck-out",
         "tongue",
+        "wacky",
+        "weirdo",
         "wink",
-        "winking face with tongue"
+        "winking",
+        "yolo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -454,11 +640,14 @@ const UnicodeEmojis: {
       "description": "zany face",
       "version": "5.0",
       "keywords": [
+        "crazy",
         "eye",
+        "eyes",
+        "face",
         "goofy",
         "large",
         "small",
-        "zany face"
+        "zany"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -469,12 +658,19 @@ const UnicodeEmojis: {
       "description": "squinting face with tongue",
       "version": "0.6",
       "keywords": [
+        "closed",
         "eye",
+        "eyes",
         "face",
+        "gross",
         "horrible",
-        "squinting face with tongue",
+        "omg",
+        "squinting",
+        "stuck-out",
         "taste",
-        "tongue"
+        "tongue",
+        "whatever",
+        "yolo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -487,8 +683,9 @@ const UnicodeEmojis: {
       "keywords": [
         "face",
         "money",
-        "money-mouth face",
-        "mouth"
+        "money-mouth",
+        "mouth",
+        "paid"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -500,11 +697,11 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "face",
+        "hands",
         "hug",
         "hugging",
-        "open hands",
-        "smiling face",
-        "smiling face with open hands"
+        "open",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -515,7 +712,17 @@ const UnicodeEmojis: {
       "description": "face with hand over mouth",
       "version": "5.0",
       "keywords": [
-        "face with hand over mouth",
+        "face",
+        "giggle",
+        "giggling",
+        "hand",
+        "mouth",
+        "oops",
+        "realization",
+        "secret",
+        "shock",
+        "sudden",
+        "surprise",
         "whoops"
       ],
       "category": "face-emotion",
@@ -531,8 +738,17 @@ const UnicodeEmojis: {
         "awe",
         "disbelief",
         "embarrass",
-        "face with open eyes and hand over mouth",
+        "eyes",
+        "face",
+        "gasp",
+        "hand",
+        "mouth",
+        "omg",
+        "open",
+        "over",
+        "quiet",
         "scared",
+        "shock",
         "surprise"
       ],
       "category": "face-emotion",
@@ -545,8 +761,16 @@ const UnicodeEmojis: {
       "version": "14.0",
       "keywords": [
         "captivated",
-        "face with peeking eye",
+        "embarrass",
+        "eye",
+        "face",
+        "hide",
+        "hiding",
+        "peek",
+        "peeking",
         "peep",
+        "scared",
+        "shy",
         "stare"
       ],
       "category": "face-emotion",
@@ -558,9 +782,11 @@ const UnicodeEmojis: {
       "description": "shushing face",
       "version": "5.0",
       "keywords": [
+        "face",
         "quiet",
+        "shh",
         "shush",
-        "shushing face"
+        "shushing"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -571,8 +797,14 @@ const UnicodeEmojis: {
       "description": "thinking face",
       "version": "1.0",
       "keywords": [
+        "chin",
+        "consider",
         "face",
-        "thinking"
+        "hmm",
+        "ponder",
+        "pondering",
+        "thinking",
+        "wondering"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -583,10 +815,15 @@ const UnicodeEmojis: {
       "description": "saluting face",
       "version": "14.0",
       "keywords": [
+        "face",
+        "good",
+        "luck",
+        "ma’am",
         "OK",
+        "respect",
         "salute",
-        "saluting face",
-        "sunny",
+        "saluting",
+        "sir",
         "troops",
         "yes"
       ],
@@ -600,9 +837,14 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "face",
+        "keep",
         "mouth",
+        "quiet",
+        "secret",
+        "shut",
+        "zip",
         "zipper",
-        "zipper-mouth face"
+        "zipper-mouth"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -613,9 +855,20 @@ const UnicodeEmojis: {
       "description": "face with raised eyebrow",
       "version": "5.0",
       "keywords": [
+        "disapproval",
+        "disbelief",
         "distrust",
-        "face with raised eyebrow",
-        "skeptic"
+        "emoji",
+        "eyebrow",
+        "face",
+        "hmm",
+        "mild",
+        "raised",
+        "skeptic",
+        "skeptical",
+        "skepticism",
+        "surprise",
+        "what"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -626,10 +879,22 @@ const UnicodeEmojis: {
       "description": "neutral face",
       "version": "0.7",
       "keywords": [
+        "awkward",
+        "blank",
         "deadpan",
+        "expressionless",
         "face",
+        "fine",
+        "jealous",
         "meh",
-        "neutral"
+        "neutral",
+        "oh",
+        "shade",
+        "straight",
+        "unamused",
+        "unhappy",
+        "unimpressed",
+        "whatever"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -640,11 +905,22 @@ const UnicodeEmojis: {
       "description": "expressionless face",
       "version": "1.0",
       "keywords": [
+        "awkward",
+        "dead",
         "expressionless",
         "face",
+        "fine",
         "inexpressive",
+        "jealous",
         "meh",
-        "unexpressive"
+        "not",
+        "oh",
+        "omg",
+        "straight",
+        "uh",
+        "unhappy",
+        "unimpressed",
+        "whatever"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -655,11 +931,18 @@ const UnicodeEmojis: {
       "description": "face without mouth",
       "version": "1.0",
       "keywords": [
+        "awkward",
+        "blank",
+        "expressionless",
         "face",
-        "face without mouth",
         "mouth",
+        "mouthless",
+        "mute",
         "quiet",
-        "silent"
+        "secret",
+        "silence",
+        "silent",
+        "speechless"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -672,10 +955,16 @@ const UnicodeEmojis: {
       "keywords": [
         "depressed",
         "disappear",
-        "dotted line face",
+        "dotted",
+        "face",
+        "hidden",
         "hide",
         "introvert",
-        "invisible"
+        "invisible",
+        "line",
+        "meh",
+        "whatever",
+        "wtv"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -687,9 +976,10 @@ const UnicodeEmojis: {
       "version": "13.1",
       "keywords": [
         "absentminded",
-        "face in clouds",
-        "face in the fog",
-        "head in clouds"
+        "clouds",
+        "face",
+        "fog",
+        "head"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -700,9 +990,22 @@ const UnicodeEmojis: {
       "description": "smirking face",
       "version": "0.6",
       "keywords": [
+        "boss",
+        "dapper",
         "face",
+        "flirt",
+        "homie",
+        "kidding",
+        "leer",
+        "shade",
+        "slick",
+        "sly",
         "smirk",
-        "smirking face"
+        "smug",
+        "snicker",
+        "suave",
+        "suspicious",
+        "swag"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -713,9 +1016,21 @@ const UnicodeEmojis: {
       "description": "unamused face",
       "version": "0.6",
       "keywords": [
+        "...",
+        "bored",
         "face",
+        "fine",
+        "jealous",
+        "jel",
+        "jelly",
+        "pissed",
+        "smh",
+        "ugh",
+        "uhh",
         "unamused",
-        "unhappy"
+        "unhappy",
+        "weird",
+        "whatever"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -729,8 +1044,10 @@ const UnicodeEmojis: {
         "eyeroll",
         "eyes",
         "face",
-        "face with rolling eyes",
-        "rolling"
+        "rolling",
+        "shade",
+        "ugh",
+        "whatever"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -741,9 +1058,15 @@ const UnicodeEmojis: {
       "description": "grimacing face",
       "version": "1.0",
       "keywords": [
+        "awk",
+        "awkward",
+        "dentist",
         "face",
         "grimace",
-        "grimacing face"
+        "grimacing",
+        "grinning",
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -754,11 +1077,18 @@ const UnicodeEmojis: {
       "description": "face exhaling",
       "version": "13.1",
       "keywords": [
+        "blow",
+        "blowing",
         "exhale",
-        "face exhaling",
+        "exhaling",
+        "exhausted",
+        "face",
         "gasp",
         "groan",
         "relief",
+        "sigh",
+        "smiley",
+        "smoke",
         "whisper",
         "whistle"
       ],
@@ -772,8 +1102,9 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "face",
+        "liar",
         "lie",
-        "lying face",
+        "lying",
         "pinocchio"
       ],
       "category": "face-emotion",
@@ -785,11 +1116,18 @@ const UnicodeEmojis: {
       "description": "shaking face",
       "version": "15.0",
       "keywords": [
+        "crazy",
+        "daze",
         "earthquake",
         "face",
+        "omg",
+        "panic",
         "shaking",
         "shock",
-        "vibrate"
+        "surprise",
+        "vibrate",
+        "whoa",
+        "wow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -797,18 +1135,30 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🙂‍↔️",
-      "description": null,
+      "description": "head shaking horizontally",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "head",
+        "horizontally",
+        "no",
+        "shake",
+        "shaking"
+      ],
       "category": "face-emotion",
       "group": "smileys-emotion",
       "subgroup": "face-neutral-skeptical"
     },
     {
       "emoji": "🙂‍↕️",
-      "description": null,
+      "description": "head shaking vertically",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "head",
+        "nod",
+        "shaking",
+        "vertically",
+        "yes"
+      ],
       "category": "face-emotion",
       "group": "smileys-emotion",
       "subgroup": "face-neutral-skeptical"
@@ -818,8 +1168,12 @@ const UnicodeEmojis: {
       "description": "relieved face",
       "version": "0.6",
       "keywords": [
+        "calm",
         "face",
-        "relieved"
+        "peace",
+        "relief",
+        "relieved",
+        "zen"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -830,9 +1184,17 @@ const UnicodeEmojis: {
       "description": "pensive face",
       "version": "0.6",
       "keywords": [
+        "awful",
+        "bored",
         "dejected",
+        "died",
+        "disappointed",
         "face",
-        "pensive"
+        "losing",
+        "lost",
+        "pensive",
+        "sad",
+        "sucks"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -843,10 +1205,15 @@ const UnicodeEmojis: {
       "description": "sleepy face",
       "version": "0.6",
       "keywords": [
+        "crying",
         "face",
-        "good night",
+        "good",
+        "night",
+        "sad",
         "sleep",
-        "sleepy face"
+        "sleeping",
+        "sleepy",
+        "tired"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -869,11 +1236,39 @@ const UnicodeEmojis: {
       "description": "sleeping face",
       "version": "1.0",
       "keywords": [
+        "bed",
+        "bedtime",
         "face",
-        "good night",
+        "good",
+        "goodnight",
+        "nap",
+        "night",
         "sleep",
-        "sleeping face",
-        "ZZZ"
+        "sleeping",
+        "tired",
+        "whatever",
+        "yawn",
+        "zzz"
+      ],
+      "category": "face-emotion",
+      "group": "smileys-emotion",
+      "subgroup": "face-sleepy"
+    },
+    {
+      "emoji": "🫩",
+      "description": "face with bags under eyes",
+      "version": "16.0",
+      "keywords": [
+        "bags",
+        "bored",
+        "exhausted",
+        "eyes",
+        "face",
+        "fatigued",
+        "late",
+        "sleepy",
+        "tired",
+        "weary"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -885,10 +1280,15 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cold",
+        "dentist",
+        "dermatologist",
         "doctor",
+        "dr",
         "face",
-        "face with medical mask",
+        "germs",
         "mask",
+        "medical",
+        "medicine",
         "sick"
       ],
       "category": "face-emotion",
@@ -901,7 +1301,6 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "face",
-        "face with thermometer",
         "ill",
         "sick",
         "thermometer"
@@ -917,9 +1316,10 @@ const UnicodeEmojis: {
       "keywords": [
         "bandage",
         "face",
-        "face with head-bandage",
+        "head-bandage",
         "hurt",
-        "injury"
+        "injury",
+        "ouch"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -931,7 +1331,10 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "face",
+        "gross",
+        "nasty",
         "nauseated",
+        "sick",
         "vomit"
       ],
       "category": "face-emotion",
@@ -943,10 +1346,17 @@ const UnicodeEmojis: {
       "description": "face vomiting",
       "version": "5.0",
       "keywords": [
-        "face vomiting",
+        "barf",
+        "ew",
+        "face",
+        "gross",
         "puke",
         "sick",
-        "vomit"
+        "spew",
+        "throw",
+        "up",
+        "vomit",
+        "vomiting"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -958,9 +1368,12 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "face",
+        "fever",
+        "flu",
         "gesundheit",
+        "sick",
         "sneeze",
-        "sneezing face"
+        "sneezing"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -971,12 +1384,16 @@ const UnicodeEmojis: {
       "description": "hot face",
       "version": "11.0",
       "keywords": [
+        "dying",
+        "face",
         "feverish",
-        "heat stroke",
+        "heat",
         "hot",
-        "hot face",
+        "panting",
         "red-faced",
-        "sweating"
+        "stroke",
+        "sweating",
+        "tongue"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -987,12 +1404,15 @@ const UnicodeEmojis: {
       "description": "cold face",
       "version": "11.0",
       "keywords": [
+        "blue",
         "blue-faced",
         "cold",
-        "cold face",
+        "face",
         "freezing",
         "frostbite",
-        "icicles"
+        "icicles",
+        "subzero",
+        "teeth"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1004,11 +1424,15 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "dizzy",
+        "drunk",
+        "eyes",
+        "face",
         "intoxicated",
+        "mouth",
         "tipsy",
-        "uneven eyes",
-        "wavy mouth",
-        "woozy face"
+        "uneven",
+        "wavy",
+        "woozy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1019,11 +1443,16 @@ const UnicodeEmojis: {
       "description": "face with crossed-out eyes",
       "version": "0.6",
       "keywords": [
-        "crossed-out eyes",
+        "crossed-out",
         "dead",
+        "dizzy",
+        "eyes",
         "face",
-        "face with crossed-out eyes",
-        "knocked out"
+        "feels",
+        "knocked",
+        "out",
+        "sick",
+        "tired"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1034,12 +1463,18 @@ const UnicodeEmojis: {
       "description": "face with spiral eyes",
       "version": "13.1",
       "keywords": [
+        "confused",
         "dizzy",
-        "face with spiral eyes",
+        "eyes",
+        "face",
         "hypnotized",
+        "omg",
+        "smiley",
         "spiral",
         "trouble",
-        "whoa"
+        "whoa",
+        "woah",
+        "woozy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1050,9 +1485,15 @@ const UnicodeEmojis: {
       "description": "exploding head",
       "version": "5.0",
       "keywords": [
-        "exploding head",
-        "mind blown",
-        "shocked"
+        "blown",
+        "explode",
+        "exploding",
+        "head",
+        "mind",
+        "mindblown",
+        "no",
+        "shocked",
+        "way"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1077,11 +1518,18 @@ const UnicodeEmojis: {
       "description": "partying face",
       "version": "11.0",
       "keywords": [
+        "bday",
+        "birthday",
+        "celebrate",
         "celebration",
+        "excited",
+        "face",
+        "happy",
         "hat",
+        "hooray",
         "horn",
         "party",
-        "partying face"
+        "partying"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1093,11 +1541,17 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "disguise",
-        "disguised face",
+        "eyebrow",
         "face",
         "glasses",
         "incognito",
-        "nose"
+        "moustache",
+        "mustache",
+        "nose",
+        "person",
+        "spy",
+        "tache",
+        "tash"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1108,12 +1562,22 @@ const UnicodeEmojis: {
       "description": "smiling face with sunglasses",
       "version": "1.0",
       "keywords": [
+        "awesome",
+        "beach",
         "bright",
+        "bro",
+        "chilling",
         "cool",
         "face",
-        "smiling face with sunglasses",
-        "sun",
-        "sunglasses"
+        "rad",
+        "relaxed",
+        "shades",
+        "slay",
+        "smile",
+        "style",
+        "sunglasses",
+        "swag",
+        "win"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1124,9 +1588,16 @@ const UnicodeEmojis: {
       "description": "nerd face",
       "version": "1.0",
       "keywords": [
+        "brainy",
+        "clever",
+        "expert",
         "face",
         "geek",
-        "nerd"
+        "gifted",
+        "glasses",
+        "intelligent",
+        "nerd",
+        "smart"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1137,10 +1608,13 @@ const UnicodeEmojis: {
       "description": "face with monocle",
       "version": "5.0",
       "keywords": [
+        "classy",
         "face",
-        "face with monocle",
+        "fancy",
         "monocle",
-        "stuffy"
+        "rich",
+        "stuffy",
+        "wealthy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1151,9 +1625,18 @@ const UnicodeEmojis: {
       "description": "confused face",
       "version": "1.0",
       "keywords": [
+        "befuddled",
         "confused",
+        "confusing",
+        "dunno",
         "face",
-        "meh"
+        "frown",
+        "hm",
+        "meh",
+        "not",
+        "sad",
+        "sorry",
+        "sure"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1164,11 +1647,21 @@ const UnicodeEmojis: {
       "description": "face with diagonal mouth",
       "version": "14.0",
       "keywords": [
+        "confused",
+        "confusion",
+        "diagonal",
         "disappointed",
-        "face with diagonal mouth",
+        "doubt",
+        "doubtful",
+        "face",
+        "frustrated",
+        "frustration",
         "meh",
+        "mouth",
         "skeptical",
-        "unsure"
+        "unsure",
+        "whatever",
+        "wtv"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1179,8 +1672,17 @@ const UnicodeEmojis: {
       "description": "worried face",
       "version": "1.0",
       "keywords": [
+        "anxious",
+        "butterflies",
         "face",
-        "worried"
+        "nerves",
+        "nervous",
+        "sad",
+        "stress",
+        "stressed",
+        "surprised",
+        "worried",
+        "worry"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1193,7 +1695,9 @@ const UnicodeEmojis: {
       "keywords": [
         "face",
         "frown",
-        "slightly frowning face"
+        "frowning",
+        "sad",
+        "slightly"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1206,7 +1710,8 @@ const UnicodeEmojis: {
       "keywords": [
         "face",
         "frown",
-        "frowning face"
+        "frowning",
+        "sad"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1217,11 +1722,20 @@ const UnicodeEmojis: {
       "description": "face with open mouth",
       "version": "1.0",
       "keywords": [
+        "believe",
         "face",
-        "face with open mouth",
+        "forgot",
         "mouth",
+        "omg",
         "open",
-        "sympathy"
+        "shocked",
+        "surprised",
+        "sympathy",
+        "unbelievable",
+        "unreal",
+        "whoa",
+        "wow",
+        "you"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1232,10 +1746,14 @@ const UnicodeEmojis: {
       "description": "hushed face",
       "version": "1.0",
       "keywords": [
+        "epic",
         "face",
         "hushed",
+        "omg",
         "stunned",
-        "surprised"
+        "surprised",
+        "whoa",
+        "woah"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1247,9 +1765,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "astonished",
+        "cost",
         "face",
+        "no",
+        "omg",
         "shocked",
-        "totally"
+        "totally",
+        "way"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1260,9 +1782,22 @@ const UnicodeEmojis: {
       "description": "flushed face",
       "version": "0.6",
       "keywords": [
+        "amazed",
+        "awkward",
+        "crazy",
         "dazed",
+        "dead",
+        "disbelief",
+        "embarrassed",
         "face",
-        "flushed"
+        "flushed",
+        "geez",
+        "heat",
+        "hot",
+        "impressed",
+        "jeez",
+        "what",
+        "wow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1274,9 +1809,17 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "begging",
+        "big",
+        "eyes",
+        "face",
         "mercy",
-        "pleading face",
-        "puppy eyes"
+        "not",
+        "pleading",
+        "please",
+        "pretty",
+        "puppy",
+        "sad",
+        "why"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1287,12 +1830,22 @@ const UnicodeEmojis: {
       "description": "face holding back tears",
       "version": "14.0",
       "keywords": [
-        "angry",
+        "admiration",
+        "aww",
+        "back",
         "cry",
-        "face holding back tears",
+        "embarrassed",
+        "face",
+        "feelings",
+        "grateful",
+        "gratitude",
+        "holding",
+        "joy",
+        "please",
         "proud",
         "resist",
-        "sad"
+        "sad",
+        "tears"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1303,11 +1856,18 @@ const UnicodeEmojis: {
       "description": "frowning face with open mouth",
       "version": "1.0",
       "keywords": [
+        "caught",
         "face",
         "frown",
-        "frowning face with open mouth",
+        "frowning",
+        "guard",
         "mouth",
-        "open"
+        "open",
+        "scared",
+        "scary",
+        "surprise",
+        "what",
+        "wow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1319,7 +1879,15 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "anguished",
-        "face"
+        "face",
+        "forgot",
+        "scared",
+        "scary",
+        "stressed",
+        "surprise",
+        "unhappy",
+        "what",
+        "wow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1330,10 +1898,14 @@ const UnicodeEmojis: {
       "description": "fearful face",
       "version": "0.6",
       "keywords": [
+        "afraid",
+        "anxious",
+        "blame",
         "face",
         "fear",
         "fearful",
-        "scared"
+        "scared",
+        "worried"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1344,12 +1916,18 @@ const UnicodeEmojis: {
       "description": "anxious face with sweat",
       "version": "0.6",
       "keywords": [
-        "anxious face with sweat",
+        "anxious",
         "blue",
         "cold",
+        "eek",
         "face",
+        "mouth",
+        "nervous",
+        "open",
         "rushed",
-        "sweat"
+        "scared",
+        "sweat",
+        "yikes"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1360,10 +1938,17 @@ const UnicodeEmojis: {
       "description": "sad but relieved face",
       "version": "0.6",
       "keywords": [
+        "anxious",
+        "call",
+        "close",
+        "complicated",
         "disappointed",
         "face",
+        "not",
         "relieved",
-        "sad but relieved face",
+        "sad",
+        "sweat",
+        "time",
         "whew"
       ],
       "category": "face-emotion",
@@ -1375,11 +1960,16 @@ const UnicodeEmojis: {
       "description": "crying face",
       "version": "0.6",
       "keywords": [
+        "awful",
         "cry",
-        "crying face",
+        "crying",
         "face",
+        "feels",
+        "miss",
         "sad",
-        "tear"
+        "tear",
+        "triste",
+        "unhappy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1390,12 +1980,16 @@ const UnicodeEmojis: {
       "description": "loudly crying face",
       "version": "0.6",
       "keywords": [
+        "bawling",
         "cry",
+        "crying",
         "face",
-        "loudly crying face",
+        "loudly",
         "sad",
         "sob",
-        "tear"
+        "tear",
+        "tears",
+        "unhappy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1406,12 +2000,18 @@ const UnicodeEmojis: {
       "description": "face screaming in fear",
       "version": "0.6",
       "keywords": [
+        "epic",
         "face",
-        "face screaming in fear",
         "fear",
+        "fearful",
         "munch",
         "scared",
-        "scream"
+        "scream",
+        "screamer",
+        "screaming",
+        "shocked",
+        "surprised",
+        "woah"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1422,8 +2022,16 @@ const UnicodeEmojis: {
       "description": "confounded face",
       "version": "0.6",
       "keywords": [
+        "annoyed",
         "confounded",
-        "face"
+        "confused",
+        "cringe",
+        "distraught",
+        "face",
+        "feels",
+        "frustrated",
+        "mad",
+        "sad"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1434,9 +2042,13 @@ const UnicodeEmojis: {
       "description": "persevering face",
       "version": "0.6",
       "keywords": [
+        "concentrate",
+        "concentration",
         "face",
+        "focus",
+        "headache",
         "persevere",
-        "persevering face"
+        "persevering"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1447,8 +2059,15 @@ const UnicodeEmojis: {
       "description": "disappointed face",
       "version": "0.6",
       "keywords": [
+        "awful",
+        "blame",
+        "dejected",
         "disappointed",
-        "face"
+        "face",
+        "fail",
+        "losing",
+        "sad",
+        "unhappy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1459,10 +2078,17 @@ const UnicodeEmojis: {
       "description": "downcast face with sweat",
       "version": "0.6",
       "keywords": [
+        "close",
         "cold",
-        "downcast face with sweat",
+        "downcast",
         "face",
-        "sweat"
+        "feels",
+        "headache",
+        "nervous",
+        "sad",
+        "scared",
+        "sweat",
+        "yikes"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1473,8 +2099,17 @@ const UnicodeEmojis: {
       "description": "weary face",
       "version": "0.6",
       "keywords": [
+        "crying",
         "face",
+        "fail",
+        "feels",
+        "hungry",
+        "mad",
+        "nooo",
+        "sad",
+        "sleepy",
         "tired",
+        "unhappy",
         "weary"
       ],
       "category": "face-emotion",
@@ -1486,7 +2121,12 @@ const UnicodeEmojis: {
       "description": "tired face",
       "version": "0.6",
       "keywords": [
+        "cost",
         "face",
+        "feels",
+        "nap",
+        "sad",
+        "sneeze",
         "tired"
       ],
       "category": "face-emotion",
@@ -1498,10 +2138,19 @@ const UnicodeEmojis: {
       "description": "yawning face",
       "version": "12.0",
       "keywords": [
+        "bedtime",
         "bored",
+        "face",
+        "goodnight",
+        "nap",
+        "night",
+        "sleep",
+        "sleepy",
         "tired",
+        "whatever",
         "yawn",
-        "yawning face"
+        "yawning",
+        "zzz"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1512,9 +2161,19 @@ const UnicodeEmojis: {
       "description": "face with steam from nose",
       "version": "0.6",
       "keywords": [
+        "anger",
+        "angry",
         "face",
-        "face with steam from nose",
+        "feels",
+        "fume",
+        "fuming",
+        "furious",
+        "fury",
+        "mad",
+        "nose",
+        "steam",
         "triumph",
+        "unhappy",
         "won"
       ],
       "category": "face-emotion",
@@ -1526,13 +2185,19 @@ const UnicodeEmojis: {
       "description": "enraged face",
       "version": "0.6",
       "keywords": [
+        "anger",
         "angry",
         "enraged",
         "face",
+        "feels",
         "mad",
+        "maddening",
         "pouting",
         "rage",
-        "red"
+        "red",
+        "shade",
+        "unhappy",
+        "upset"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1545,8 +2210,16 @@ const UnicodeEmojis: {
       "keywords": [
         "anger",
         "angry",
+        "blame",
         "face",
-        "mad"
+        "feels",
+        "frustrated",
+        "mad",
+        "maddening",
+        "rage",
+        "shade",
+        "unhappy",
+        "upset"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1557,8 +2230,15 @@ const UnicodeEmojis: {
       "description": "face with symbols on mouth",
       "version": "5.0",
       "keywords": [
-        "face with symbols on mouth",
-        "swearing"
+        "censor",
+        "cursing",
+        "cussing",
+        "face",
+        "mad",
+        "mouth",
+        "pissed",
+        "swearing",
+        "symbols"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1569,12 +2249,19 @@ const UnicodeEmojis: {
       "description": "smiling face with horns",
       "version": "1.0",
       "keywords": [
+        "demon",
+        "devil",
+        "evil",
         "face",
-        "fairy tale",
+        "fairy",
+        "fairytale",
         "fantasy",
         "horns",
+        "purple",
+        "shade",
         "smile",
-        "smiling face with horns"
+        "smiling",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1585,12 +2272,20 @@ const UnicodeEmojis: {
       "description": "angry face with horns",
       "version": "0.6",
       "keywords": [
-        "angry face with horns",
+        "angry",
         "demon",
         "devil",
+        "evil",
         "face",
+        "fairy",
+        "fairytale",
         "fantasy",
-        "imp"
+        "horns",
+        "imp",
+        "mischievous",
+        "purple",
+        "shade",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1601,11 +2296,18 @@ const UnicodeEmojis: {
       "description": "skull",
       "version": "0.6",
       "keywords": [
+        "body",
+        "dead",
         "death",
         "face",
-        "fairy tale",
+        "fairy",
+        "fairytale",
+        "i’m",
+        "lmao",
         "monster",
-        "skull"
+        "skull",
+        "tale",
+        "yolo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1616,12 +2318,13 @@ const UnicodeEmojis: {
       "description": "skull and crossbones",
       "version": "1.0",
       "keywords": [
+        "bone",
         "crossbones",
+        "dead",
         "death",
         "face",
         "monster",
-        "skull",
-        "skull and crossbones"
+        "skull"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1632,12 +2335,22 @@ const UnicodeEmojis: {
       "description": "pile of poo",
       "version": "0.6",
       "keywords": [
+        "bs",
+        "comic",
+        "doo",
         "dung",
         "face",
+        "fml",
         "monster",
-        "pile of poo",
+        "pile",
         "poo",
-        "poop"
+        "poop",
+        "smelly",
+        "smh",
+        "stink",
+        "stinks",
+        "stinky",
+        "turd"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1661,11 +2374,16 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "creature",
+        "devil",
         "face",
-        "fairy tale",
+        "fairy",
+        "fairytale",
         "fantasy",
+        "mask",
         "monster",
-        "ogre"
+        "ogre",
+        "scary",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1676,12 +2394,17 @@ const UnicodeEmojis: {
       "description": "goblin",
       "version": "0.6",
       "keywords": [
+        "angry",
         "creature",
         "face",
-        "fairy tale",
+        "fairy",
+        "fairytale",
         "fantasy",
         "goblin",
-        "monster"
+        "mask",
+        "mean",
+        "monster",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1692,12 +2415,20 @@ const UnicodeEmojis: {
       "description": "ghost",
       "version": "0.6",
       "keywords": [
+        "boo",
         "creature",
+        "excited",
         "face",
-        "fairy tale",
+        "fairy",
+        "fairytale",
         "fantasy",
         "ghost",
-        "monster"
+        "halloween",
+        "haunting",
+        "monster",
+        "scary",
+        "silly",
+        "tale"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1712,7 +2443,12 @@ const UnicodeEmojis: {
         "creature",
         "extraterrestrial",
         "face",
+        "fairy",
+        "fairytale",
         "fantasy",
+        "monster",
+        "space",
+        "tale",
         "ufo"
       ],
       "category": "face-emotion",
@@ -1728,7 +2464,16 @@ const UnicodeEmojis: {
         "creature",
         "extraterrestrial",
         "face",
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "game",
+        "gamer",
+        "games",
         "monster",
+        "pixelated",
+        "space",
+        "tale",
         "ufo"
       ],
       "category": "face-emotion",
@@ -1753,12 +2498,14 @@ const UnicodeEmojis: {
       "description": "grinning cat",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "face",
         "grinning",
         "mouth",
         "open",
-        "smile"
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1769,12 +2516,15 @@ const UnicodeEmojis: {
       "description": "grinning cat with smiling eyes",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "eye",
+        "eyes",
         "face",
         "grin",
-        "grinning cat with smiling eyes",
-        "smile"
+        "grinning",
+        "smile",
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1785,11 +2535,15 @@ const UnicodeEmojis: {
       "description": "cat with tears of joy",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
-        "cat with tears of joy",
         "face",
         "joy",
-        "tear"
+        "laugh",
+        "laughing",
+        "lol",
+        "tear",
+        "tears"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1800,13 +2554,15 @@ const UnicodeEmojis: {
       "description": "smiling cat with heart-eyes",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "eye",
         "face",
         "heart",
+        "heart-eyes",
         "love",
         "smile",
-        "smiling cat with heart-eyes"
+        "smiling"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1817,8 +2573,8 @@ const UnicodeEmojis: {
       "description": "cat with wry smile",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
-        "cat with wry smile",
         "face",
         "ironic",
         "smile",
@@ -1833,11 +2589,14 @@ const UnicodeEmojis: {
       "description": "kissing cat",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
+        "closed",
         "eye",
+        "eyes",
         "face",
         "kiss",
-        "kissing cat"
+        "kissing"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1848,6 +2607,7 @@ const UnicodeEmojis: {
       "description": "weary cat",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "face",
         "oh",
@@ -1863,9 +2623,10 @@ const UnicodeEmojis: {
       "description": "crying cat",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "cry",
-        "crying cat",
+        "crying",
         "face",
         "sad",
         "tear"
@@ -1879,6 +2640,7 @@ const UnicodeEmojis: {
       "description": "pouting cat",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "face",
         "pouting"
@@ -1892,12 +2654,21 @@ const UnicodeEmojis: {
       "description": "see-no-evil monkey",
       "version": "0.6",
       "keywords": [
+        "embarrassed",
         "evil",
         "face",
         "forbidden",
+        "forgot",
+        "gesture",
+        "hide",
         "monkey",
-        "see",
-        "see-no-evil monkey"
+        "no",
+        "omg",
+        "prohibited",
+        "scared",
+        "secret",
+        "smh",
+        "watch"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1908,12 +2679,21 @@ const UnicodeEmojis: {
       "description": "hear-no-evil monkey",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "ears",
         "evil",
         "face",
         "forbidden",
+        "gesture",
         "hear",
-        "hear-no-evil monkey",
-        "monkey"
+        "listen",
+        "monkey",
+        "no",
+        "not",
+        "prohibited",
+        "secret",
+        "shh",
+        "tmi"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1924,12 +2704,20 @@ const UnicodeEmojis: {
       "description": "speak-no-evil monkey",
       "version": "0.6",
       "keywords": [
+        "animal",
         "evil",
         "face",
         "forbidden",
+        "gesture",
         "monkey",
+        "no",
+        "not",
+        "oops",
+        "prohibited",
+        "quiet",
+        "secret",
         "speak",
-        "speak-no-evil monkey"
+        "stealth"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1943,7 +2731,9 @@ const UnicodeEmojis: {
         "heart",
         "letter",
         "love",
-        "mail"
+        "mail",
+        "romance",
+        "valentine"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1954,9 +2744,17 @@ const UnicodeEmojis: {
       "description": "heart with arrow",
       "version": "0.6",
       "keywords": [
+        "143",
+        "adorbs",
         "arrow",
         "cupid",
-        "heart with arrow"
+        "date",
+        "emotion",
+        "heart",
+        "ily",
+        "love",
+        "romance",
+        "valentine"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1967,9 +2765,15 @@ const UnicodeEmojis: {
       "description": "heart with ribbon",
       "version": "0.6",
       "keywords": [
-        "heart with ribbon",
+        "143",
+        "anniversary",
+        "emotion",
+        "heart",
+        "ily",
+        "kisses",
         "ribbon",
-        "valentine"
+        "valentine",
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1980,9 +2784,18 @@ const UnicodeEmojis: {
       "description": "sparkling heart",
       "version": "0.6",
       "keywords": [
+        "143",
+        "emotion",
         "excited",
+        "good",
+        "heart",
+        "ily",
+        "kisses",
+        "morning",
+        "night",
         "sparkle",
-        "sparkling heart"
+        "sparkling",
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -1993,11 +2806,18 @@ const UnicodeEmojis: {
       "description": "growing heart",
       "version": "0.6",
       "keywords": [
+        "143",
+        "emotion",
         "excited",
         "growing",
-        "growing heart",
+        "heart",
+        "heartpulse",
+        "ily",
+        "kisses",
+        "muah",
         "nervous",
-        "pulse"
+        "pulse",
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2008,10 +2828,16 @@ const UnicodeEmojis: {
       "description": "beating heart",
       "version": "0.6",
       "keywords": [
+        "143",
         "beating",
-        "beating heart",
+        "cardio",
+        "emotion",
+        "heart",
         "heartbeat",
-        "pulsating"
+        "ily",
+        "love",
+        "pulsating",
+        "pulse"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2022,8 +2848,13 @@ const UnicodeEmojis: {
       "description": "revolving hearts",
       "version": "0.6",
       "keywords": [
-        "revolving",
-        "revolving hearts"
+        "143",
+        "adorbs",
+        "anniversary",
+        "emotion",
+        "heart",
+        "hearts",
+        "revolving"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2034,8 +2865,19 @@ const UnicodeEmojis: {
       "description": "two hearts",
       "version": "0.6",
       "keywords": [
+        "143",
+        "anniversary",
+        "date",
+        "dating",
+        "emotion",
+        "heart",
+        "hearts",
+        "ily",
+        "kisses",
         "love",
-        "two hearts"
+        "loving",
+        "two",
+        "xoxo"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2046,8 +2888,13 @@ const UnicodeEmojis: {
       "description": "heart decoration",
       "version": "0.6",
       "keywords": [
+        "143",
+        "decoration",
+        "emotion",
         "heart",
-        "heart decoration"
+        "hearth",
+        "purple",
+        "white"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2059,7 +2906,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "exclamation",
-        "heart exclamation",
+        "heart",
+        "heavy",
         "mark",
         "punctuation"
       ],
@@ -2074,7 +2922,12 @@ const UnicodeEmojis: {
       "keywords": [
         "break",
         "broken",
-        "broken heart"
+        "crushed",
+        "emotion",
+        "heart",
+        "heartbroken",
+        "lonely",
+        "sad"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2086,11 +2939,11 @@ const UnicodeEmojis: {
       "version": "13.1",
       "keywords": [
         "burn",
+        "fire",
         "heart",
-        "heart on fire",
         "love",
         "lust",
-        "sacred heart"
+        "sacred"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2102,9 +2955,9 @@ const UnicodeEmojis: {
       "version": "13.1",
       "keywords": [
         "healthier",
+        "heart",
         "improving",
         "mending",
-        "mending heart",
         "recovering",
         "recuperating",
         "well"
@@ -2118,8 +2971,10 @@ const UnicodeEmojis: {
       "description": "red heart",
       "version": "0.6",
       "keywords": [
+        "emotion",
         "heart",
-        "red heart"
+        "love",
+        "red"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2130,11 +2985,17 @@ const UnicodeEmojis: {
       "description": "pink heart",
       "version": "15.0",
       "keywords": [
+        "143",
+        "adorable",
         "cute",
+        "emotion",
         "heart",
+        "ily",
         "like",
         "love",
-        "pink"
+        "pink",
+        "special",
+        "sweet"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2145,8 +3006,9 @@ const UnicodeEmojis: {
       "description": "orange heart",
       "version": "5.0",
       "keywords": [
-        "orange",
-        "orange heart"
+        "143",
+        "heart",
+        "orange"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2157,8 +3019,13 @@ const UnicodeEmojis: {
       "description": "yellow heart",
       "version": "0.6",
       "keywords": [
-        "yellow",
-        "yellow heart"
+        "143",
+        "cardiac",
+        "emotion",
+        "heart",
+        "ily",
+        "love",
+        "yellow"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2169,8 +3036,13 @@ const UnicodeEmojis: {
       "description": "green heart",
       "version": "0.6",
       "keywords": [
+        "143",
+        "emotion",
         "green",
-        "green heart"
+        "heart",
+        "ily",
+        "love",
+        "romantic"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2181,8 +3053,13 @@ const UnicodeEmojis: {
       "description": "blue heart",
       "version": "0.6",
       "keywords": [
+        "143",
         "blue",
-        "blue heart"
+        "emotion",
+        "heart",
+        "ily",
+        "love",
+        "romance"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2193,10 +3070,18 @@ const UnicodeEmojis: {
       "description": "light blue heart",
       "version": "15.0",
       "keywords": [
+        "143",
+        "blue",
+        "cute",
         "cyan",
+        "emotion",
         "heart",
-        "light blue",
-        "light blue heart",
+        "ily",
+        "light",
+        "like",
+        "love",
+        "sky",
+        "special",
         "teal"
       ],
       "category": "face-emotion",
@@ -2208,8 +3093,13 @@ const UnicodeEmojis: {
       "description": "purple heart",
       "version": "0.6",
       "keywords": [
-        "purple",
-        "purple heart"
+        "143",
+        "bestest",
+        "emotion",
+        "heart",
+        "ily",
+        "love",
+        "purple"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2220,6 +3110,7 @@ const UnicodeEmojis: {
       "description": "brown heart",
       "version": "12.0",
       "keywords": [
+        "143",
         "brown",
         "heart"
       ],
@@ -2233,8 +3124,8 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "black",
-        "black heart",
         "evil",
+        "heart",
         "wicked"
       ],
       "category": "face-emotion",
@@ -2246,11 +3137,16 @@ const UnicodeEmojis: {
       "description": "grey heart",
       "version": "15.0",
       "keywords": [
+        "143",
+        "emotion",
         "gray",
-        "grey heart",
+        "grey",
         "heart",
+        "ily",
+        "love",
         "silver",
-        "slate"
+        "slate",
+        "special"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2261,6 +3157,7 @@ const UnicodeEmojis: {
       "description": "white heart",
       "version": "12.0",
       "keywords": [
+        "143",
         "heart",
         "white"
       ],
@@ -2273,9 +3170,15 @@ const UnicodeEmojis: {
       "description": "kiss mark",
       "version": "0.6",
       "keywords": [
+        "dating",
+        "emotion",
+        "heart",
         "kiss",
-        "kiss mark",
-        "lips"
+        "kissing",
+        "lips",
+        "mark",
+        "romance",
+        "sexy"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2287,10 +3190,21 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "100",
+        "a+",
+        "agree",
+        "clearly",
+        "definitely",
+        "faithful",
+        "fleek",
         "full",
         "hundred",
-        "hundred points",
-        "score"
+        "keep",
+        "perfect",
+        "point",
+        "score",
+        "TRUE",
+        "truth",
+        "yup"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2301,10 +3215,12 @@ const UnicodeEmojis: {
       "description": "anger symbol",
       "version": "0.6",
       "keywords": [
-        "anger symbol",
+        "anger",
         "angry",
         "comic",
-        "mad"
+        "mad",
+        "symbol",
+        "upset"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2315,9 +3231,12 @@ const UnicodeEmojis: {
       "description": "collision",
       "version": "0.6",
       "keywords": [
+        "bomb",
         "boom",
+        "collide",
         "collision",
-        "comic"
+        "comic",
+        "explode"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2330,7 +3249,10 @@ const UnicodeEmojis: {
       "keywords": [
         "comic",
         "dizzy",
-        "star"
+        "shining",
+        "shooting",
+        "star",
+        "stars"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2342,9 +3264,17 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "comic",
+        "drip",
+        "droplet",
+        "droplets",
+        "drops",
         "splashing",
+        "squirt",
         "sweat",
-        "sweat droplets"
+        "water",
+        "wet",
+        "work",
+        "workout"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2355,10 +3285,18 @@ const UnicodeEmojis: {
       "description": "dashing away",
       "version": "0.6",
       "keywords": [
+        "away",
+        "cloud",
         "comic",
         "dash",
-        "dashing away",
-        "running"
+        "dashing",
+        "fart",
+        "fast",
+        "go",
+        "gone",
+        "gotta",
+        "running",
+        "smoke"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2384,7 +3322,12 @@ const UnicodeEmojis: {
         "bubble",
         "comic",
         "dialog",
-        "speech"
+        "message",
+        "sms",
+        "speech",
+        "talk",
+        "text",
+        "typing"
       ],
       "category": "symbols",
       "group": "smileys-emotion",
@@ -2398,7 +3341,6 @@ const UnicodeEmojis: {
         "balloon",
         "bubble",
         "eye",
-        "eye in speech bubble",
         "speech",
         "witness"
       ],
@@ -2414,7 +3356,7 @@ const UnicodeEmojis: {
         "balloon",
         "bubble",
         "dialog",
-        "left speech bubble",
+        "left",
         "speech"
       ],
       "category": "symbols",
@@ -2426,11 +3368,12 @@ const UnicodeEmojis: {
       "description": "right anger bubble",
       "version": "0.7",
       "keywords": [
+        "anger",
         "angry",
         "balloon",
         "bubble",
         "mad",
-        "right anger bubble"
+        "right"
       ],
       "category": "symbols",
       "group": "smileys-emotion",
@@ -2443,8 +3386,19 @@ const UnicodeEmojis: {
       "keywords": [
         "balloon",
         "bubble",
+        "cartoon",
+        "cloud",
         "comic",
-        "thought"
+        "daydream",
+        "decisions",
+        "dream",
+        "idea",
+        "invent",
+        "invention",
+        "realize",
+        "think",
+        "thoughts",
+        "wonder"
       ],
       "category": "symbols",
       "group": "smileys-emotion",
@@ -2456,9 +3410,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "comic",
-        "good night",
+        "good",
+        "goodnight",
+        "night",
         "sleep",
-        "ZZZ"
+        "sleeping",
+        "sleepy",
+        "tired",
+        "zzz"
       ],
       "category": "face-emotion",
       "group": "smileys-emotion",
@@ -2469,9 +3428,22 @@ const UnicodeEmojis: {
       "description": "waving hand",
       "version": "0.6",
       "keywords": [
+        "bye",
+        "cya",
+        "g2g",
+        "greetings",
+        "gtg",
         "hand",
+        "hello",
+        "hey",
+        "hi",
+        "later",
+        "outtie",
+        "ttfn",
+        "ttyl",
         "wave",
-        "waving"
+        "yo",
+        "you"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2509,9 +3481,10 @@ const UnicodeEmojis: {
       "description": "raised back of hand",
       "version": "3.0",
       "keywords": [
+        "back",
         "backhand",
-        "raised",
-        "raised back of hand"
+        "hand",
+        "raised"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2550,9 +3523,11 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "finger",
+        "fingers",
         "hand",
-        "hand with fingers splayed",
-        "splayed"
+        "raised",
+        "splayed",
+        "stop"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2590,10 +3565,12 @@ const UnicodeEmojis: {
       "description": "raised hand",
       "version": "0.6",
       "keywords": [
+        "5",
+        "five",
         "hand",
-        "high 5",
-        "high five",
-        "raised hand"
+        "high",
+        "raised",
+        "stop"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2633,9 +3610,9 @@ const UnicodeEmojis: {
       "keywords": [
         "finger",
         "hand",
-        "spock",
-        "vulcan",
-        "vulcan salute"
+        "hands",
+        "salute",
+        "Vulcan"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2674,9 +3651,13 @@ const UnicodeEmojis: {
       "version": "14.0",
       "keywords": [
         "hand",
+        "handshake",
+        "hold",
+        "reach",
         "right",
         "rightward",
-        "rightwards hand"
+        "rightwards",
+        "shake"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2715,9 +3696,13 @@ const UnicodeEmojis: {
       "version": "14.0",
       "keywords": [
         "hand",
+        "handshake",
+        "hold",
         "left",
         "leftward",
-        "leftwards hand"
+        "leftwards",
+        "reach",
+        "shake"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2756,9 +3741,14 @@ const UnicodeEmojis: {
       "version": "14.0",
       "keywords": [
         "dismiss",
+        "down",
         "drop",
-        "palm down hand",
-        "shoo"
+        "dropped",
+        "hand",
+        "palm",
+        "pick",
+        "shoo",
+        "up"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2799,8 +3789,14 @@ const UnicodeEmojis: {
         "beckon",
         "catch",
         "come",
+        "hand",
+        "hold",
+        "know",
+        "lift",
+        "me",
         "offer",
-        "palm up hand"
+        "palm",
+        "tell"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2838,11 +3834,19 @@ const UnicodeEmojis: {
       "description": "leftwards pushing hand",
       "version": "15.0",
       "keywords": [
-        "high five",
+        "block",
+        "five",
+        "halt",
+        "hand",
+        "high",
+        "hold",
         "leftward",
-        "leftwards pushing hand",
+        "leftwards",
+        "pause",
         "push",
+        "pushing",
         "refuse",
+        "slap",
         "stop",
         "wait"
       ],
@@ -2882,11 +3886,19 @@ const UnicodeEmojis: {
       "description": "rightwards pushing hand",
       "version": "15.0",
       "keywords": [
-        "high five",
+        "block",
+        "five",
+        "halt",
+        "hand",
+        "high",
+        "hold",
+        "pause",
         "push",
+        "pushing",
         "refuse",
         "rightward",
-        "rightwards pushing hand",
+        "rightwards",
+        "slap",
         "stop",
         "wait"
       ],
@@ -2926,8 +3938,22 @@ const UnicodeEmojis: {
       "description": "OK hand",
       "version": "0.6",
       "keywords": [
+        "awesome",
+        "bet",
+        "dope",
+        "fleek",
+        "fosho",
+        "got",
+        "gotcha",
         "hand",
-        "OK"
+        "legit",
+        "OK",
+        "okay",
+        "pinch",
+        "rad",
+        "sure",
+        "sweet",
+        "three"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -2966,10 +3992,18 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "fingers",
-        "hand gesture",
+        "gesture",
+        "hand",
+        "hold",
+        "huh",
         "interrogation",
+        "patience",
         "pinched",
-        "sarcastic"
+        "relax",
+        "sarcastic",
+        "ugh",
+        "what",
+        "zip"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3007,8 +4041,14 @@ const UnicodeEmojis: {
       "description": "pinching hand",
       "version": "12.0",
       "keywords": [
-        "pinching hand",
-        "small amount"
+        "amount",
+        "bit",
+        "fingers",
+        "hand",
+        "little",
+        "pinching",
+        "small",
+        "sort"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3047,6 +4087,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "hand",
+        "peace",
         "v",
         "victory"
       ],
@@ -3087,8 +4128,9 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "cross",
-        "crossed fingers",
+        "crossed",
         "finger",
+        "fingers",
         "hand",
         "luck"
       ],
@@ -3128,12 +4170,17 @@ const UnicodeEmojis: {
       "description": "hand with index finger and thumb crossed",
       "version": "14.0",
       "keywords": [
+        "<3",
+        "crossed",
         "expensive",
-        "hand with index finger and thumb crossed",
+        "finger",
+        "hand",
         "heart",
+        "index",
         "love",
         "money",
-        "snap"
+        "snap",
+        "thumb"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3171,9 +4218,14 @@ const UnicodeEmojis: {
       "description": "love-you gesture",
       "version": "5.0",
       "keywords": [
+        "fingers",
+        "gesture",
         "hand",
         "ILY",
-        "love-you gesture"
+        "love",
+        "love-you",
+        "three",
+        "you"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3215,7 +4267,7 @@ const UnicodeEmojis: {
         "hand",
         "horns",
         "rock-on",
-        "sign of the horns"
+        "sign"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3254,9 +4306,10 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "call",
-        "call me hand",
         "hand",
-        "hang loose",
+        "hang",
+        "loose",
+        "me",
         "Shaka"
       ],
       "category": "face-emotion",
@@ -3296,11 +4349,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "backhand",
-        "backhand index pointing left",
         "finger",
         "hand",
         "index",
-        "point"
+        "left",
+        "point",
+        "pointing"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3339,11 +4393,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "backhand",
-        "backhand index pointing right",
         "finger",
         "hand",
         "index",
-        "point"
+        "point",
+        "pointing",
+        "right"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3382,10 +4437,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "backhand",
-        "backhand index pointing up",
         "finger",
         "hand",
+        "index",
         "point",
+        "pointing",
         "up"
       ],
       "category": "face-emotion",
@@ -3426,7 +4482,7 @@ const UnicodeEmojis: {
       "keywords": [
         "finger",
         "hand",
-        "middle finger"
+        "middle"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3465,11 +4521,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "backhand",
-        "backhand index pointing down",
         "down",
         "finger",
         "hand",
-        "point"
+        "index",
+        "point",
+        "pointing"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3510,8 +4567,9 @@ const UnicodeEmojis: {
         "finger",
         "hand",
         "index",
-        "index pointing up",
         "point",
+        "pointing",
+        "this",
         "up"
       ],
       "category": "face-emotion",
@@ -3550,8 +4608,13 @@ const UnicodeEmojis: {
       "description": "index pointing at the viewer",
       "version": "14.0",
       "keywords": [
-        "index pointing at the viewer",
-        "point",
+        "at",
+        "finger",
+        "hand",
+        "index",
+        "pointing",
+        "poke",
+        "viewer",
         "you"
       ],
       "category": "face-emotion",
@@ -3591,10 +4654,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "+1",
+        "good",
         "hand",
+        "like",
         "thumb",
-        "thumbs up",
-        "up"
+        "up",
+        "yes"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3633,10 +4698,15 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "-1",
+        "bad",
+        "dislike",
         "down",
+        "good",
         "hand",
+        "no",
+        "nope",
         "thumb",
-        "thumbs down"
+        "thumbs"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3678,7 +4748,8 @@ const UnicodeEmojis: {
         "fist",
         "hand",
         "punch",
-        "raised fist"
+        "raised",
+        "solidarity"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3716,11 +4787,22 @@ const UnicodeEmojis: {
       "description": "oncoming fist",
       "version": "0.6",
       "keywords": [
+        "absolutely",
+        "agree",
+        "boom",
+        "bro",
+        "bruh",
+        "bump",
         "clenched",
+        "correct",
         "fist",
         "hand",
-        "oncoming fist",
-        "punch"
+        "knuckle",
+        "oncoming",
+        "pound",
+        "punch",
+        "rock",
+        "ttyl"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3759,7 +4841,7 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "fist",
-        "left-facing fist",
+        "left-facing",
         "leftwards"
       ],
       "category": "face-emotion",
@@ -3799,7 +4881,7 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "fist",
-        "right-facing fist",
+        "right-facing",
         "rightwards"
       ],
       "category": "face-emotion",
@@ -3838,9 +4920,22 @@ const UnicodeEmojis: {
       "description": "clapping hands",
       "version": "0.6",
       "keywords": [
+        "applause",
+        "approval",
+        "awesome",
         "clap",
-        "clapping hands",
-        "hand"
+        "congrats",
+        "congratulations",
+        "excited",
+        "good",
+        "great",
+        "hand",
+        "homie",
+        "job",
+        "nice",
+        "prayed",
+        "well",
+        "yay"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3881,9 +4976,11 @@ const UnicodeEmojis: {
         "celebration",
         "gesture",
         "hand",
+        "hands",
         "hooray",
+        "praise",
         "raised",
-        "raising hands"
+        "raising"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3921,8 +5018,11 @@ const UnicodeEmojis: {
       "description": "heart hands",
       "version": "14.0",
       "keywords": [
-        "heart hands",
-        "love"
+        "<3",
+        "hands",
+        "heart",
+        "love",
+        "you"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -3961,8 +5061,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "hand",
+        "hands",
+        "hug",
+        "jazz",
         "open",
-        "open hands"
+        "swerve"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4000,8 +5103,15 @@ const UnicodeEmojis: {
       "description": "palms up together",
       "version": "5.0",
       "keywords": [
-        "palms up together",
-        "prayer"
+        "cupped",
+        "dua",
+        "hands",
+        "palms",
+        "pray",
+        "prayer",
+        "together",
+        "up",
+        "wish"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4040,6 +5150,7 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "agreement",
+        "deal",
         "hand",
         "handshake",
         "meeting",
@@ -4181,14 +5292,21 @@ const UnicodeEmojis: {
       "description": "folded hands",
       "version": "0.6",
       "keywords": [
+        "appreciate",
         "ask",
-        "folded hands",
+        "beg",
+        "blessed",
+        "bow",
+        "cmon",
+        "five",
+        "folded",
+        "gesture",
         "hand",
-        "high 5",
-        "high five",
+        "high",
         "please",
         "pray",
-        "thanks"
+        "thanks",
+        "thx"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4228,7 +5346,7 @@ const UnicodeEmojis: {
       "keywords": [
         "hand",
         "write",
-        "writing hand"
+        "writing"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4266,11 +5384,15 @@ const UnicodeEmojis: {
       "description": "nail polish",
       "version": "0.6",
       "keywords": [
+        "bored",
         "care",
         "cosmetics",
+        "done",
+        "makeup",
         "manicure",
         "nail",
-        "polish"
+        "polish",
+        "whatever"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4348,11 +5470,22 @@ const UnicodeEmojis: {
       "description": "flexed biceps",
       "version": "0.6",
       "keywords": [
+        "arm",
+        "beast",
+        "bench",
         "biceps",
-        "comic",
+        "bodybuilder",
+        "bro",
+        "curls",
         "flex",
-        "flexed biceps",
-        "muscle"
+        "gains",
+        "gym",
+        "jacked",
+        "muscle",
+        "press",
+        "ripped",
+        "strong",
+        "weightlift"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4391,7 +5524,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
-        "mechanical arm",
+        "arm",
+        "mechanical",
         "prosthetic"
       ],
       "category": "face-emotion",
@@ -4404,7 +5538,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
-        "mechanical leg",
+        "leg",
+        "mechanical",
         "prosthetic"
       ],
       "category": "face-emotion",
@@ -4416,7 +5551,10 @@ const UnicodeEmojis: {
       "description": "leg",
       "version": "11.0",
       "keywords": [
+        "bent",
+        "foot",
         "kick",
+        "knee",
         "leg",
         "limb"
       ],
@@ -4456,6 +5594,8 @@ const UnicodeEmojis: {
       "description": "foot",
       "version": "11.0",
       "keywords": [
+        "ankle",
+        "feet",
         "foot",
         "kick",
         "stomp"
@@ -4497,7 +5637,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "body",
-        "ear"
+        "ear",
+        "ears",
+        "hear",
+        "hearing",
+        "listen",
+        "listening",
+        "sound"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4536,8 +5682,10 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
-        "ear with hearing aid",
-        "hard of hearing"
+        "aid",
+        "ear",
+        "hard",
+        "hearing"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4576,7 +5724,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "body",
-        "nose"
+        "nose",
+        "noses",
+        "nosey",
+        "odor",
+        "smell",
+        "smells"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4615,7 +5768,8 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "brain",
-        "intelligent"
+        "intelligent",
+        "smart"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4627,10 +5781,14 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "anatomical",
+        "beat",
         "cardiology",
         "heart",
+        "heartbeat",
         "organ",
-        "pulse"
+        "pulse",
+        "real",
+        "red"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4642,8 +5800,10 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "breath",
+        "breathe",
         "exhalation",
         "inhalation",
+        "lung",
         "lungs",
         "organ",
         "respiration"
@@ -4658,7 +5818,10 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "dentist",
-        "tooth"
+        "pearly",
+        "teeth",
+        "tooth",
+        "white"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4670,7 +5833,10 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "bone",
-        "skeleton"
+        "bones",
+        "dog",
+        "skeleton",
+        "wishbone"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4681,9 +5847,17 @@ const UnicodeEmojis: {
       "description": "eyes",
       "version": "0.6",
       "keywords": [
+        "body",
         "eye",
         "eyes",
-        "face"
+        "face",
+        "googly",
+        "look",
+        "looking",
+        "omg",
+        "peep",
+        "see",
+        "seeing"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4694,8 +5868,10 @@ const UnicodeEmojis: {
       "description": "eye",
       "version": "0.7",
       "keywords": [
+        "1",
         "body",
-        "eye"
+        "eye",
+        "one"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4707,6 +5883,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "body",
+        "lick",
+        "slurp",
         "tongue"
       ],
       "category": "face-emotion",
@@ -4718,7 +5896,12 @@ const UnicodeEmojis: {
       "description": "mouth",
       "version": "0.6",
       "keywords": [
+        "beauty",
+        "body",
+        "kiss",
+        "kissing",
         "lips",
+        "lipstick",
         "mouth"
       ],
       "category": "face-emotion",
@@ -4731,12 +5914,19 @@ const UnicodeEmojis: {
       "version": "14.0",
       "keywords": [
         "anxious",
-        "biting lip",
+        "bite",
+        "biting",
         "fear",
+        "flirt",
         "flirting",
+        "kiss",
+        "lip",
+        "lipstick",
         "nervous",
+        "sexy",
         "uncomfortable",
-        "worried"
+        "worried",
+        "worry"
       ],
       "category": "face-emotion",
       "group": "people-body",
@@ -4747,7 +5937,13 @@ const UnicodeEmojis: {
       "description": "baby",
       "version": "0.6",
       "keywords": [
+        "babies",
         "baby",
+        "children",
+        "goo",
+        "infant",
+        "newborn",
+        "pregnant",
         "young"
       ],
       "category": "person-people",
@@ -4786,10 +5982,12 @@ const UnicodeEmojis: {
       "description": "child",
       "version": "5.0",
       "keywords": [
+        "bright-eyed",
         "child",
-        "gender-neutral",
-        "unspecified gender",
-        "young"
+        "grandchild",
+        "kid",
+        "young",
+        "younger"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -4828,7 +6026,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "boy",
-        "young"
+        "bright-eyed",
+        "child",
+        "grandson",
+        "kid",
+        "son",
+        "young",
+        "younger"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -4866,9 +6070,15 @@ const UnicodeEmojis: {
       "description": "girl",
       "version": "0.6",
       "keywords": [
+        "bright-eyed",
+        "child",
+        "daughter",
         "girl",
+        "granddaughter",
+        "kid",
         "Virgo",
         "young",
+        "younger",
         "zodiac"
       ],
       "category": "person-people",
@@ -4908,9 +6118,7 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "adult",
-        "gender-neutral",
-        "person",
-        "unspecified gender"
+        "person"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5129,6 +6337,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "adult",
+        "bro",
         "man"
       ],
       "category": "person-people",
@@ -5348,6 +6557,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "adult",
+        "lady",
         "woman"
       ],
       "category": "person-people",
@@ -5585,10 +6795,11 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "adult",
-        "gender-neutral",
+        "elderly",
+        "grandparent",
         "old",
-        "older person",
-        "unspecified gender"
+        "person",
+        "wise"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5627,8 +6838,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "adult",
+        "bald",
+        "elderly",
+        "gramps",
+        "grandfather",
+        "grandpa",
         "man",
-        "old"
+        "old",
+        "wise"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5667,7 +6884,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "adult",
+        "elderly",
+        "grandma",
+        "grandmother",
+        "granny",
+        "lady",
         "old",
+        "wise",
         "woman"
       ],
       "category": "person-people",
@@ -5706,9 +6929,17 @@ const UnicodeEmojis: {
       "description": "person frowning",
       "version": "0.6",
       "keywords": [
+        "annoyed",
+        "disappointed",
+        "disgruntled",
+        "disturbed",
         "frown",
+        "frowning",
+        "frustrated",
         "gesture",
-        "person frowning"
+        "irritated",
+        "person",
+        "upset"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5746,9 +6977,17 @@ const UnicodeEmojis: {
       "description": "man frowning",
       "version": "4.0",
       "keywords": [
+        "annoyed",
+        "disappointed",
+        "disgruntled",
+        "disturbed",
+        "frown",
         "frowning",
+        "frustrated",
         "gesture",
-        "man"
+        "irritated",
+        "man",
+        "upset"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5786,8 +7025,16 @@ const UnicodeEmojis: {
       "description": "woman frowning",
       "version": "4.0",
       "keywords": [
+        "annoyed",
+        "disappointed",
+        "disgruntled",
+        "disturbed",
+        "frown",
         "frowning",
+        "frustrated",
         "gesture",
+        "irritated",
+        "upset",
         "woman"
       ],
       "category": "person-people",
@@ -5826,9 +7073,16 @@ const UnicodeEmojis: {
       "description": "person pouting",
       "version": "0.6",
       "keywords": [
-        "gesture",
-        "person pouting",
-        "pouting"
+        "disappointed",
+        "downtrodden",
+        "frown",
+        "grimace",
+        "person",
+        "pouting",
+        "scowl",
+        "sulk",
+        "upset",
+        "whine"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5866,9 +7120,16 @@ const UnicodeEmojis: {
       "description": "man pouting",
       "version": "4.0",
       "keywords": [
-        "gesture",
+        "disappointed",
+        "downtrodden",
+        "frown",
+        "grimace",
         "man",
-        "pouting"
+        "pouting",
+        "scowl",
+        "sulk",
+        "upset",
+        "whine"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5906,8 +7167,15 @@ const UnicodeEmojis: {
       "description": "woman pouting",
       "version": "4.0",
       "keywords": [
-        "gesture",
+        "disappointed",
+        "downtrodden",
+        "frown",
+        "grimace",
         "pouting",
+        "scowl",
+        "sulk",
+        "upset",
+        "whine",
         "woman"
       ],
       "category": "person-people",
@@ -5949,8 +7217,10 @@ const UnicodeEmojis: {
         "forbidden",
         "gesture",
         "hand",
-        "person gesturing NO",
-        "prohibited"
+        "NO",
+        "not",
+        "person",
+        "prohibit"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -5992,8 +7262,9 @@ const UnicodeEmojis: {
         "gesture",
         "hand",
         "man",
-        "man gesturing NO",
-        "prohibited"
+        "NO",
+        "not",
+        "prohibit"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6034,9 +7305,10 @@ const UnicodeEmojis: {
         "forbidden",
         "gesture",
         "hand",
-        "prohibited",
-        "woman",
-        "woman gesturing NO"
+        "NO",
+        "not",
+        "prohibit",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6074,10 +7346,13 @@ const UnicodeEmojis: {
       "description": "person gesturing OK",
       "version": "0.6",
       "keywords": [
+        "exercise",
         "gesture",
+        "gesturing",
         "hand",
         "OK",
-        "person gesturing OK"
+        "omg",
+        "person"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6115,11 +7390,13 @@ const UnicodeEmojis: {
       "description": "man gesturing OK",
       "version": "4.0",
       "keywords": [
+        "exercise",
         "gesture",
+        "gesturing",
         "hand",
         "man",
-        "man gesturing OK",
-        "OK"
+        "OK",
+        "omg"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6157,11 +7434,13 @@ const UnicodeEmojis: {
       "description": "woman gesturing OK",
       "version": "4.0",
       "keywords": [
+        "exercise",
         "gesture",
+        "gesturing",
         "hand",
         "OK",
-        "woman",
-        "woman gesturing OK"
+        "omg",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6199,12 +7478,18 @@ const UnicodeEmojis: {
       "description": "person tipping hand",
       "version": "0.6",
       "keywords": [
+        "fetch",
+        "flick",
+        "flip",
+        "gossip",
         "hand",
-        "help",
-        "information",
-        "person tipping hand",
+        "person",
+        "sarcasm",
+        "sarcastic",
         "sassy",
-        "tipping"
+        "seriously",
+        "tipping",
+        "whatever"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6242,10 +7527,18 @@ const UnicodeEmojis: {
       "description": "man tipping hand",
       "version": "4.0",
       "keywords": [
+        "fetch",
+        "flick",
+        "flip",
+        "gossip",
+        "hand",
         "man",
-        "man tipping hand",
+        "sarcasm",
+        "sarcastic",
         "sassy",
-        "tipping hand"
+        "seriously",
+        "tipping",
+        "whatever"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6283,10 +7576,18 @@ const UnicodeEmojis: {
       "description": "woman tipping hand",
       "version": "4.0",
       "keywords": [
+        "fetch",
+        "flick",
+        "flip",
+        "gossip",
+        "hand",
+        "sarcasm",
+        "sarcastic",
         "sassy",
-        "tipping hand",
-        "woman",
-        "woman tipping hand"
+        "seriously",
+        "tipping",
+        "whatever",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6326,9 +7627,14 @@ const UnicodeEmojis: {
       "keywords": [
         "gesture",
         "hand",
-        "happy",
-        "person raising hand",
-        "raised"
+        "here",
+        "know",
+        "me",
+        "person",
+        "pick",
+        "question",
+        "raise",
+        "raising"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6367,9 +7673,15 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "gesture",
+        "hand",
+        "here",
+        "know",
         "man",
-        "man raising hand",
-        "raising hand"
+        "me",
+        "pick",
+        "question",
+        "raise",
+        "raising"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6408,9 +7720,15 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "gesture",
-        "raising hand",
-        "woman",
-        "woman raising hand"
+        "hand",
+        "here",
+        "know",
+        "me",
+        "pick",
+        "question",
+        "raise",
+        "raising",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6450,9 +7768,10 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "deaf",
-        "deaf person",
         "ear",
-        "hear"
+        "gesture",
+        "hear",
+        "person"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6490,7 +7809,11 @@ const UnicodeEmojis: {
       "description": "deaf man",
       "version": "12.0",
       "keywords": [
+        "accessibility",
         "deaf",
+        "ear",
+        "gesture",
+        "hear",
         "man"
       ],
       "category": "person-people",
@@ -6529,7 +7852,11 @@ const UnicodeEmojis: {
       "description": "deaf woman",
       "version": "12.0",
       "keywords": [
+        "accessibility",
         "deaf",
+        "ear",
+        "gesture",
+        "hear",
         "woman"
       ],
       "category": "person-people",
@@ -6569,9 +7896,18 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "apology",
+        "ask",
+        "beg",
         "bow",
+        "bowing",
+        "favor",
+        "forgive",
         "gesture",
-        "person bowing",
+        "meditate",
+        "meditation",
+        "person",
+        "pity",
+        "regret",
         "sorry"
       ],
       "category": "person-people",
@@ -6611,10 +7947,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "apology",
+        "ask",
+        "beg",
+        "bow",
         "bowing",
         "favor",
+        "forgive",
         "gesture",
         "man",
+        "meditate",
+        "meditation",
+        "pity",
+        "regret",
         "sorry"
       ],
       "category": "person-people",
@@ -6654,9 +7998,17 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "apology",
+        "ask",
+        "beg",
+        "bow",
         "bowing",
         "favor",
+        "forgive",
         "gesture",
+        "meditate",
+        "meditation",
+        "pity",
+        "regret",
         "sorry",
         "woman"
       ],
@@ -6696,11 +8048,18 @@ const UnicodeEmojis: {
       "description": "person facepalming",
       "version": "3.0",
       "keywords": [
+        "again",
+        "bewilder",
         "disbelief",
         "exasperation",
-        "face",
-        "palm",
-        "person facepalming"
+        "facepalm",
+        "no",
+        "not",
+        "oh",
+        "omg",
+        "person",
+        "shock",
+        "smh"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6738,11 +8097,18 @@ const UnicodeEmojis: {
       "description": "man facepalming",
       "version": "4.0",
       "keywords": [
+        "again",
+        "bewilder",
         "disbelief",
         "exasperation",
         "facepalm",
         "man",
-        "man facepalming"
+        "no",
+        "not",
+        "oh",
+        "omg",
+        "shock",
+        "smh"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6780,11 +8146,18 @@ const UnicodeEmojis: {
       "description": "woman facepalming",
       "version": "4.0",
       "keywords": [
+        "again",
+        "bewilder",
         "disbelief",
         "exasperation",
         "facepalm",
-        "woman",
-        "woman facepalming"
+        "no",
+        "not",
+        "oh",
+        "omg",
+        "shock",
+        "smh",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6823,10 +8196,18 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "doubt",
+        "dunno",
+        "guess",
+        "idk",
         "ignorance",
         "indifference",
-        "person shrugging",
-        "shrug"
+        "knows",
+        "maybe",
+        "person",
+        "shrug",
+        "shrugging",
+        "whatever",
+        "who"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6865,11 +8246,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "doubt",
+        "dunno",
+        "guess",
+        "idk",
         "ignorance",
         "indifference",
+        "knows",
         "man",
-        "man shrugging",
-        "shrug"
+        "maybe",
+        "shrug",
+        "shrugging",
+        "whatever",
+        "who"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6908,11 +8296,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "doubt",
+        "dunno",
+        "guess",
+        "idk",
         "ignorance",
         "indifference",
+        "knows",
+        "maybe",
         "shrug",
-        "woman",
-        "woman shrugging"
+        "shrugging",
+        "whatever",
+        "who",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6951,10 +8346,11 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "doctor",
-        "health worker",
+        "health",
         "healthcare",
         "nurse",
-        "therapist"
+        "therapist",
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -6993,11 +8389,12 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "doctor",
+        "health",
         "healthcare",
         "man",
-        "man health worker",
         "nurse",
-        "therapist"
+        "therapist",
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -7036,11 +8433,12 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "doctor",
+        "health",
         "healthcare",
         "nurse",
         "therapist",
         "woman",
-        "woman health worker"
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -7198,6 +8596,7 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "instructor",
+        "lecturer",
         "professor",
         "teacher"
       ],
@@ -7238,6 +8637,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "instructor",
+        "lecturer",
         "man",
         "professor",
         "teacher"
@@ -7279,6 +8679,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "instructor",
+        "lecturer",
         "professor",
         "teacher",
         "woman"
@@ -7321,6 +8722,7 @@ const UnicodeEmojis: {
       "keywords": [
         "judge",
         "justice",
+        "law",
         "scales"
       ],
       "category": "person-people",
@@ -7361,6 +8763,7 @@ const UnicodeEmojis: {
       "keywords": [
         "judge",
         "justice",
+        "law",
         "man",
         "scales"
       ],
@@ -7402,6 +8805,7 @@ const UnicodeEmojis: {
       "keywords": [
         "judge",
         "justice",
+        "law",
         "scales",
         "woman"
       ],
@@ -7935,8 +9339,9 @@ const UnicodeEmojis: {
         "architect",
         "business",
         "manager",
-        "office worker",
-        "white-collar"
+        "office",
+        "white-collar",
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -7977,9 +9382,10 @@ const UnicodeEmojis: {
         "architect",
         "business",
         "man",
-        "man office worker",
         "manager",
-        "white-collar"
+        "office",
+        "white-collar",
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -8020,9 +9426,10 @@ const UnicodeEmojis: {
         "architect",
         "business",
         "manager",
+        "office",
         "white-collar",
         "woman",
-        "woman office worker"
+        "worker"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -8063,6 +9470,7 @@ const UnicodeEmojis: {
         "biologist",
         "chemist",
         "engineer",
+        "mathematician",
         "physicist",
         "scientist"
       ],
@@ -8106,6 +9514,7 @@ const UnicodeEmojis: {
         "chemist",
         "engineer",
         "man",
+        "mathematician",
         "physicist",
         "scientist"
       ],
@@ -8148,6 +9557,7 @@ const UnicodeEmojis: {
         "biologist",
         "chemist",
         "engineer",
+        "mathematician",
         "physicist",
         "scientist",
         "woman"
@@ -8189,6 +9599,7 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "coder",
+        "computer",
         "developer",
         "inventor",
         "software",
@@ -8231,6 +9642,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "coder",
+        "computer",
         "developer",
         "inventor",
         "man",
@@ -8274,6 +9686,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "coder",
+        "computer",
         "developer",
         "inventor",
         "software",
@@ -8319,6 +9732,7 @@ const UnicodeEmojis: {
         "actor",
         "entertainer",
         "rock",
+        "rockstar",
         "singer",
         "star"
       ],
@@ -8362,6 +9776,7 @@ const UnicodeEmojis: {
         "entertainer",
         "man",
         "rock",
+        "rockstar",
         "singer",
         "star"
       ],
@@ -8404,6 +9819,7 @@ const UnicodeEmojis: {
         "actor",
         "entertainer",
         "rock",
+        "rockstar",
         "singer",
         "star",
         "woman"
@@ -8683,7 +10099,8 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "astronaut",
-        "rocket"
+        "rocket",
+        "space"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -8723,7 +10140,8 @@ const UnicodeEmojis: {
       "keywords": [
         "astronaut",
         "man",
-        "rocket"
+        "rocket",
+        "space"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -8763,6 +10181,7 @@ const UnicodeEmojis: {
       "keywords": [
         "astronaut",
         "rocket",
+        "space",
         "woman"
       ],
       "category": "person-people",
@@ -8801,6 +10220,7 @@ const UnicodeEmojis: {
       "description": "firefighter",
       "version": "12.1",
       "keywords": [
+        "fire",
         "firefighter",
         "firetruck"
       ],
@@ -8840,6 +10260,7 @@ const UnicodeEmojis: {
       "description": "man firefighter",
       "version": "4.0",
       "keywords": [
+        "fire",
         "firefighter",
         "firetruck",
         "man"
@@ -8880,6 +10301,7 @@ const UnicodeEmojis: {
       "description": "woman firefighter",
       "version": "4.0",
       "keywords": [
+        "fire",
         "firefighter",
         "firetruck",
         "woman"
@@ -8920,9 +10342,16 @@ const UnicodeEmojis: {
       "description": "police officer",
       "version": "0.6",
       "keywords": [
+        "apprehend",
+        "arrest",
+        "citation",
         "cop",
+        "law",
         "officer",
-        "police"
+        "over",
+        "police",
+        "pulled",
+        "undercover"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -8960,10 +10389,17 @@ const UnicodeEmojis: {
       "description": "man police officer",
       "version": "4.0",
       "keywords": [
+        "apprehend",
+        "arrest",
+        "citation",
         "cop",
+        "law",
         "man",
         "officer",
-        "police"
+        "over",
+        "police",
+        "pulled",
+        "undercover"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9001,9 +10437,16 @@ const UnicodeEmojis: {
       "description": "woman police officer",
       "version": "4.0",
       "keywords": [
+        "apprehend",
+        "arrest",
+        "citation",
         "cop",
+        "law",
         "officer",
+        "over",
         "police",
+        "pulled",
+        "undercover",
         "woman"
       ],
       "category": "person-people",
@@ -9164,7 +10607,11 @@ const UnicodeEmojis: {
       "description": "guard",
       "version": "0.6",
       "keywords": [
-        "guard"
+        "buckingham",
+        "guard",
+        "helmet",
+        "london",
+        "palace"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9202,8 +10649,12 @@ const UnicodeEmojis: {
       "description": "man guard",
       "version": "4.0",
       "keywords": [
+        "buckingham",
         "guard",
-        "man"
+        "helmet",
+        "london",
+        "man",
+        "palace"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9241,7 +10692,11 @@ const UnicodeEmojis: {
       "description": "woman guard",
       "version": "4.0",
       "keywords": [
+        "buckingham",
         "guard",
+        "helmet",
+        "london",
+        "palace",
         "woman"
       ],
       "category": "person-people",
@@ -9280,10 +10735,18 @@ const UnicodeEmojis: {
       "description": "ninja",
       "version": "13.0",
       "keywords": [
+        "assassin",
+        "fight",
         "fighter",
         "hidden",
         "ninja",
-        "stealth"
+        "person",
+        "secret",
+        "skills",
+        "sly",
+        "soldier",
+        "stealth",
+        "war"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9321,8 +10784,17 @@ const UnicodeEmojis: {
       "description": "construction worker",
       "version": "0.6",
       "keywords": [
+        "build",
         "construction",
+        "fix",
+        "hardhat",
         "hat",
+        "man",
+        "person",
+        "rebuild",
+        "remodel",
+        "repair",
+        "work",
         "worker"
       ],
       "category": "person-people",
@@ -9361,8 +10833,16 @@ const UnicodeEmojis: {
       "description": "man construction worker",
       "version": "4.0",
       "keywords": [
+        "build",
         "construction",
+        "fix",
+        "hardhat",
+        "hat",
         "man",
+        "rebuild",
+        "remodel",
+        "repair",
+        "work",
         "worker"
       ],
       "category": "person-people",
@@ -9401,8 +10881,17 @@ const UnicodeEmojis: {
       "description": "woman construction worker",
       "version": "4.0",
       "keywords": [
+        "build",
         "construction",
+        "fix",
+        "hardhat",
+        "hat",
+        "man",
+        "rebuild",
+        "remodel",
+        "repair",
         "woman",
+        "work",
         "worker"
       ],
       "category": "person-people",
@@ -9441,10 +10930,12 @@ const UnicodeEmojis: {
       "description": "person with crown",
       "version": "14.0",
       "keywords": [
+        "crown",
         "monarch",
         "noble",
-        "person with crown",
+        "person",
         "regal",
+        "royal",
         "royalty"
       ],
       "category": "person-people",
@@ -9483,7 +10974,15 @@ const UnicodeEmojis: {
       "description": "prince",
       "version": "3.0",
       "keywords": [
-        "prince"
+        "crown",
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "king",
+        "prince",
+        "royal",
+        "royalty",
+        "tale"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9521,9 +11020,15 @@ const UnicodeEmojis: {
       "description": "princess",
       "version": "0.6",
       "keywords": [
-        "fairy tale",
+        "crown",
+        "fairy",
+        "fairytale",
         "fantasy",
-        "princess"
+        "princess",
+        "queen",
+        "royal",
+        "royalty",
+        "tale"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9561,8 +11066,9 @@ const UnicodeEmojis: {
       "description": "person wearing turban",
       "version": "0.6",
       "keywords": [
-        "person wearing turban",
-        "turban"
+        "person",
+        "turban",
+        "wearing"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9601,8 +11107,8 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "man",
-        "man wearing turban",
-        "turban"
+        "turban",
+        "wearing"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9641,8 +11147,8 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "turban",
-        "woman",
-        "woman wearing turban"
+        "wearing",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9681,10 +11187,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cap",
-        "gua pi mao",
+        "Chinese",
+        "gua",
+        "guapi",
         "hat",
+        "mao",
         "person",
-        "person with skullcap",
+        "pi",
         "skullcap"
       ],
       "category": "person-people",
@@ -9723,11 +11232,14 @@ const UnicodeEmojis: {
       "description": "woman with headscarf",
       "version": "5.0",
       "keywords": [
+        "bandana",
+        "head",
         "headscarf",
         "hijab",
+        "kerchief",
         "mantilla",
         "tichel",
-        "woman with headscarf"
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9765,10 +11277,10 @@ const UnicodeEmojis: {
       "description": "person in tuxedo",
       "version": "3.0",
       "keywords": [
-        "groom",
+        "formal",
         "person",
-        "person in tuxedo",
-        "tuxedo"
+        "tuxedo",
+        "wedding"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9806,9 +11318,11 @@ const UnicodeEmojis: {
       "description": "man in tuxedo",
       "version": "13.0",
       "keywords": [
+        "formal",
+        "groom",
         "man",
-        "man in tuxedo",
-        "tuxedo"
+        "tuxedo",
+        "wedding"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9846,9 +11360,10 @@ const UnicodeEmojis: {
       "description": "woman in tuxedo",
       "version": "13.0",
       "keywords": [
+        "formal",
         "tuxedo",
-        "woman",
-        "woman in tuxedo"
+        "wedding",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9886,9 +11401,7 @@ const UnicodeEmojis: {
       "description": "person with veil",
       "version": "0.6",
       "keywords": [
-        "bride",
         "person",
-        "person with veil",
         "veil",
         "wedding"
       ],
@@ -9929,8 +11442,8 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "man",
-        "man with veil",
-        "veil"
+        "veil",
+        "wedding"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -9968,9 +11481,10 @@ const UnicodeEmojis: {
       "description": "woman with veil",
       "version": "13.0",
       "keywords": [
+        "bride",
         "veil",
-        "woman",
-        "woman with veil"
+        "wedding",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10050,8 +11564,9 @@ const UnicodeEmojis: {
         "belly",
         "bloated",
         "full",
-        "pregnant",
-        "pregnant man"
+        "man",
+        "overeat",
+        "pregnant"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10092,8 +11607,10 @@ const UnicodeEmojis: {
         "belly",
         "bloated",
         "full",
+        "overeat",
+        "person",
         "pregnant",
-        "pregnant person"
+        "stuffed"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10134,7 +11651,11 @@ const UnicodeEmojis: {
         "baby",
         "breast",
         "breast-feeding",
-        "nursing"
+        "feeding",
+        "mom",
+        "mother",
+        "nursing",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10173,7 +11694,12 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "baby",
+        "feed",
         "feeding",
+        "mom",
+        "mother",
+        "nanny",
+        "newborn",
         "nursing",
         "woman"
       ],
@@ -10214,8 +11740,13 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "baby",
+        "dad",
+        "father",
+        "feed",
         "feeding",
         "man",
+        "nanny",
+        "newborn",
         "nursing"
       ],
       "category": "person-people",
@@ -10255,9 +11786,12 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "baby",
+        "feed",
         "feeding",
+        "nanny",
+        "newborn",
         "nursing",
-        "person"
+        "parent"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10297,9 +11831,12 @@ const UnicodeEmojis: {
       "keywords": [
         "angel",
         "baby",
+        "church",
         "face",
-        "fairy tale",
-        "fantasy"
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "tale"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10340,9 +11877,14 @@ const UnicodeEmojis: {
         "celebration",
         "Christmas",
         "claus",
+        "fairy",
+        "fantasy",
         "father",
+        "holiday",
+        "merry",
         "santa",
-        "Santa Claus"
+        "tale",
+        "xmas"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10383,9 +11925,15 @@ const UnicodeEmojis: {
         "celebration",
         "Christmas",
         "claus",
+        "fairy",
+        "fantasy",
+        "holiday",
+        "merry",
         "mother",
-        "Mrs.",
-        "Mrs. Claus"
+        "Mrs",
+        "santa",
+        "tale",
+        "xmas"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10420,12 +11968,20 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🧑‍🎄",
-      "description": "mx claus",
+      "description": "Mx Claus",
       "version": "13.0",
       "keywords": [
-        "Claus",
-        "christmas",
-        "mx claus"
+        "celebration",
+        "Christmas",
+        "claus",
+        "fairy",
+        "fantasy",
+        "holiday",
+        "merry",
+        "Mx",
+        "santa",
+        "tale",
+        "xmas"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10433,27 +11989,27 @@ const UnicodeEmojis: {
       "variations": [
         {
           "emoji": "🧑🏻‍🎄",
-          "description": "mx claus: light skin tone",
+          "description": "Mx Claus: light skin tone",
           "version": "13.0"
         },
         {
           "emoji": "🧑🏼‍🎄",
-          "description": "mx claus: medium-light skin tone",
+          "description": "Mx Claus: medium-light skin tone",
           "version": "13.0"
         },
         {
           "emoji": "🧑🏽‍🎄",
-          "description": "mx claus: medium skin tone",
+          "description": "Mx Claus: medium skin tone",
           "version": "13.0"
         },
         {
           "emoji": "🧑🏾‍🎄",
-          "description": "mx claus: medium-dark skin tone",
+          "description": "Mx Claus: medium-dark skin tone",
           "version": "13.0"
         },
         {
           "emoji": "🧑🏿‍🎄",
-          "description": "mx claus: dark skin tone",
+          "description": "Mx Claus: dark skin tone",
           "version": "13.0"
         }
       ]
@@ -10465,7 +12021,6 @@ const UnicodeEmojis: {
       "keywords": [
         "good",
         "hero",
-        "heroine",
         "superhero",
         "superpower"
       ],
@@ -10508,7 +12063,7 @@ const UnicodeEmojis: {
         "good",
         "hero",
         "man",
-        "man superhero",
+        "superhero",
         "superpower"
       ],
       "category": "person-people",
@@ -10550,9 +12105,9 @@ const UnicodeEmojis: {
         "good",
         "hero",
         "heroine",
+        "superhero",
         "superpower",
-        "woman",
-        "woman superhero"
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10590,6 +12145,7 @@ const UnicodeEmojis: {
       "description": "supervillain",
       "version": "11.0",
       "keywords": [
+        "bad",
         "criminal",
         "evil",
         "superpower",
@@ -10632,11 +12188,12 @@ const UnicodeEmojis: {
       "description": "man supervillain",
       "version": "11.0",
       "keywords": [
+        "bad",
         "criminal",
         "evil",
         "man",
-        "man supervillain",
         "superpower",
+        "supervillain",
         "villain"
       ],
       "category": "person-people",
@@ -10675,12 +12232,13 @@ const UnicodeEmojis: {
       "description": "woman supervillain",
       "version": "11.0",
       "keywords": [
+        "bad",
         "criminal",
         "evil",
         "superpower",
+        "supervillain",
         "villain",
-        "woman",
-        "woman supervillain"
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10718,9 +12276,15 @@ const UnicodeEmojis: {
       "description": "mage",
       "version": "5.0",
       "keywords": [
+        "fantasy",
         "mage",
+        "magic",
+        "play",
         "sorcerer",
         "sorceress",
+        "sorcery",
+        "spell",
+        "summon",
         "witch",
         "wizard"
       ],
@@ -10760,8 +12324,17 @@ const UnicodeEmojis: {
       "description": "man mage",
       "version": "5.0",
       "keywords": [
-        "man mage",
+        "fantasy",
+        "mage",
+        "magic",
+        "man",
+        "play",
         "sorcerer",
+        "sorceress",
+        "sorcery",
+        "spell",
+        "summon",
+        "witch",
         "wizard"
       ],
       "category": "person-people",
@@ -10800,9 +12373,18 @@ const UnicodeEmojis: {
       "description": "woman mage",
       "version": "5.0",
       "keywords": [
+        "fantasy",
+        "mage",
+        "magic",
+        "play",
+        "sorcerer",
         "sorceress",
+        "sorcery",
+        "spell",
+        "summon",
         "witch",
-        "woman mage"
+        "wizard",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10841,9 +12423,13 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "fairy",
-        "Oberon",
-        "Puck",
-        "Titania"
+        "fairytale",
+        "fantasy",
+        "myth",
+        "person",
+        "pixie",
+        "tale",
+        "wings"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10881,9 +12467,17 @@ const UnicodeEmojis: {
       "description": "man fairy",
       "version": "5.0",
       "keywords": [
-        "man fairy",
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "man",
+        "myth",
         "Oberon",
-        "Puck"
+        "person",
+        "pixie",
+        "Puck",
+        "tale",
+        "wings"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10921,8 +12515,16 @@ const UnicodeEmojis: {
       "description": "woman fairy",
       "version": "5.0",
       "keywords": [
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "myth",
+        "person",
+        "pixie",
+        "tale",
         "Titania",
-        "woman fairy"
+        "wings",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -10960,7 +12562,13 @@ const UnicodeEmojis: {
       "description": "vampire",
       "version": "5.0",
       "keywords": [
+        "blood",
         "Dracula",
+        "fangs",
+        "halloween",
+        "scary",
+        "supernatural",
+        "teeth",
         "undead",
         "vampire"
       ],
@@ -11000,9 +12608,15 @@ const UnicodeEmojis: {
       "description": "man vampire",
       "version": "5.0",
       "keywords": [
-        "Dracula",
-        "man vampire",
-        "undead"
+        "blood",
+        "fangs",
+        "halloween",
+        "man",
+        "scary",
+        "supernatural",
+        "teeth",
+        "undead",
+        "vampire"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11040,8 +12654,15 @@ const UnicodeEmojis: {
       "description": "woman vampire",
       "version": "5.0",
       "keywords": [
+        "blood",
+        "fangs",
+        "halloween",
+        "scary",
+        "supernatural",
+        "teeth",
         "undead",
-        "woman vampire"
+        "vampire",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11079,10 +12700,14 @@ const UnicodeEmojis: {
       "description": "merperson",
       "version": "5.0",
       "keywords": [
-        "mermaid",
-        "merman",
+        "creature",
+        "fairytale",
+        "folklore",
         "merperson",
-        "merwoman"
+        "ocean",
+        "sea",
+        "siren",
+        "trident"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11120,7 +12745,16 @@ const UnicodeEmojis: {
       "description": "merman",
       "version": "5.0",
       "keywords": [
+        "creature",
+        "fairytale",
+        "folklore",
         "merman",
+        "Neptune",
+        "ocean",
+        "Poseidon",
+        "sea",
+        "siren",
+        "trident",
         "Triton"
       ],
       "category": "person-people",
@@ -11159,8 +12793,15 @@ const UnicodeEmojis: {
       "description": "mermaid",
       "version": "5.0",
       "keywords": [
+        "creature",
+        "fairytale",
+        "folklore",
         "mermaid",
-        "merwoman"
+        "merwoman",
+        "ocean",
+        "sea",
+        "siren",
+        "trident"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11199,7 +12840,13 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "elf",
-        "magical"
+        "elves",
+        "enchantment",
+        "fantasy",
+        "folklore",
+        "magic",
+        "magical",
+        "myth"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11237,8 +12884,15 @@ const UnicodeEmojis: {
       "description": "man elf",
       "version": "5.0",
       "keywords": [
+        "elf",
+        "elves",
+        "enchantment",
+        "fantasy",
+        "folklore",
+        "magic",
         "magical",
-        "man elf"
+        "man",
+        "myth"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11276,8 +12930,15 @@ const UnicodeEmojis: {
       "description": "woman elf",
       "version": "5.0",
       "keywords": [
+        "elf",
+        "elves",
+        "enchantment",
+        "fantasy",
+        "folklore",
+        "magic",
         "magical",
-        "woman elf"
+        "myth",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11316,7 +12977,13 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "djinn",
-        "genie"
+        "fantasy",
+        "genie",
+        "jinn",
+        "lamp",
+        "myth",
+        "rub",
+        "wishes"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11328,7 +12995,14 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "djinn",
-        "man genie"
+        "fantasy",
+        "genie",
+        "jinn",
+        "lamp",
+        "man",
+        "myth",
+        "rub",
+        "wishes"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11340,7 +13014,14 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "djinn",
-        "woman genie"
+        "fantasy",
+        "genie",
+        "jinn",
+        "lamp",
+        "myth",
+        "rub",
+        "wishes",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11351,8 +13032,13 @@ const UnicodeEmojis: {
       "description": "zombie",
       "version": "5.0",
       "keywords": [
+        "apocalypse",
+        "dead",
+        "halloween",
+        "horror",
+        "scary",
         "undead",
-        "walking dead",
+        "walking",
         "zombie"
       ],
       "category": "person-people",
@@ -11364,9 +13050,15 @@ const UnicodeEmojis: {
       "description": "man zombie",
       "version": "5.0",
       "keywords": [
-        "man zombie",
+        "apocalypse",
+        "dead",
+        "halloween",
+        "horror",
+        "man",
+        "scary",
         "undead",
-        "walking dead"
+        "walking",
+        "zombie"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11377,9 +13069,15 @@ const UnicodeEmojis: {
       "description": "woman zombie",
       "version": "5.0",
       "keywords": [
+        "apocalypse",
+        "dead",
+        "halloween",
+        "horror",
+        "scary",
         "undead",
-        "walking dead",
-        "woman zombie"
+        "walking",
+        "woman",
+        "zombie"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11390,10 +13088,12 @@ const UnicodeEmojis: {
       "description": "troll",
       "version": "14.0",
       "keywords": [
-        "fairy tale",
+        "fairy",
         "fantasy",
         "monster",
-        "troll"
+        "tale",
+        "troll",
+        "trolling"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11405,9 +13105,18 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "face",
+        "getting",
+        "headache",
         "massage",
-        "person getting massage",
-        "salon"
+        "person",
+        "relax",
+        "relaxing",
+        "salon",
+        "soothe",
+        "spa",
+        "tension",
+        "therapy",
+        "treatment"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11446,9 +13155,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "face",
+        "getting",
+        "headache",
         "man",
-        "man getting massage",
-        "massage"
+        "massage",
+        "relax",
+        "relaxing",
+        "salon",
+        "soothe",
+        "spa",
+        "tension",
+        "therapy",
+        "treatment"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11487,9 +13205,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "face",
+        "getting",
+        "headache",
         "massage",
-        "woman",
-        "woman getting massage"
+        "relax",
+        "relaxing",
+        "salon",
+        "soothe",
+        "spa",
+        "tension",
+        "therapy",
+        "treatment",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11529,9 +13256,16 @@ const UnicodeEmojis: {
       "keywords": [
         "barber",
         "beauty",
+        "chop",
+        "cosmetology",
+        "cut",
+        "groom",
+        "hair",
         "haircut",
         "parlor",
-        "person getting haircut"
+        "person",
+        "shears",
+        "style"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11569,9 +13303,19 @@ const UnicodeEmojis: {
       "description": "man getting haircut",
       "version": "4.0",
       "keywords": [
+        "barber",
+        "beauty",
+        "chop",
+        "cosmetology",
+        "cut",
+        "groom",
+        "hair",
         "haircut",
         "man",
-        "man getting haircut"
+        "parlor",
+        "person",
+        "shears",
+        "style"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11609,9 +13353,19 @@ const UnicodeEmojis: {
       "description": "woman getting haircut",
       "version": "4.0",
       "keywords": [
+        "barber",
+        "beauty",
+        "chop",
+        "cosmetology",
+        "cut",
+        "groom",
+        "hair",
         "haircut",
-        "woman",
-        "woman getting haircut"
+        "parlor",
+        "person",
+        "shears",
+        "style",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11649,8 +13403,15 @@ const UnicodeEmojis: {
       "description": "person walking",
       "version": "0.6",
       "keywords": [
+        "amble",
+        "gait",
         "hike",
-        "person walking",
+        "man",
+        "pace",
+        "pedestrian",
+        "person",
+        "stride",
+        "stroll",
         "walk",
         "walking"
       ],
@@ -11690,10 +13451,16 @@ const UnicodeEmojis: {
       "description": "man walking",
       "version": "4.0",
       "keywords": [
+        "amble",
+        "gait",
         "hike",
         "man",
-        "man walking",
-        "walk"
+        "pace",
+        "pedestrian",
+        "stride",
+        "stroll",
+        "walk",
+        "walking"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11731,10 +13498,17 @@ const UnicodeEmojis: {
       "description": "woman walking",
       "version": "4.0",
       "keywords": [
+        "amble",
+        "gait",
         "hike",
+        "man",
+        "pace",
+        "pedestrian",
+        "stride",
+        "stroll",
         "walk",
-        "woman",
-        "woman walking"
+        "walking",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -11769,108 +13543,143 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🚶‍➡️",
-      "description": null,
+      "description": "person walking facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "amble",
+        "gait",
+        "hike",
+        "man",
+        "pace",
+        "pedestrian",
+        "person",
+        "stride",
+        "stroll",
+        "walk",
+        "walking"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🚶🏻‍➡️",
-          "description": null,
+          "description": "person walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏼‍➡️",
-          "description": null,
+          "description": "person walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏽‍➡️",
-          "description": null,
+          "description": "person walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏾‍➡️",
-          "description": null,
+          "description": "person walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏿‍➡️",
-          "description": null,
+          "description": "person walking facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🚶‍♀️‍➡️",
-      "description": null,
+      "description": "woman walking facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "amble",
+        "gait",
+        "hike",
+        "man",
+        "pace",
+        "pedestrian",
+        "stride",
+        "stroll",
+        "walk",
+        "walking",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🚶🏻‍♀️‍➡️",
-          "description": null,
+          "description": "woman walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏼‍♀️‍➡️",
-          "description": null,
+          "description": "woman walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏽‍♀️‍➡️",
-          "description": null,
+          "description": "woman walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏾‍♀️‍➡️",
-          "description": null,
+          "description": "woman walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏿‍♀️‍➡️",
-          "description": null,
+          "description": "woman walking facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🚶‍♂️‍➡️",
-      "description": null,
+      "description": "man walking facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "amble",
+        "gait",
+        "hike",
+        "man",
+        "pace",
+        "pedestrian",
+        "stride",
+        "stroll",
+        "walk",
+        "walking"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🚶🏻‍♂️‍➡️",
-          "description": null,
+          "description": "man walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏼‍♂️‍➡️",
-          "description": null,
+          "description": "man walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏽‍♂️‍➡️",
-          "description": null,
+          "description": "man walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏾‍♂️‍➡️",
-          "description": null,
+          "description": "man walking facing right",
           "version": "15.1"
         },
         {
           "emoji": "🚶🏿‍♂️‍➡️",
-          "description": null,
+          "description": "man walking facing right",
           "version": "15.1"
         }
       ]
@@ -11880,7 +13689,7 @@ const UnicodeEmojis: {
       "description": "person standing",
       "version": "12.0",
       "keywords": [
-        "person standing",
+        "person",
         "stand",
         "standing"
       ],
@@ -11921,6 +13730,7 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "man",
+        "stand",
         "standing"
       ],
       "category": "person-people",
@@ -11959,6 +13769,7 @@ const UnicodeEmojis: {
       "description": "woman standing",
       "version": "12.0",
       "keywords": [
+        "stand",
         "standing",
         "woman"
       ],
@@ -12000,7 +13811,8 @@ const UnicodeEmojis: {
       "keywords": [
         "kneel",
         "kneeling",
-        "person kneeling"
+        "knees",
+        "person"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12038,7 +13850,9 @@ const UnicodeEmojis: {
       "description": "man kneeling",
       "version": "12.0",
       "keywords": [
+        "kneel",
         "kneeling",
+        "knees",
         "man"
       ],
       "category": "person-people",
@@ -12077,7 +13891,9 @@ const UnicodeEmojis: {
       "description": "woman kneeling",
       "version": "12.0",
       "keywords": [
+        "kneel",
         "kneeling",
+        "knees",
         "woman"
       ],
       "category": "person-people",
@@ -12113,108 +13929,123 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🧎‍➡️",
-      "description": null,
+      "description": "person kneeling facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "kneel",
+        "kneeling",
+        "knees",
+        "person"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧎🏻‍➡️",
-          "description": null,
+          "description": "person kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏼‍➡️",
-          "description": null,
+          "description": "person kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏽‍➡️",
-          "description": null,
+          "description": "person kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏾‍➡️",
-          "description": null,
+          "description": "person kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏿‍➡️",
-          "description": null,
+          "description": "person kneeling facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🧎‍♀️‍➡️",
-      "description": null,
+      "description": "woman kneeling facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "kneel",
+        "kneeling",
+        "knees",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧎🏻‍♀️‍➡️",
-          "description": null,
+          "description": "woman kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏼‍♀️‍➡️",
-          "description": null,
+          "description": "woman kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏽‍♀️‍➡️",
-          "description": null,
+          "description": "woman kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏾‍♀️‍➡️",
-          "description": null,
+          "description": "woman kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏿‍♀️‍➡️",
-          "description": null,
+          "description": "woman kneeling facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🧎‍♂️‍➡️",
-      "description": null,
+      "description": "man kneeling facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "kneel",
+        "kneeling",
+        "knees",
+        "man"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧎🏻‍♂️‍➡️",
-          "description": null,
+          "description": "man kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏼‍♂️‍➡️",
-          "description": null,
+          "description": "man kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏽‍♂️‍➡️",
-          "description": null,
+          "description": "man kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏾‍♂️‍➡️",
-          "description": null,
+          "description": "man kneeling facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧎🏿‍♂️‍➡️",
-          "description": null,
+          "description": "man kneeling facing right",
           "version": "15.1"
         }
       ]
@@ -12226,7 +14057,10 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "blind",
-        "person with white cane"
+        "cane",
+        "person",
+        "probing",
+        "white"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12261,36 +14095,43 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🧑‍🦯‍➡️",
-      "description": null,
+      "description": "person with white cane facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "blind",
+        "cane",
+        "person",
+        "probing",
+        "white"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧑🏻‍🦯‍➡️",
-          "description": null,
+          "description": "person with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏼‍🦯‍➡️",
-          "description": null,
+          "description": "person with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏽‍🦯‍➡️",
-          "description": null,
+          "description": "person with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏾‍🦯‍➡️",
-          "description": null,
+          "description": "person with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏿‍🦯‍➡️",
-          "description": null,
+          "description": "person with white cane facing right",
           "version": "15.1"
         }
       ]
@@ -12302,8 +14143,10 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "blind",
+        "cane",
         "man",
-        "man with white cane"
+        "probing",
+        "white"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12338,36 +14181,43 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👨‍🦯‍➡️",
-      "description": null,
+      "description": "man with white cane facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "blind",
+        "cane",
+        "man",
+        "probing",
+        "white"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👨🏻‍🦯‍➡️",
-          "description": null,
+          "description": "man with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏼‍🦯‍➡️",
-          "description": null,
+          "description": "man with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏽‍🦯‍➡️",
-          "description": null,
+          "description": "man with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏾‍🦯‍➡️",
-          "description": null,
+          "description": "man with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏿‍🦯‍➡️",
-          "description": null,
+          "description": "man with white cane facing right",
           "version": "15.1"
         }
       ]
@@ -12379,8 +14229,10 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "blind",
-        "woman",
-        "woman with white cane"
+        "cane",
+        "probing",
+        "white",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12415,36 +14267,43 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👩‍🦯‍➡️",
-      "description": null,
+      "description": "woman with white cane facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "blind",
+        "cane",
+        "probing",
+        "white",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👩🏻‍🦯‍➡️",
-          "description": null,
+          "description": "woman with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏼‍🦯‍➡️",
-          "description": null,
+          "description": "woman with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏽‍🦯‍➡️",
-          "description": null,
+          "description": "woman with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏾‍🦯‍➡️",
-          "description": null,
+          "description": "woman with white cane facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏿‍🦯‍➡️",
-          "description": null,
+          "description": "woman with white cane facing right",
           "version": "15.1"
         }
       ]
@@ -12455,7 +14314,8 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "accessibility",
-        "person in motorized wheelchair",
+        "motorized",
+        "person",
         "wheelchair"
       ],
       "category": "person-people",
@@ -12491,36 +14351,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🧑‍🦼‍➡️",
-      "description": null,
+      "description": "person in motorized wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "motorized",
+        "person",
+        "wheelchair"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧑🏻‍🦼‍➡️",
-          "description": null,
+          "description": "person in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏼‍🦼‍➡️",
-          "description": null,
+          "description": "person in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏽‍🦼‍➡️",
-          "description": null,
+          "description": "person in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏾‍🦼‍➡️",
-          "description": null,
+          "description": "person in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏿‍🦼‍➡️",
-          "description": null,
+          "description": "person in motorized wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12532,7 +14397,7 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "man",
-        "man in motorized wheelchair",
+        "motorized",
         "wheelchair"
       ],
       "category": "person-people",
@@ -12568,36 +14433,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👨‍🦼‍➡️",
-      "description": null,
+      "description": "man in motorized wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "man",
+        "motorized",
+        "wheelchair"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👨🏻‍🦼‍➡️",
-          "description": null,
+          "description": "man in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏼‍🦼‍➡️",
-          "description": null,
+          "description": "man in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏽‍🦼‍➡️",
-          "description": null,
+          "description": "man in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏾‍🦼‍➡️",
-          "description": null,
+          "description": "man in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏿‍🦼‍➡️",
-          "description": null,
+          "description": "man in motorized wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12608,9 +14478,9 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
+        "motorized",
         "wheelchair",
-        "woman",
-        "woman in motorized wheelchair"
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12645,36 +14515,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👩‍🦼‍➡️",
-      "description": null,
+      "description": "woman in motorized wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "motorized",
+        "wheelchair",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👩🏻‍🦼‍➡️",
-          "description": null,
+          "description": "woman in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏼‍🦼‍➡️",
-          "description": null,
+          "description": "woman in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏽‍🦼‍➡️",
-          "description": null,
+          "description": "woman in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏾‍🦼‍➡️",
-          "description": null,
+          "description": "woman in motorized wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏿‍🦼‍➡️",
-          "description": null,
+          "description": "woman in motorized wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12685,7 +14560,8 @@ const UnicodeEmojis: {
       "version": "12.1",
       "keywords": [
         "accessibility",
-        "person in manual wheelchair",
+        "manual",
+        "person",
         "wheelchair"
       ],
       "category": "person-people",
@@ -12721,36 +14597,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🧑‍🦽‍➡️",
-      "description": null,
+      "description": "person in manual wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "manual",
+        "person",
+        "wheelchair"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🧑🏻‍🦽‍➡️",
-          "description": null,
+          "description": "person in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏼‍🦽‍➡️",
-          "description": null,
+          "description": "person in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏽‍🦽‍➡️",
-          "description": null,
+          "description": "person in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏾‍🦽‍➡️",
-          "description": null,
+          "description": "person in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "🧑🏿‍🦽‍➡️",
-          "description": null,
+          "description": "person in manual wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12762,7 +14643,7 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "man",
-        "man in manual wheelchair",
+        "manual",
         "wheelchair"
       ],
       "category": "person-people",
@@ -12798,36 +14679,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👨‍🦽‍➡️",
-      "description": null,
+      "description": "man in manual wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "man",
+        "manual",
+        "wheelchair"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👨🏻‍🦽‍➡️",
-          "description": null,
+          "description": "man in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏼‍🦽‍➡️",
-          "description": null,
+          "description": "man in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏽‍🦽‍➡️",
-          "description": null,
+          "description": "man in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏾‍🦽‍➡️",
-          "description": null,
+          "description": "man in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👨🏿‍🦽‍➡️",
-          "description": null,
+          "description": "man in manual wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12838,9 +14724,9 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
+        "manual",
         "wheelchair",
-        "woman",
-        "woman in manual wheelchair"
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12875,36 +14761,41 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "👩‍🦽‍➡️",
-      "description": null,
+      "description": "woman in manual wheelchair facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "accessibility",
+        "manual",
+        "wheelchair",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "👩🏻‍🦽‍➡️",
-          "description": null,
+          "description": "woman in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏼‍🦽‍➡️",
-          "description": null,
+          "description": "woman in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏽‍🦽‍➡️",
-          "description": null,
+          "description": "woman in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏾‍🦽‍➡️",
-          "description": null,
+          "description": "woman in manual wheelchair facing right",
           "version": "15.1"
         },
         {
           "emoji": "👩🏿‍🦽‍➡️",
-          "description": null,
+          "description": "woman in manual wheelchair facing right",
           "version": "15.1"
         }
       ]
@@ -12914,9 +14805,17 @@ const UnicodeEmojis: {
       "description": "person running",
       "version": "0.6",
       "keywords": [
+        "fast",
+        "hurry",
         "marathon",
-        "person running",
-        "running"
+        "move",
+        "person",
+        "quick",
+        "race",
+        "racing",
+        "run",
+        "rush",
+        "speed"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12954,10 +14853,17 @@ const UnicodeEmojis: {
       "description": "man running",
       "version": "4.0",
       "keywords": [
+        "fast",
+        "hurry",
         "man",
         "marathon",
+        "move",
+        "quick",
+        "race",
         "racing",
-        "running"
+        "run",
+        "rush",
+        "speed"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -12995,9 +14901,16 @@ const UnicodeEmojis: {
       "description": "woman running",
       "version": "4.0",
       "keywords": [
+        "fast",
+        "hurry",
         "marathon",
+        "move",
+        "quick",
+        "race",
         "racing",
-        "running",
+        "run",
+        "rush",
+        "speed",
         "woman"
       ],
       "category": "person-people",
@@ -13033,108 +14946,144 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🏃‍➡️",
-      "description": null,
+      "description": "person running facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "fast",
+        "hurry",
+        "marathon",
+        "move",
+        "person",
+        "quick",
+        "race",
+        "racing",
+        "run",
+        "rush",
+        "speed"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🏃🏻‍➡️",
-          "description": null,
+          "description": "person running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏼‍➡️",
-          "description": null,
+          "description": "person running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏽‍➡️",
-          "description": null,
+          "description": "person running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏾‍➡️",
-          "description": null,
+          "description": "person running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏿‍➡️",
-          "description": null,
+          "description": "person running facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🏃‍♀️‍➡️",
-      "description": null,
+      "description": "woman running facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "fast",
+        "hurry",
+        "marathon",
+        "move",
+        "quick",
+        "race",
+        "racing",
+        "run",
+        "rush",
+        "speed",
+        "woman"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🏃🏻‍♀️‍➡️",
-          "description": null,
+          "description": "woman running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏼‍♀️‍➡️",
-          "description": null,
+          "description": "woman running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏽‍♀️‍➡️",
-          "description": null,
+          "description": "woman running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏾‍♀️‍➡️",
-          "description": null,
+          "description": "woman running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏿‍♀️‍➡️",
-          "description": null,
+          "description": "woman running facing right",
           "version": "15.1"
         }
       ]
     },
     {
       "emoji": "🏃‍♂️‍➡️",
-      "description": null,
+      "description": "man running facing right",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "fast",
+        "hurry",
+        "man",
+        "marathon",
+        "move",
+        "quick",
+        "race",
+        "racing",
+        "run",
+        "rush",
+        "speed"
+      ],
       "category": "person-people",
       "group": "people-body",
       "subgroup": "person-activity",
       "variations": [
         {
           "emoji": "🏃🏻‍♂️‍➡️",
-          "description": null,
+          "description": "man running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏼‍♂️‍➡️",
-          "description": null,
+          "description": "man running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏽‍♂️‍➡️",
-          "description": null,
+          "description": "man running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏾‍♂️‍➡️",
-          "description": null,
+          "description": "man running facing right",
           "version": "15.1"
         },
         {
           "emoji": "🏃🏿‍♂️‍➡️",
-          "description": null,
+          "description": "man running facing right",
           "version": "15.1"
         }
       ]
@@ -13145,7 +15094,16 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "dance",
+        "dancer",
         "dancing",
+        "elegant",
+        "festive",
+        "flair",
+        "flamenco",
+        "groove",
+        "let’s",
+        "salsa",
+        "tango",
         "woman"
       ],
       "category": "person-people",
@@ -13185,8 +15143,17 @@ const UnicodeEmojis: {
       "version": "3.0",
       "keywords": [
         "dance",
+        "dancer",
         "dancing",
-        "man"
+        "elegant",
+        "festive",
+        "flair",
+        "flamenco",
+        "groove",
+        "let’s",
+        "man",
+        "salsa",
+        "tango"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13225,8 +15192,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "business",
+        "levitating",
         "person",
-        "person in suit levitating",
         "suit"
       ],
       "category": "person-people",
@@ -13265,10 +15232,21 @@ const UnicodeEmojis: {
       "description": "people with bunny ears",
       "version": "0.6",
       "keywords": [
-        "bunny ear",
+        "bestie",
+        "bff",
+        "bunny",
+        "counterpart",
         "dancer",
+        "double",
+        "ear",
+        "identical",
+        "pair",
+        "party",
         "partying",
-        "people with bunny ears"
+        "people",
+        "soulmate",
+        "twin",
+        "twinsies"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13279,11 +15257,22 @@ const UnicodeEmojis: {
       "description": "men with bunny ears",
       "version": "4.0",
       "keywords": [
-        "bunny ear",
+        "bestie",
+        "bff",
+        "bunny",
+        "counterpart",
         "dancer",
+        "double",
+        "ear",
+        "identical",
         "men",
-        "men with bunny ears",
-        "partying"
+        "pair",
+        "party",
+        "partying",
+        "people",
+        "soulmate",
+        "twin",
+        "twinsies"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13294,11 +15283,22 @@ const UnicodeEmojis: {
       "description": "women with bunny ears",
       "version": "4.0",
       "keywords": [
-        "bunny ear",
+        "bestie",
+        "bff",
+        "bunny",
+        "counterpart",
         "dancer",
+        "double",
+        "ear",
+        "identical",
+        "pair",
+        "party",
         "partying",
-        "women",
-        "women with bunny ears"
+        "people",
+        "soulmate",
+        "twin",
+        "twinsies",
+        "women"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13309,9 +15309,17 @@ const UnicodeEmojis: {
       "description": "person in steamy room",
       "version": "5.0",
       "keywords": [
-        "person in steamy room",
+        "day",
+        "luxurious",
+        "pamper",
+        "person",
+        "relax",
+        "room",
         "sauna",
-        "steam room"
+        "spa",
+        "steam",
+        "steambath",
+        "unwind"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13349,9 +15357,17 @@ const UnicodeEmojis: {
       "description": "man in steamy room",
       "version": "5.0",
       "keywords": [
-        "man in steamy room",
+        "day",
+        "luxurious",
+        "man",
+        "pamper",
+        "relax",
+        "room",
         "sauna",
-        "steam room"
+        "spa",
+        "steam",
+        "steambath",
+        "unwind"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13389,9 +15405,17 @@ const UnicodeEmojis: {
       "description": "woman in steamy room",
       "version": "5.0",
       "keywords": [
+        "day",
+        "luxurious",
+        "pamper",
+        "relax",
+        "room",
         "sauna",
-        "steam room",
-        "woman in steamy room"
+        "spa",
+        "steam",
+        "steambath",
+        "unwind",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13429,8 +15453,14 @@ const UnicodeEmojis: {
       "description": "person climbing",
       "version": "5.0",
       "keywords": [
+        "climb",
         "climber",
-        "person climbing"
+        "climbing",
+        "mountain",
+        "person",
+        "rock",
+        "scale",
+        "up"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13468,8 +15498,14 @@ const UnicodeEmojis: {
       "description": "man climbing",
       "version": "5.0",
       "keywords": [
+        "climb",
         "climber",
-        "man climbing"
+        "climbing",
+        "man",
+        "mountain",
+        "rock",
+        "scale",
+        "up"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13507,8 +15543,14 @@ const UnicodeEmojis: {
       "description": "woman climbing",
       "version": "5.0",
       "keywords": [
+        "climb",
         "climber",
-        "woman climbing"
+        "climbing",
+        "mountain",
+        "rock",
+        "scale",
+        "up",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13548,7 +15590,7 @@ const UnicodeEmojis: {
       "keywords": [
         "fencer",
         "fencing",
-        "person fencing",
+        "person",
         "sword"
       ],
       "category": "person-people",
@@ -13563,7 +15605,9 @@ const UnicodeEmojis: {
         "horse",
         "jockey",
         "racehorse",
-        "racing"
+        "racing",
+        "riding",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13617,7 +15661,8 @@ const UnicodeEmojis: {
         "ski",
         "snow",
         "snowboard",
-        "snowboarder"
+        "snowboarder",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13656,8 +15701,17 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "ball",
+        "birdie",
+        "caddy",
+        "driving",
         "golf",
-        "person golfing"
+        "golfing",
+        "green",
+        "person",
+        "pga",
+        "putt",
+        "range",
+        "tee"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13695,9 +15749,18 @@ const UnicodeEmojis: {
       "description": "man golfing",
       "version": "4.0",
       "keywords": [
+        "ball",
+        "birdie",
+        "caddy",
+        "driving",
         "golf",
+        "golfing",
+        "green",
         "man",
-        "man golfing"
+        "pga",
+        "putt",
+        "range",
+        "tee"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13735,9 +15798,18 @@ const UnicodeEmojis: {
       "description": "woman golfing",
       "version": "4.0",
       "keywords": [
+        "ball",
+        "birdie",
+        "caddy",
+        "driving",
         "golf",
-        "woman",
-        "woman golfing"
+        "golfing",
+        "green",
+        "pga",
+        "putt",
+        "range",
+        "tee",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13775,8 +15847,15 @@ const UnicodeEmojis: {
       "description": "person surfing",
       "version": "0.6",
       "keywords": [
-        "person surfing",
-        "surfing"
+        "beach",
+        "ocean",
+        "person",
+        "sport",
+        "surf",
+        "surfer",
+        "surfing",
+        "swell",
+        "waves"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13814,8 +15893,15 @@ const UnicodeEmojis: {
       "description": "man surfing",
       "version": "4.0",
       "keywords": [
+        "beach",
         "man",
-        "surfing"
+        "ocean",
+        "sport",
+        "surf",
+        "surfer",
+        "surfing",
+        "swell",
+        "waves"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13853,8 +15939,15 @@ const UnicodeEmojis: {
       "description": "woman surfing",
       "version": "4.0",
       "keywords": [
+        "beach",
+        "ocean",
+        "person",
+        "sport",
+        "surf",
+        "surfer",
         "surfing",
-        "woman"
+        "swell",
+        "waves"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13893,8 +15986,18 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "boat",
-        "person rowing boat",
-        "rowboat"
+        "canoe",
+        "cruise",
+        "fishing",
+        "lake",
+        "oar",
+        "paddle",
+        "person",
+        "raft",
+        "river",
+        "row",
+        "rowboat",
+        "rowing"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13933,9 +16036,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boat",
+        "canoe",
+        "cruise",
+        "fishing",
+        "lake",
         "man",
-        "man rowing boat",
-        "rowboat"
+        "oar",
+        "paddle",
+        "raft",
+        "river",
+        "row",
+        "rowboat",
+        "rowing"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -13974,9 +16086,18 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boat",
+        "canoe",
+        "cruise",
+        "fishing",
+        "lake",
+        "oar",
+        "paddle",
+        "raft",
+        "river",
+        "row",
         "rowboat",
-        "woman",
-        "woman rowing boat"
+        "rowing",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14014,8 +16135,13 @@ const UnicodeEmojis: {
       "description": "person swimming",
       "version": "0.6",
       "keywords": [
-        "person swimming",
-        "swim"
+        "freestyle",
+        "person",
+        "sport",
+        "swim",
+        "swimmer",
+        "swimming",
+        "triathlon"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14053,9 +16179,13 @@ const UnicodeEmojis: {
       "description": "man swimming",
       "version": "4.0",
       "keywords": [
+        "freestyle",
         "man",
-        "man swimming",
-        "swim"
+        "sport",
+        "swim",
+        "swimmer",
+        "swimming",
+        "triathlon"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14093,9 +16223,13 @@ const UnicodeEmojis: {
       "description": "woman swimming",
       "version": "4.0",
       "keywords": [
+        "freestyle",
+        "man",
+        "sport",
         "swim",
-        "woman",
-        "woman swimming"
+        "swimmer",
+        "swimming",
+        "triathlon"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14133,8 +16267,16 @@ const UnicodeEmojis: {
       "description": "person bouncing ball",
       "version": "0.7",
       "keywords": [
+        "athletic",
         "ball",
-        "person bouncing ball"
+        "basketball",
+        "bouncing",
+        "championship",
+        "dribble",
+        "net",
+        "person",
+        "player",
+        "throw"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14172,9 +16314,16 @@ const UnicodeEmojis: {
       "description": "man bouncing ball",
       "version": "4.0",
       "keywords": [
+        "athletic",
         "ball",
+        "basketball",
+        "bouncing",
+        "championship",
+        "dribble",
         "man",
-        "man bouncing ball"
+        "net",
+        "player",
+        "throw"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14212,9 +16361,16 @@ const UnicodeEmojis: {
       "description": "woman bouncing ball",
       "version": "4.0",
       "keywords": [
+        "athletic",
         "ball",
-        "woman",
-        "woman bouncing ball"
+        "basketball",
+        "bouncing",
+        "championship",
+        "dribble",
+        "net",
+        "player",
+        "throw",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14252,9 +16408,17 @@ const UnicodeEmojis: {
       "description": "person lifting weights",
       "version": "0.7",
       "keywords": [
+        "barbell",
+        "bodybuilder",
+        "deadlift",
         "lifter",
-        "person lifting weights",
-        "weight"
+        "lifting",
+        "person",
+        "powerlifting",
+        "weight",
+        "weightlifter",
+        "weights",
+        "workout"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14292,9 +16456,17 @@ const UnicodeEmojis: {
       "description": "man lifting weights",
       "version": "4.0",
       "keywords": [
+        "barbell",
+        "bodybuilder",
+        "deadlift",
+        "lifter",
+        "lifting",
         "man",
-        "man lifting weights",
-        "weight lifter"
+        "powerlifting",
+        "weight",
+        "weightlifter",
+        "weights",
+        "workout"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14332,9 +16504,17 @@ const UnicodeEmojis: {
       "description": "woman lifting weights",
       "version": "4.0",
       "keywords": [
-        "weight lifter",
+        "barbell",
+        "bodybuilder",
+        "deadlift",
+        "lifter",
+        "lifting",
+        "powerlifting",
+        "weight",
+        "weightlifter",
+        "weights",
         "woman",
-        "woman lifting weights"
+        "workout"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14373,9 +16553,14 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bicycle",
+        "bicyclist",
+        "bike",
         "biking",
+        "cycle",
         "cyclist",
-        "person biking"
+        "person",
+        "riding",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14414,9 +16599,14 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "bicycle",
+        "bicyclist",
+        "bike",
         "biking",
+        "cycle",
         "cyclist",
-        "man"
+        "man",
+        "riding",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14455,8 +16645,13 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "bicycle",
+        "bicyclist",
+        "bike",
         "biking",
+        "cycle",
         "cyclist",
+        "riding",
+        "sport",
         "woman"
       ],
       "category": "person-people",
@@ -14498,9 +16693,13 @@ const UnicodeEmojis: {
         "bicycle",
         "bicyclist",
         "bike",
+        "biking",
+        "cycle",
         "cyclist",
         "mountain",
-        "person mountain biking"
+        "person",
+        "riding",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14539,11 +16738,15 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "bicycle",
+        "bicyclist",
         "bike",
+        "biking",
+        "cycle",
         "cyclist",
         "man",
-        "man mountain biking",
-        "mountain"
+        "mountain",
+        "riding",
+        "sport"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14582,10 +16785,14 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "bicycle",
+        "bicyclist",
         "bike",
         "biking",
+        "cycle",
         "cyclist",
         "mountain",
+        "riding",
+        "sport",
         "woman"
       ],
       "category": "person-people",
@@ -14624,9 +16831,15 @@ const UnicodeEmojis: {
       "description": "person cartwheeling",
       "version": "3.0",
       "keywords": [
+        "active",
         "cartwheel",
+        "cartwheeling",
+        "excited",
+        "flip",
         "gymnastics",
-        "person cartwheeling"
+        "happy",
+        "person",
+        "somersault"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14664,10 +16877,15 @@ const UnicodeEmojis: {
       "description": "man cartwheeling",
       "version": "4.0",
       "keywords": [
+        "active",
         "cartwheel",
+        "cartwheeling",
+        "excited",
+        "flip",
         "gymnastics",
+        "happy",
         "man",
-        "man cartwheeling"
+        "somersault"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14705,10 +16923,15 @@ const UnicodeEmojis: {
       "description": "woman cartwheeling",
       "version": "4.0",
       "keywords": [
+        "active",
         "cartwheel",
+        "cartwheeling",
+        "excited",
+        "flip",
         "gymnastics",
-        "woman",
-        "woman cartwheeling"
+        "happy",
+        "somersault",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14746,9 +16969,14 @@ const UnicodeEmojis: {
       "description": "people wrestling",
       "version": "3.0",
       "keywords": [
-        "people wrestling",
+        "combat",
+        "duel",
+        "grapple",
+        "people",
+        "ring",
+        "tournament",
         "wrestle",
-        "wrestler"
+        "wrestling"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14759,9 +16987,14 @@ const UnicodeEmojis: {
       "description": "men wrestling",
       "version": "4.0",
       "keywords": [
+        "combat",
+        "duel",
+        "grapple",
         "men",
-        "men wrestling",
-        "wrestle"
+        "ring",
+        "tournament",
+        "wrestle",
+        "wrestling"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14772,9 +17005,14 @@ const UnicodeEmojis: {
       "description": "women wrestling",
       "version": "4.0",
       "keywords": [
+        "combat",
+        "duel",
+        "grapple",
+        "ring",
+        "tournament",
         "women",
-        "women wrestling",
-        "wrestle"
+        "wrestle",
+        "wrestling"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14785,9 +17023,13 @@ const UnicodeEmojis: {
       "description": "person playing water polo",
       "version": "3.0",
       "keywords": [
-        "person playing water polo",
+        "person",
+        "playing",
         "polo",
-        "water"
+        "sport",
+        "swimming",
+        "water",
+        "waterpolo"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14826,8 +17068,12 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "man",
-        "man playing water polo",
-        "water polo"
+        "playing",
+        "polo",
+        "sport",
+        "swimming",
+        "water",
+        "waterpolo"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14865,9 +17111,13 @@ const UnicodeEmojis: {
       "description": "woman playing water polo",
       "version": "4.0",
       "keywords": [
-        "water polo",
-        "woman",
-        "woman playing water polo"
+        "playing",
+        "polo",
+        "sport",
+        "swimming",
+        "water",
+        "waterpolo",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14905,9 +17155,19 @@ const UnicodeEmojis: {
       "description": "person playing handball",
       "version": "3.0",
       "keywords": [
+        "athletics",
         "ball",
+        "catch",
+        "chuck",
         "handball",
-        "person playing handball"
+        "hurl",
+        "lob",
+        "person",
+        "pitch",
+        "playing",
+        "sport",
+        "throw",
+        "toss"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14945,9 +17205,19 @@ const UnicodeEmojis: {
       "description": "man playing handball",
       "version": "4.0",
       "keywords": [
+        "athletics",
+        "ball",
+        "catch",
+        "chuck",
         "handball",
+        "hurl",
+        "lob",
         "man",
-        "man playing handball"
+        "pitch",
+        "playing",
+        "sport",
+        "throw",
+        "toss"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -14985,9 +17255,19 @@ const UnicodeEmojis: {
       "description": "woman playing handball",
       "version": "4.0",
       "keywords": [
+        "athletics",
+        "ball",
+        "catch",
+        "chuck",
         "handball",
-        "woman",
-        "woman playing handball"
+        "hurl",
+        "lob",
+        "pitch",
+        "playing",
+        "sport",
+        "throw",
+        "toss",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15025,10 +17305,15 @@ const UnicodeEmojis: {
       "description": "person juggling",
       "version": "3.0",
       "keywords": [
+        "act",
         "balance",
+        "balancing",
+        "handle",
         "juggle",
+        "juggling",
+        "manage",
         "multitask",
-        "person juggling",
+        "person",
         "skill"
       ],
       "category": "person-people",
@@ -15067,9 +17352,16 @@ const UnicodeEmojis: {
       "description": "man juggling",
       "version": "4.0",
       "keywords": [
+        "act",
+        "balance",
+        "balancing",
+        "handle",
+        "juggle",
         "juggling",
         "man",
-        "multitask"
+        "manage",
+        "multitask",
+        "skill"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15107,8 +17399,15 @@ const UnicodeEmojis: {
       "description": "woman juggling",
       "version": "4.0",
       "keywords": [
+        "act",
+        "balance",
+        "balancing",
+        "handle",
+        "juggle",
         "juggling",
+        "manage",
         "multitask",
+        "skill",
         "woman"
       ],
       "category": "person-people",
@@ -15147,9 +17446,19 @@ const UnicodeEmojis: {
       "description": "person in lotus position",
       "version": "5.0",
       "keywords": [
+        "cross",
+        "legged",
+        "legs",
+        "lotus",
         "meditation",
-        "person in lotus position",
-        "yoga"
+        "peace",
+        "person",
+        "position",
+        "relax",
+        "serenity",
+        "yoga",
+        "yogi",
+        "zen"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15187,9 +17496,19 @@ const UnicodeEmojis: {
       "description": "man in lotus position",
       "version": "5.0",
       "keywords": [
-        "man in lotus position",
+        "cross",
+        "legged",
+        "legs",
+        "lotus",
+        "man",
         "meditation",
-        "yoga"
+        "peace",
+        "position",
+        "relax",
+        "serenity",
+        "yoga",
+        "yogi",
+        "zen"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15227,9 +17546,19 @@ const UnicodeEmojis: {
       "description": "woman in lotus position",
       "version": "5.0",
       "keywords": [
+        "cross",
+        "legged",
+        "legs",
+        "lotus",
         "meditation",
-        "woman in lotus position",
-        "yoga"
+        "peace",
+        "position",
+        "relax",
+        "serenity",
+        "woman",
+        "yoga",
+        "yogi",
+        "zen"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15269,7 +17598,9 @@ const UnicodeEmojis: {
       "keywords": [
         "bath",
         "bathtub",
-        "person taking bath"
+        "person",
+        "taking",
+        "tub"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15307,10 +17638,17 @@ const UnicodeEmojis: {
       "description": "person in bed",
       "version": "1.0",
       "keywords": [
-        "good night",
+        "bed",
+        "bedtime",
+        "good",
+        "goodnight",
         "hotel",
-        "person in bed",
-        "sleep"
+        "nap",
+        "night",
+        "person",
+        "sleep",
+        "tired",
+        "zzz"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15348,12 +17686,17 @@ const UnicodeEmojis: {
       "description": "people holding hands",
       "version": "12.0",
       "keywords": [
+        "bae",
+        "bestie",
+        "bff",
         "couple",
+        "dating",
+        "flirt",
+        "friends",
         "hand",
         "hold",
-        "holding hands",
-        "people holding hands",
-        "person"
+        "people",
+        "twins"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15491,11 +17834,19 @@ const UnicodeEmojis: {
       "description": "women holding hands",
       "version": "1.0",
       "keywords": [
+        "bae",
+        "bestie",
+        "bff",
         "couple",
+        "dating",
+        "flirt",
+        "friends",
+        "girls",
         "hand",
-        "holding hands",
-        "women",
-        "women holding hands"
+        "hold",
+        "sisters",
+        "twins",
+        "women"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15633,13 +17984,18 @@ const UnicodeEmojis: {
       "description": "woman and man holding hands",
       "version": "0.6",
       "keywords": [
+        "bae",
+        "bestie",
+        "bff",
         "couple",
+        "dating",
+        "flirt",
+        "friends",
         "hand",
         "hold",
-        "holding hands",
         "man",
-        "woman",
-        "woman and man holding hands"
+        "twins",
+        "woman"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15777,14 +18133,19 @@ const UnicodeEmojis: {
       "description": "men holding hands",
       "version": "1.0",
       "keywords": [
+        "bae",
+        "bestie",
+        "bff",
+        "boys",
+        "brothers",
         "couple",
-        "Gemini",
-        "holding hands",
-        "man",
+        "dating",
+        "flirt",
+        "friends",
+        "hand",
+        "hold",
         "men",
-        "men holding hands",
-        "twins",
-        "zodiac"
+        "twins"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -15922,8 +18283,20 @@ const UnicodeEmojis: {
       "description": "kiss",
       "version": "0.6",
       "keywords": [
+        "anniversary",
+        "babe",
+        "bae",
         "couple",
-        "kiss"
+        "date",
+        "dating",
+        "heart",
+        "kiss",
+        "love",
+        "mwah",
+        "person",
+        "romance",
+        "together",
+        "xoxo"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -16451,9 +18824,19 @@ const UnicodeEmojis: {
       "description": "couple with heart",
       "version": "0.6",
       "keywords": [
+        "anniversary",
+        "babe",
+        "bae",
         "couple",
-        "couple with heart",
-        "love"
+        "dating",
+        "heart",
+        "kiss",
+        "love",
+        "person",
+        "relationship",
+        "romance",
+        "together",
+        "you"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -16982,6 +19365,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man",
         "woman"
@@ -16995,6 +19379,7 @@ const UnicodeEmojis: {
       "description": "family: man, woman, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man",
@@ -17010,6 +19395,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "girl",
         "man",
@@ -17025,6 +19411,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man",
         "woman"
@@ -17038,6 +19425,7 @@ const UnicodeEmojis: {
       "description": "family: man, woman, girl, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man",
@@ -17053,6 +19441,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man"
       ],
@@ -17065,6 +19454,7 @@ const UnicodeEmojis: {
       "description": "family: man, man, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man"
@@ -17079,6 +19469,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "girl",
         "man"
@@ -17093,6 +19484,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man"
       ],
@@ -17105,6 +19497,7 @@ const UnicodeEmojis: {
       "description": "family: man, man, girl, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man"
@@ -17119,6 +19512,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "woman"
       ],
@@ -17131,6 +19525,7 @@ const UnicodeEmojis: {
       "description": "family: woman, woman, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "woman"
@@ -17145,6 +19540,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "girl",
         "woman"
@@ -17159,6 +19555,7 @@ const UnicodeEmojis: {
       "version": "2.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "woman"
       ],
@@ -17171,6 +19568,7 @@ const UnicodeEmojis: {
       "description": "family: woman, woman, girl, girl",
       "version": "2.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "woman"
@@ -17185,6 +19583,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man"
       ],
@@ -17198,6 +19597,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "man"
       ],
@@ -17210,6 +19610,7 @@ const UnicodeEmojis: {
       "description": "family: man, girl",
       "version": "4.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man"
@@ -17224,6 +19625,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "girl",
         "man"
@@ -17237,6 +19639,7 @@ const UnicodeEmojis: {
       "description": "family: man, girl, girl",
       "version": "4.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "man"
@@ -17251,6 +19654,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "woman"
       ],
@@ -17264,6 +19668,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "woman"
       ],
@@ -17276,6 +19681,7 @@ const UnicodeEmojis: {
       "description": "family: woman, girl",
       "version": "4.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "woman"
@@ -17290,6 +19696,7 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "boy",
+        "child",
         "family",
         "girl",
         "woman"
@@ -17303,6 +19710,7 @@ const UnicodeEmojis: {
       "description": "family: woman, girl, girl",
       "version": "4.0",
       "keywords": [
+        "child",
         "family",
         "girl",
         "woman"
@@ -17332,7 +19740,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bust",
-        "bust in silhouette",
+        "mysterious",
+        "shadow",
         "silhouette"
       ],
       "category": "person-people",
@@ -17344,8 +19753,13 @@ const UnicodeEmojis: {
       "description": "busts in silhouette",
       "version": "1.0",
       "keywords": [
+        "bff",
         "bust",
-        "busts in silhouette",
+        "busts",
+        "everyone",
+        "friend",
+        "friends",
+        "people",
         "silhouette"
       ],
       "category": "person-people",
@@ -17357,10 +19771,16 @@ const UnicodeEmojis: {
       "description": "people hugging",
       "version": "13.0",
       "keywords": [
+        "comfort",
+        "embrace",
+        "farewell",
+        "friendship",
         "goodbye",
         "hello",
         "hug",
-        "people hugging",
+        "hugging",
+        "love",
+        "people",
         "thanks"
       ],
       "category": "person-people",
@@ -17372,6 +19792,7 @@ const UnicodeEmojis: {
       "description": "family",
       "version": "0.6",
       "keywords": [
+        "child",
         "family"
       ],
       "category": "person-people",
@@ -17380,22 +19801,22 @@ const UnicodeEmojis: {
       "variations": [
         {
           "emoji": "🧑‍🧑‍🧒",
-          "description": null,
+          "description": "family: adult, adult, child",
           "version": "15.1"
         },
         {
           "emoji": "🧑‍🧑‍🧒‍🧒",
-          "description": null,
+          "description": "family: adult, adult, child, child",
           "version": "15.1"
         },
         {
           "emoji": "🧑‍🧒",
-          "description": null,
+          "description": "family: adult, child",
           "version": "15.1"
         },
         {
           "emoji": "🧑‍🧒‍🧒",
-          "description": null,
+          "description": "family: adult, child, child",
           "version": "15.1"
         }
       ]
@@ -17405,10 +19826,33 @@ const UnicodeEmojis: {
       "description": "footprints",
       "version": "0.6",
       "keywords": [
+        "barefoot",
         "clothing",
         "footprint",
         "footprints",
-        "print"
+        "omw",
+        "print",
+        "walk"
+      ],
+      "category": "person-people",
+      "group": "people-body",
+      "subgroup": "person-symbol"
+    },
+    {
+      "emoji": "🫆",
+      "description": "fingerprint",
+      "version": "16.0",
+      "keywords": [
+        "clue",
+        "crime",
+        "detective",
+        "fingerprint",
+        "forensics",
+        "identity",
+        "mystery",
+        "print",
+        "safety",
+        "trace"
       ],
       "category": "person-people",
       "group": "people-body",
@@ -17419,6 +19863,8 @@ const UnicodeEmojis: {
       "description": "monkey face",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "banana",
         "face",
         "monkey"
       ],
@@ -17431,6 +19877,8 @@ const UnicodeEmojis: {
       "description": "monkey",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "banana",
         "monkey"
       ],
       "category": "animals-nature",
@@ -17442,6 +19890,7 @@ const UnicodeEmojis: {
       "description": "gorilla",
       "version": "3.0",
       "keywords": [
+        "animal",
         "gorilla"
       ],
       "category": "animals-nature",
@@ -17453,7 +19902,9 @@ const UnicodeEmojis: {
       "description": "orangutan",
       "version": "12.0",
       "keywords": [
+        "animal",
         "ape",
+        "monkey",
         "orangutan"
       ],
       "category": "animals-nature",
@@ -17465,9 +19916,13 @@ const UnicodeEmojis: {
       "description": "dog face",
       "version": "0.6",
       "keywords": [
+        "adorbs",
+        "animal",
         "dog",
         "face",
-        "pet"
+        "pet",
+        "puppies",
+        "puppy"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17478,7 +19933,10 @@ const UnicodeEmojis: {
       "description": "dog",
       "version": "0.7",
       "keywords": [
+        "animal",
+        "animals",
         "dog",
+        "dogs",
         "pet"
       ],
       "category": "animals-nature",
@@ -17491,9 +19949,10 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
+        "animal",
         "blind",
-        "guide",
-        "guide dog"
+        "dog",
+        "guide"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17505,6 +19964,7 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
+        "animal",
         "assistance",
         "dog",
         "service"
@@ -17518,7 +19978,9 @@ const UnicodeEmojis: {
       "description": "poodle",
       "version": "0.6",
       "keywords": [
+        "animal",
         "dog",
+        "fluffy",
         "poodle"
       ],
       "category": "animals-nature",
@@ -17530,6 +19992,7 @@ const UnicodeEmojis: {
       "description": "wolf",
       "version": "0.6",
       "keywords": [
+        "animal",
         "face",
         "wolf"
       ],
@@ -17542,6 +20005,7 @@ const UnicodeEmojis: {
       "description": "fox",
       "version": "3.0",
       "keywords": [
+        "animal",
         "face",
         "fox"
       ],
@@ -17554,6 +20018,7 @@ const UnicodeEmojis: {
       "description": "raccoon",
       "version": "11.0",
       "keywords": [
+        "animal",
         "curious",
         "raccoon",
         "sly"
@@ -17567,8 +20032,11 @@ const UnicodeEmojis: {
       "description": "cat face",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cat",
         "face",
+        "kitten",
+        "kitty",
         "pet"
       ],
       "category": "animals-nature",
@@ -17580,7 +20048,11 @@ const UnicodeEmojis: {
       "description": "cat",
       "version": "0.7",
       "keywords": [
+        "animal",
+        "animals",
         "cat",
+        "cats",
+        "kitten",
         "pet"
       ],
       "category": "animals-nature",
@@ -17592,8 +20064,12 @@ const UnicodeEmojis: {
       "description": "black cat",
       "version": "13.0",
       "keywords": [
+        "animal",
         "black",
         "cat",
+        "feline",
+        "halloween",
+        "meow",
         "unlucky"
       ],
       "category": "animals-nature",
@@ -17605,9 +20081,17 @@ const UnicodeEmojis: {
       "description": "lion",
       "version": "1.0",
       "keywords": [
+        "alpha",
+        "animal",
         "face",
         "Leo",
         "lion",
+        "mane",
+        "order",
+        "rawr",
+        "roar",
+        "safari",
+        "strong",
         "zodiac"
       ],
       "category": "animals-nature",
@@ -17619,7 +20103,11 @@ const UnicodeEmojis: {
       "description": "tiger face",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "big",
+        "cat",
         "face",
+        "predator",
         "tiger"
       ],
       "category": "animals-nature",
@@ -17631,7 +20119,12 @@ const UnicodeEmojis: {
       "description": "tiger",
       "version": "1.0",
       "keywords": [
-        "tiger"
+        "animal",
+        "big",
+        "cat",
+        "predator",
+        "tiger",
+        "zoo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17642,7 +20135,12 @@ const UnicodeEmojis: {
       "description": "leopard",
       "version": "1.0",
       "keywords": [
-        "leopard"
+        "animal",
+        "big",
+        "cat",
+        "leopard",
+        "predator",
+        "zoo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17653,8 +20151,13 @@ const UnicodeEmojis: {
       "description": "horse face",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "dressage",
+        "equine",
         "face",
-        "horse"
+        "farm",
+        "horse",
+        "horses"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17665,6 +20168,7 @@ const UnicodeEmojis: {
       "description": "moose",
       "version": "15.0",
       "keywords": [
+        "alces",
         "animal",
         "antlers",
         "elk",
@@ -17684,6 +20188,7 @@ const UnicodeEmojis: {
         "ass",
         "burro",
         "donkey",
+        "hinny",
         "mammal",
         "mule",
         "stubborn"
@@ -17697,7 +20202,9 @@ const UnicodeEmojis: {
       "description": "horse",
       "version": "0.6",
       "keywords": [
+        "animal",
         "equestrian",
+        "farm",
         "horse",
         "racehorse",
         "racing"
@@ -17723,6 +20230,7 @@ const UnicodeEmojis: {
       "description": "zebra",
       "version": "5.0",
       "keywords": [
+        "animal",
         "stripe",
         "zebra"
       ],
@@ -17735,6 +20243,7 @@ const UnicodeEmojis: {
       "description": "deer",
       "version": "3.0",
       "keywords": [
+        "animal",
         "deer"
       ],
       "category": "animals-nature",
@@ -17746,6 +20255,7 @@ const UnicodeEmojis: {
       "description": "bison",
       "version": "13.0",
       "keywords": [
+        "animal",
         "bison",
         "buffalo",
         "herd",
@@ -17760,8 +20270,12 @@ const UnicodeEmojis: {
       "description": "cow face",
       "version": "0.6",
       "keywords": [
+        "animal",
         "cow",
-        "face"
+        "face",
+        "farm",
+        "milk",
+        "moo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17772,7 +20286,10 @@ const UnicodeEmojis: {
       "description": "ox",
       "version": "1.0",
       "keywords": [
+        "animal",
+        "animals",
         "bull",
+        "farm",
         "ox",
         "Taurus",
         "zodiac"
@@ -17786,8 +20303,10 @@ const UnicodeEmojis: {
       "description": "water buffalo",
       "version": "1.0",
       "keywords": [
+        "animal",
         "buffalo",
-        "water"
+        "water",
+        "zoo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17798,7 +20317,12 @@ const UnicodeEmojis: {
       "description": "cow",
       "version": "1.0",
       "keywords": [
-        "cow"
+        "animal",
+        "animals",
+        "cow",
+        "farm",
+        "milk",
+        "moo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17809,8 +20333,12 @@ const UnicodeEmojis: {
       "description": "pig face",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "bacon",
         "face",
-        "pig"
+        "farm",
+        "pig",
+        "pork"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17821,7 +20349,11 @@ const UnicodeEmojis: {
       "description": "pig",
       "version": "1.0",
       "keywords": [
+        "animal",
+        "bacon",
+        "farm",
         "pig",
+        "pork",
         "sow"
       ],
       "category": "animals-nature",
@@ -17833,6 +20365,7 @@ const UnicodeEmojis: {
       "description": "boar",
       "version": "0.6",
       "keywords": [
+        "animal",
         "boar",
         "pig"
       ],
@@ -17845,9 +20378,13 @@ const UnicodeEmojis: {
       "description": "pig nose",
       "version": "0.6",
       "keywords": [
+        "animal",
         "face",
+        "farm",
         "nose",
-        "pig"
+        "pig",
+        "smell",
+        "snout"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17858,11 +20395,14 @@ const UnicodeEmojis: {
       "description": "ram",
       "version": "1.0",
       "keywords": [
+        "animal",
         "Aries",
+        "horns",
         "male",
         "ram",
         "sheep",
-        "zodiac"
+        "zodiac",
+        "zoo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17873,9 +20413,15 @@ const UnicodeEmojis: {
       "description": "ewe",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "baa",
         "ewe",
+        "farm",
         "female",
-        "sheep"
+        "fluffy",
+        "lamb",
+        "sheep",
+        "wool"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17886,8 +20432,11 @@ const UnicodeEmojis: {
       "description": "goat",
       "version": "1.0",
       "keywords": [
+        "animal",
         "Capricorn",
+        "farm",
         "goat",
+        "milk",
         "zodiac"
       ],
       "category": "animals-nature",
@@ -17899,9 +20448,12 @@ const UnicodeEmojis: {
       "description": "camel",
       "version": "1.0",
       "keywords": [
+        "animal",
         "camel",
+        "desert",
         "dromedary",
-        "hump"
+        "hump",
+        "one"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17912,10 +20464,13 @@ const UnicodeEmojis: {
       "description": "two-hump camel",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bactrian",
         "camel",
+        "desert",
         "hump",
-        "two-hump camel"
+        "two",
+        "two-hump"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17927,6 +20482,7 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "alpaca",
+        "animal",
         "guanaco",
         "llama",
         "vicuña",
@@ -17941,6 +20497,7 @@ const UnicodeEmojis: {
       "description": "giraffe",
       "version": "5.0",
       "keywords": [
+        "animal",
         "giraffe",
         "spots"
       ],
@@ -17953,6 +20510,7 @@ const UnicodeEmojis: {
       "description": "elephant",
       "version": "0.6",
       "keywords": [
+        "animal",
         "elephant"
       ],
       "category": "animals-nature",
@@ -17964,11 +20522,12 @@ const UnicodeEmojis: {
       "description": "mammoth",
       "version": "13.0",
       "keywords": [
+        "animal",
         "extinction",
         "large",
         "mammoth",
         "tusk",
-        "woolly"
+        "wooly"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -17979,6 +20538,7 @@ const UnicodeEmojis: {
       "description": "rhinoceros",
       "version": "3.0",
       "keywords": [
+        "animal",
         "rhinoceros"
       ],
       "category": "animals-nature",
@@ -17990,6 +20550,7 @@ const UnicodeEmojis: {
       "description": "hippopotamus",
       "version": "11.0",
       "keywords": [
+        "animal",
         "hippo",
         "hippopotamus"
       ],
@@ -18002,6 +20563,7 @@ const UnicodeEmojis: {
       "description": "mouse face",
       "version": "0.6",
       "keywords": [
+        "animal",
         "face",
         "mouse"
       ],
@@ -18014,6 +20576,8 @@ const UnicodeEmojis: {
       "description": "mouse",
       "version": "1.0",
       "keywords": [
+        "animal",
+        "animals",
         "mouse"
       ],
       "category": "animals-nature",
@@ -18025,6 +20589,7 @@ const UnicodeEmojis: {
       "description": "rat",
       "version": "1.0",
       "keywords": [
+        "animal",
         "rat"
       ],
       "category": "animals-nature",
@@ -18036,6 +20601,7 @@ const UnicodeEmojis: {
       "description": "hamster",
       "version": "0.6",
       "keywords": [
+        "animal",
         "face",
         "hamster",
         "pet"
@@ -18049,6 +20615,7 @@ const UnicodeEmojis: {
       "description": "rabbit face",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bunny",
         "face",
         "pet",
@@ -18063,6 +20630,7 @@ const UnicodeEmojis: {
       "description": "rabbit",
       "version": "1.0",
       "keywords": [
+        "animal",
         "bunny",
         "pet",
         "rabbit"
@@ -18076,6 +20644,7 @@ const UnicodeEmojis: {
       "description": "chipmunk",
       "version": "0.7",
       "keywords": [
+        "animal",
         "chipmunk",
         "squirrel"
       ],
@@ -18088,8 +20657,10 @@ const UnicodeEmojis: {
       "description": "beaver",
       "version": "13.0",
       "keywords": [
+        "animal",
         "beaver",
-        "dam"
+        "dam",
+        "teeth"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18100,6 +20671,7 @@ const UnicodeEmojis: {
       "description": "hedgehog",
       "version": "5.0",
       "keywords": [
+        "animal",
         "hedgehog",
         "spiny"
       ],
@@ -18112,6 +20684,7 @@ const UnicodeEmojis: {
       "description": "bat",
       "version": "3.0",
       "keywords": [
+        "animal",
         "bat",
         "vampire"
       ],
@@ -18124,8 +20697,12 @@ const UnicodeEmojis: {
       "description": "bear",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bear",
-        "face"
+        "face",
+        "grizzly",
+        "growl",
+        "honey"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18136,9 +20713,10 @@ const UnicodeEmojis: {
       "description": "polar bear",
       "version": "13.0",
       "keywords": [
+        "animal",
         "arctic",
         "bear",
-        "polar bear",
+        "polar",
         "white"
       ],
       "category": "animals-nature",
@@ -18150,9 +20728,14 @@ const UnicodeEmojis: {
       "description": "koala",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "australia",
+        "bear",
+        "down",
         "face",
         "koala",
-        "marsupial"
+        "marsupial",
+        "under"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18163,6 +20746,8 @@ const UnicodeEmojis: {
       "description": "panda",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "bamboo",
         "face",
         "panda"
       ],
@@ -18188,6 +20773,7 @@ const UnicodeEmojis: {
       "description": "otter",
       "version": "12.0",
       "keywords": [
+        "animal",
         "fishing",
         "otter",
         "playful"
@@ -18201,6 +20787,7 @@ const UnicodeEmojis: {
       "description": "skunk",
       "version": "12.0",
       "keywords": [
+        "animal",
         "skunk",
         "stink"
       ],
@@ -18213,6 +20800,7 @@ const UnicodeEmojis: {
       "description": "kangaroo",
       "version": "11.0",
       "keywords": [
+        "animal",
         "joey",
         "jump",
         "kangaroo",
@@ -18227,8 +20815,9 @@ const UnicodeEmojis: {
       "description": "badger",
       "version": "11.0",
       "keywords": [
+        "animal",
         "badger",
-        "honey badger",
+        "honey",
         "pester"
       ],
       "category": "animals-nature",
@@ -18242,8 +20831,9 @@ const UnicodeEmojis: {
       "keywords": [
         "feet",
         "paw",
-        "paw prints",
-        "print"
+        "paws",
+        "print",
+        "prints"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18255,6 +20845,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bird",
+        "gobble",
+        "thanksgiving",
         "turkey"
       ],
       "category": "animals-nature",
@@ -18266,8 +20858,10 @@ const UnicodeEmojis: {
       "description": "chicken",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bird",
-        "chicken"
+        "chicken",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18278,7 +20872,9 @@ const UnicodeEmojis: {
       "description": "rooster",
       "version": "1.0",
       "keywords": [
+        "animal",
         "bird",
+        "ornithology",
         "rooster"
       ],
       "category": "animals-nature",
@@ -18290,9 +20886,11 @@ const UnicodeEmojis: {
       "description": "hatching chick",
       "version": "0.6",
       "keywords": [
+        "animal",
         "baby",
         "bird",
         "chick",
+        "egg",
         "hatching"
       ],
       "category": "animals-nature",
@@ -18304,9 +20902,11 @@ const UnicodeEmojis: {
       "description": "baby chick",
       "version": "0.6",
       "keywords": [
+        "animal",
         "baby",
         "bird",
-        "chick"
+        "chick",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18317,10 +20917,13 @@ const UnicodeEmojis: {
       "description": "front-facing baby chick",
       "version": "0.6",
       "keywords": [
+        "animal",
         "baby",
         "bird",
         "chick",
-        "front-facing baby chick"
+        "front-facing",
+        "newborn",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18331,7 +20934,9 @@ const UnicodeEmojis: {
       "description": "bird",
       "version": "0.6",
       "keywords": [
-        "bird"
+        "animal",
+        "bird",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18342,7 +20947,10 @@ const UnicodeEmojis: {
       "description": "penguin",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "antarctica",
         "bird",
+        "ornithology",
         "penguin"
       ],
       "category": "animals-nature",
@@ -18357,6 +20965,7 @@ const UnicodeEmojis: {
         "bird",
         "dove",
         "fly",
+        "ornithology",
         "peace"
       ],
       "category": "animals-nature",
@@ -18368,8 +20977,10 @@ const UnicodeEmojis: {
       "description": "eagle",
       "version": "3.0",
       "keywords": [
+        "animal",
         "bird",
-        "eagle"
+        "eagle",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18380,8 +20991,10 @@ const UnicodeEmojis: {
       "description": "duck",
       "version": "3.0",
       "keywords": [
+        "animal",
         "bird",
-        "duck"
+        "duck",
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18392,10 +21005,13 @@ const UnicodeEmojis: {
       "description": "swan",
       "version": "11.0",
       "keywords": [
+        "animal",
         "bird",
         "cygnet",
+        "duckling",
+        "ornithology",
         "swan",
-        "ugly duckling"
+        "ugly"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18406,7 +21022,9 @@ const UnicodeEmojis: {
       "description": "owl",
       "version": "3.0",
       "keywords": [
+        "animal",
         "bird",
+        "ornithology",
         "owl",
         "wise"
       ],
@@ -18419,10 +21037,12 @@ const UnicodeEmojis: {
       "description": "dodo",
       "version": "13.0",
       "keywords": [
+        "animal",
+        "bird",
         "dodo",
         "extinction",
         "large",
-        "Mauritius"
+        "ornithology"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18448,8 +21068,11 @@ const UnicodeEmojis: {
       "description": "flamingo",
       "version": "12.0",
       "keywords": [
+        "animal",
+        "bird",
         "flamboyant",
         "flamingo",
+        "ornithology",
         "tropical"
       ],
       "category": "animals-nature",
@@ -18461,10 +21084,14 @@ const UnicodeEmojis: {
       "description": "peacock",
       "version": "11.0",
       "keywords": [
+        "animal",
         "bird",
+        "colorful",
+        "ornithology",
         "ostentatious",
         "peacock",
         "peahen",
+        "pretty",
         "proud"
       ],
       "category": "animals-nature",
@@ -18476,7 +21103,9 @@ const UnicodeEmojis: {
       "description": "parrot",
       "version": "11.0",
       "keywords": [
+        "animal",
         "bird",
+        "ornithology",
         "parrot",
         "pirate",
         "talk"
@@ -18491,10 +21120,14 @@ const UnicodeEmojis: {
       "version": "15.0",
       "keywords": [
         "angelic",
+        "ascend",
         "aviation",
         "bird",
+        "fly",
         "flying",
+        "heavenly",
         "mythology",
+        "soar",
         "wing"
       ],
       "category": "animals-nature",
@@ -18506,9 +21139,14 @@ const UnicodeEmojis: {
       "description": "black bird",
       "version": "15.0",
       "keywords": [
+        "animal",
+        "beak",
         "bird",
         "black",
+        "caw",
+        "corvid",
         "crow",
+        "ornithology",
         "raven",
         "rook"
       ],
@@ -18521,10 +21159,17 @@ const UnicodeEmojis: {
       "description": "goose",
       "version": "15.0",
       "keywords": [
+        "animal",
         "bird",
+        "duck",
+        "flock",
         "fowl",
+        "gaggle",
+        "gander",
+        "geese",
         "goose",
         "honk",
+        "ornithology",
         "silly"
       ],
       "category": "animals-nature",
@@ -18533,9 +21178,26 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🐦‍🔥",
-      "description": null,
+      "description": "phoenix",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "ascend",
+        "ascension",
+        "emerge",
+        "fantasy",
+        "firebird",
+        "glory",
+        "immortal",
+        "phoenix",
+        "rebirth",
+        "reincarnation",
+        "reinvent",
+        "renewal",
+        "revival",
+        "revive",
+        "rise",
+        "transform"
+      ],
       "category": "animals-nature",
       "group": "animals-nature",
       "subgroup": "animal-bird"
@@ -18545,6 +21207,7 @@ const UnicodeEmojis: {
       "description": "frog",
       "version": "0.6",
       "keywords": [
+        "animal",
         "face",
         "frog"
       ],
@@ -18557,7 +21220,9 @@ const UnicodeEmojis: {
       "description": "crocodile",
       "version": "1.0",
       "keywords": [
-        "crocodile"
+        "animal",
+        "crocodile",
+        "zoo"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18568,6 +21233,7 @@ const UnicodeEmojis: {
       "description": "turtle",
       "version": "0.6",
       "keywords": [
+        "animal",
         "terrapin",
         "tortoise",
         "turtle"
@@ -18581,6 +21247,7 @@ const UnicodeEmojis: {
       "description": "lizard",
       "version": "3.0",
       "keywords": [
+        "animal",
         "lizard",
         "reptile"
       ],
@@ -18593,6 +21260,7 @@ const UnicodeEmojis: {
       "description": "snake",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bearer",
         "Ophiuchus",
         "serpent",
@@ -18608,9 +21276,12 @@ const UnicodeEmojis: {
       "description": "dragon face",
       "version": "0.6",
       "keywords": [
+        "animal",
         "dragon",
         "face",
-        "fairy tale"
+        "fairy",
+        "fairytale",
+        "tale"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18621,8 +21292,12 @@ const UnicodeEmojis: {
       "description": "dragon",
       "version": "1.0",
       "keywords": [
+        "animal",
         "dragon",
-        "fairy tale"
+        "fairy",
+        "fairytale",
+        "knights",
+        "tale"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18635,6 +21310,7 @@ const UnicodeEmojis: {
       "keywords": [
         "brachiosaurus",
         "brontosaurus",
+        "dinosaur",
         "diplodocus",
         "sauropod"
       ],
@@ -18647,8 +21323,11 @@ const UnicodeEmojis: {
       "description": "T-Rex",
       "version": "5.0",
       "keywords": [
+        "dinosaur",
+        "Rex",
+        "T",
         "T-Rex",
-        "Tyrannosaurus Rex"
+        "Tyrannosaurus"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18659,7 +21338,10 @@ const UnicodeEmojis: {
       "description": "spouting whale",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "beach",
         "face",
+        "ocean",
         "spouting",
         "whale"
       ],
@@ -18672,6 +21354,9 @@ const UnicodeEmojis: {
       "description": "whale",
       "version": "1.0",
       "keywords": [
+        "animal",
+        "beach",
+        "ocean",
         "whale"
       ],
       "category": "animals-nature",
@@ -18683,8 +21368,11 @@ const UnicodeEmojis: {
       "description": "dolphin",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "beach",
         "dolphin",
-        "flipper"
+        "flipper",
+        "ocean"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18695,7 +21383,10 @@ const UnicodeEmojis: {
       "description": "seal",
       "version": "13.0",
       "keywords": [
-        "sea lion",
+        "animal",
+        "lion",
+        "ocean",
+        "sea",
         "seal"
       ],
       "category": "animals-nature",
@@ -18707,7 +21398,11 @@ const UnicodeEmojis: {
       "description": "fish",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "dinner",
         "fish",
+        "fishes",
+        "fishing",
         "Pisces",
         "zodiac"
       ],
@@ -18720,7 +21415,9 @@ const UnicodeEmojis: {
       "description": "tropical fish",
       "version": "0.6",
       "keywords": [
+        "animal",
         "fish",
+        "fishes",
         "tropical"
       ],
       "category": "animals-nature",
@@ -18732,6 +21429,7 @@ const UnicodeEmojis: {
       "description": "blowfish",
       "version": "0.6",
       "keywords": [
+        "animal",
         "blowfish",
         "fish"
       ],
@@ -18744,6 +21442,7 @@ const UnicodeEmojis: {
       "description": "shark",
       "version": "3.0",
       "keywords": [
+        "animal",
         "fish",
         "shark"
       ],
@@ -18756,6 +21455,9 @@ const UnicodeEmojis: {
       "description": "octopus",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "creature",
+        "ocean",
         "octopus"
       ],
       "category": "animals-nature",
@@ -18767,6 +21469,10 @@ const UnicodeEmojis: {
       "description": "spiral shell",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "beach",
+        "conch",
+        "sea",
         "shell",
         "spiral"
       ],
@@ -18779,9 +21485,12 @@ const UnicodeEmojis: {
       "description": "coral",
       "version": "14.0",
       "keywords": [
+        "change",
+        "climate",
         "coral",
         "ocean",
-        "reef"
+        "reef",
+        "sea"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18792,13 +21501,90 @@ const UnicodeEmojis: {
       "description": "jellyfish",
       "version": "15.0",
       "keywords": [
+        "animal",
+        "aquarium",
         "burn",
         "invertebrate",
         "jelly",
         "jellyfish",
+        "life",
         "marine",
+        "ocean",
         "ouch",
-        "stinger"
+        "plankton",
+        "sea",
+        "sting",
+        "stinger",
+        "tentacles"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🦀",
+      "description": "crab",
+      "version": "1.0",
+      "keywords": [
+        "Cancer",
+        "crab",
+        "zodiac"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🦞",
+      "description": "lobster",
+      "version": "11.0",
+      "keywords": [
+        "animal",
+        "bisque",
+        "claws",
+        "lobster",
+        "seafood"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🦐",
+      "description": "shrimp",
+      "version": "3.0",
+      "keywords": [
+        "food",
+        "shellfish",
+        "shrimp",
+        "small"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🦑",
+      "description": "squid",
+      "version": "3.0",
+      "keywords": [
+        "animal",
+        "food",
+        "mollusk",
+        "squid"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "animal-marine"
+    },
+    {
+      "emoji": "🦪",
+      "description": "oyster",
+      "version": "12.0",
+      "keywords": [
+        "diving",
+        "oyster",
+        "pearl"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18809,6 +21595,11 @@ const UnicodeEmojis: {
       "description": "snail",
       "version": "0.6",
       "keywords": [
+        "animal",
+        "escargot",
+        "garden",
+        "nature",
+        "slug",
         "snail"
       ],
       "category": "animals-nature",
@@ -18833,7 +21624,9 @@ const UnicodeEmojis: {
       "description": "bug",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bug",
+        "garden",
         "insect"
       ],
       "category": "animals-nature",
@@ -18845,7 +21638,9 @@ const UnicodeEmojis: {
       "description": "ant",
       "version": "0.6",
       "keywords": [
+        "animal",
         "ant",
+        "garden",
         "insect"
       ],
       "category": "animals-nature",
@@ -18857,9 +21652,14 @@ const UnicodeEmojis: {
       "description": "honeybee",
       "version": "0.6",
       "keywords": [
+        "animal",
         "bee",
+        "bumblebee",
+        "honey",
         "honeybee",
-        "insect"
+        "insect",
+        "nature",
+        "spring"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18870,6 +21670,7 @@ const UnicodeEmojis: {
       "description": "beetle",
       "version": "13.0",
       "keywords": [
+        "animal",
         "beetle",
         "bug",
         "insect"
@@ -18883,11 +21684,14 @@ const UnicodeEmojis: {
       "description": "lady beetle",
       "version": "0.6",
       "keywords": [
+        "animal",
         "beetle",
+        "garden",
         "insect",
-        "lady beetle",
+        "lady",
         "ladybird",
-        "ladybug"
+        "ladybug",
+        "nature"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18898,8 +21702,12 @@ const UnicodeEmojis: {
       "description": "cricket",
       "version": "5.0",
       "keywords": [
+        "animal",
+        "bug",
         "cricket",
-        "grasshopper"
+        "grasshopper",
+        "insect",
+        "Orthoptera"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -18910,6 +21718,7 @@ const UnicodeEmojis: {
       "description": "cockroach",
       "version": "13.0",
       "keywords": [
+        "animal",
         "cockroach",
         "insect",
         "pest",
@@ -18924,6 +21733,7 @@ const UnicodeEmojis: {
       "description": "spider",
       "version": "0.7",
       "keywords": [
+        "animal",
         "insect",
         "spider"
       ],
@@ -18948,9 +21758,9 @@ const UnicodeEmojis: {
       "description": "scorpion",
       "version": "1.0",
       "keywords": [
-        "scorpio",
         "Scorpio",
         "scorpion",
+        "Scorpius",
         "zodiac"
       ],
       "category": "animals-nature",
@@ -18962,8 +21772,10 @@ const UnicodeEmojis: {
       "description": "mosquito",
       "version": "11.0",
       "keywords": [
+        "bite",
         "disease",
         "fever",
+        "insect",
         "malaria",
         "mosquito",
         "pest",
@@ -18978,8 +21790,10 @@ const UnicodeEmojis: {
       "description": "fly",
       "version": "13.0",
       "keywords": [
+        "animal",
         "disease",
         "fly",
+        "insect",
         "maggot",
         "pest",
         "rotting"
@@ -18993,6 +21807,7 @@ const UnicodeEmojis: {
       "description": "worm",
       "version": "13.0",
       "keywords": [
+        "animal",
         "annelid",
         "earthworm",
         "parasite",
@@ -19010,6 +21825,7 @@ const UnicodeEmojis: {
         "amoeba",
         "bacteria",
         "microbe",
+        "science",
         "virus"
       ],
       "category": "animals-nature",
@@ -19021,8 +21837,14 @@ const UnicodeEmojis: {
       "description": "bouquet",
       "version": "0.6",
       "keywords": [
+        "anniversary",
+        "birthday",
         "bouquet",
-        "flower"
+        "date",
+        "flower",
+        "love",
+        "plant",
+        "romance"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19035,7 +21857,10 @@ const UnicodeEmojis: {
       "keywords": [
         "blossom",
         "cherry",
-        "flower"
+        "flower",
+        "plant",
+        "spring",
+        "springtime"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19047,7 +21872,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "flower",
-        "white flower"
+        "white"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19058,11 +21883,15 @@ const UnicodeEmojis: {
       "description": "lotus",
       "version": "14.0",
       "keywords": [
+        "beauty",
         "Buddhism",
+        "calm",
         "flower",
         "Hinduism",
         "lotus",
-        "purity"
+        "peace",
+        "purity",
+        "serenity"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19085,8 +21914,14 @@ const UnicodeEmojis: {
       "description": "rose",
       "version": "0.6",
       "keywords": [
+        "beauty",
+        "elegant",
         "flower",
-        "rose"
+        "love",
+        "plant",
+        "red",
+        "rose",
+        "valentine"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19097,6 +21932,7 @@ const UnicodeEmojis: {
       "description": "wilted flower",
       "version": "3.0",
       "keywords": [
+        "dying",
         "flower",
         "wilted"
       ],
@@ -19110,7 +21946,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "flower",
-        "hibiscus"
+        "hibiscus",
+        "plant"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19122,6 +21959,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "flower",
+        "outdoors",
+        "plant",
         "sun",
         "sunflower"
       ],
@@ -19135,7 +21974,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "blossom",
-        "flower"
+        "buttercup",
+        "dandelion",
+        "flower",
+        "plant"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19146,7 +21988,10 @@ const UnicodeEmojis: {
       "description": "tulip",
       "version": "0.6",
       "keywords": [
+        "blossom",
         "flower",
+        "growth",
+        "plant",
         "tulip"
       ],
       "category": "animals-nature",
@@ -19158,12 +22003,20 @@ const UnicodeEmojis: {
       "description": "hyacinth",
       "version": "15.0",
       "keywords": [
+        "bloom",
         "bluebonnet",
         "flower",
         "hyacinth",
+        "indigo",
         "lavender",
+        "lilac",
         "lupine",
-        "snapdragon"
+        "plant",
+        "purple",
+        "shrub",
+        "snapdragon",
+        "spring",
+        "violet"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19174,7 +22027,10 @@ const UnicodeEmojis: {
       "description": "seedling",
       "version": "0.6",
       "keywords": [
+        "plant",
+        "sapling",
         "seedling",
+        "sprout",
         "young"
       ],
       "category": "animals-nature",
@@ -19186,13 +22042,13 @@ const UnicodeEmojis: {
       "description": "potted plant",
       "version": "13.0",
       "keywords": [
-        "boring",
+        "decor",
         "grow",
         "house",
         "nurturing",
         "plant",
-        "potted plant",
-        "useless"
+        "pot",
+        "potted"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19203,7 +22059,10 @@ const UnicodeEmojis: {
       "description": "evergreen tree",
       "version": "1.0",
       "keywords": [
-        "evergreen tree",
+        "christmas",
+        "evergreen",
+        "forest",
+        "pine",
         "tree"
       ],
       "category": "animals-nature",
@@ -19216,6 +22075,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "deciduous",
+        "forest",
+        "green",
+        "habitat",
         "shedding",
         "tree"
       ],
@@ -19228,8 +22090,11 @@ const UnicodeEmojis: {
       "description": "palm tree",
       "version": "0.6",
       "keywords": [
+        "beach",
         "palm",
-        "tree"
+        "plant",
+        "tree",
+        "tropical"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19241,6 +22106,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cactus",
+        "desert",
+        "drought",
+        "nature",
         "plant"
       ],
       "category": "animals-nature",
@@ -19254,8 +22122,10 @@ const UnicodeEmojis: {
       "keywords": [
         "ear",
         "grain",
+        "grains",
+        "plant",
         "rice",
-        "sheaf of rice"
+        "sheaf"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19267,7 +22137,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "herb",
-        "leaf"
+        "leaf",
+        "plant"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19278,6 +22149,7 @@ const UnicodeEmojis: {
       "description": "shamrock",
       "version": "1.0",
       "keywords": [
+        "irish",
         "plant",
         "shamrock"
       ],
@@ -19293,8 +22165,11 @@ const UnicodeEmojis: {
         "4",
         "clover",
         "four",
-        "four-leaf clover",
-        "leaf"
+        "four-leaf",
+        "irish",
+        "leaf",
+        "lucky",
+        "plant"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19318,7 +22193,9 @@ const UnicodeEmojis: {
       "description": "fallen leaf",
       "version": "0.6",
       "keywords": [
-        "fallen leaf",
+        "autumn",
+        "fall",
+        "fallen",
         "falling",
         "leaf"
       ],
@@ -19333,8 +22210,8 @@ const UnicodeEmojis: {
       "keywords": [
         "blow",
         "flutter",
+        "fluttering",
         "leaf",
-        "leaf fluttering in wind",
         "wind"
       ],
       "category": "animals-nature",
@@ -19346,7 +22223,10 @@ const UnicodeEmojis: {
       "description": "empty nest",
       "version": "14.0",
       "keywords": [
-        "empty nest",
+        "branch",
+        "empty",
+        "home",
+        "nest",
         "nesting"
       ],
       "category": "animals-nature",
@@ -19358,7 +22238,11 @@ const UnicodeEmojis: {
       "description": "nest with eggs",
       "version": "14.0",
       "keywords": [
-        "nest with eggs",
+        "bird",
+        "branch",
+        "egg",
+        "eggs",
+        "nest",
         "nesting"
       ],
       "category": "animals-nature",
@@ -19370,8 +22254,29 @@ const UnicodeEmojis: {
       "description": "mushroom",
       "version": "0.6",
       "keywords": [
+        "fungus",
         "mushroom",
         "toadstool"
+      ],
+      "category": "animals-nature",
+      "group": "animals-nature",
+      "subgroup": "plant-other"
+    },
+    {
+      "emoji": "🪾",
+      "description": "leafless tree",
+      "version": "16.0",
+      "keywords": [
+        "bare",
+        "barren",
+        "branches",
+        "dead",
+        "drought",
+        "leafless",
+        "tree",
+        "trunk",
+        "winter",
+        "wood"
       ],
       "category": "animals-nature",
       "group": "animals-nature",
@@ -19382,6 +22287,7 @@ const UnicodeEmojis: {
       "description": "grapes",
       "version": "0.6",
       "keywords": [
+        "Dionysus",
         "fruit",
         "grape",
         "grapes"
@@ -19395,6 +22301,7 @@ const UnicodeEmojis: {
       "description": "melon",
       "version": "0.6",
       "keywords": [
+        "cantaloupe",
         "fruit",
         "melon"
       ],
@@ -19419,9 +22326,13 @@ const UnicodeEmojis: {
       "description": "tangerine",
       "version": "0.6",
       "keywords": [
+        "c",
+        "citrus",
         "fruit",
+        "nectarine",
         "orange",
-        "tangerine"
+        "tangerine",
+        "vitamin"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19434,7 +22345,8 @@ const UnicodeEmojis: {
       "keywords": [
         "citrus",
         "fruit",
-        "lemon"
+        "lemon",
+        "sour"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19442,9 +22354,26 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🍋‍🟩",
-      "description": null,
+      "description": "lime",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "acidity",
+        "citrus",
+        "cocktail",
+        "fruit",
+        "garnish",
+        "key",
+        "lime",
+        "margarita",
+        "mojito",
+        "refreshing",
+        "salsa",
+        "sour",
+        "tangy",
+        "tequila",
+        "tropical",
+        "zest"
+      ],
       "category": "food-drink",
       "group": "food-drink",
       "subgroup": "food-fruit"
@@ -19455,7 +22384,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "banana",
-        "fruit"
+        "fruit",
+        "potassium"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19466,8 +22396,11 @@ const UnicodeEmojis: {
       "description": "pineapple",
       "version": "0.6",
       "keywords": [
+        "colada",
         "fruit",
-        "pineapple"
+        "pina",
+        "pineapple",
+        "tropical"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19478,6 +22411,7 @@ const UnicodeEmojis: {
       "description": "mango",
       "version": "11.0",
       "keywords": [
+        "food",
         "fruit",
         "mango",
         "tropical"
@@ -19492,8 +22426,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "apple",
+        "diet",
+        "food",
         "fruit",
-        "red"
+        "health",
+        "red",
+        "ripe"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19569,11 +22507,14 @@ const UnicodeEmojis: {
       "description": "blueberries",
       "version": "13.0",
       "keywords": [
+        "berries",
         "berry",
         "bilberry",
         "blue",
         "blueberries",
-        "blueberry"
+        "blueberry",
+        "food",
+        "fruit"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19597,6 +22538,7 @@ const UnicodeEmojis: {
       "description": "tomato",
       "version": "0.6",
       "keywords": [
+        "food",
         "fruit",
         "tomato",
         "vegetable"
@@ -19623,8 +22565,9 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "coconut",
+        "colada",
         "palm",
-        "piña colada"
+        "piña"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19688,8 +22631,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "corn",
+        "crops",
         "ear",
-        "ear of corn",
+        "farm",
         "maize",
         "maze"
       ],
@@ -19714,8 +22658,9 @@ const UnicodeEmojis: {
       "description": "bell pepper",
       "version": "13.0",
       "keywords": [
-        "bell pepper",
+        "bell",
         "capsicum",
+        "food",
         "pepper",
         "vegetable"
       ],
@@ -19742,11 +22687,15 @@ const UnicodeEmojis: {
       "description": "leafy green",
       "version": "11.0",
       "keywords": [
-        "bok choy",
+        "bok",
+        "burgers",
         "cabbage",
+        "choy",
+        "green",
         "kale",
-        "leafy green",
-        "lettuce"
+        "leafy",
+        "lettuce",
+        "salad"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19758,7 +22707,8 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "broccoli",
-        "wild cabbage"
+        "cabbage",
+        "wild"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19811,7 +22761,8 @@ const UnicodeEmojis: {
         "beans",
         "food",
         "kidney",
-        "legume"
+        "legume",
+        "small"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19822,6 +22773,7 @@ const UnicodeEmojis: {
       "description": "chestnut",
       "version": "0.6",
       "keywords": [
+        "almond",
         "chestnut",
         "plant"
       ],
@@ -19835,7 +22787,10 @@ const UnicodeEmojis: {
       "version": "15.0",
       "keywords": [
         "beer",
-        "ginger root",
+        "ginger",
+        "health",
+        "herb",
+        "natural",
         "root",
         "spice"
       ],
@@ -19849,11 +22804,14 @@ const UnicodeEmojis: {
       "version": "15.0",
       "keywords": [
         "beans",
+        "beanstalk",
         "edamame",
         "legume",
         "pea",
         "pod",
-        "vegetable"
+        "soybean",
+        "vegetable",
+        "veggie"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19861,9 +22819,45 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "🍄‍🟫",
-      "description": null,
+      "description": "brown mushroom",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "food",
+        "fungi",
+        "fungus",
+        "mushroom",
+        "nature",
+        "pizza",
+        "portobello",
+        "shiitake",
+        "shroom",
+        "spore",
+        "sprout",
+        "toppings",
+        "truffle",
+        "vegetable",
+        "vegetarian",
+        "veggie"
+      ],
+      "category": "food-drink",
+      "group": "food-drink",
+      "subgroup": "food-vegetable"
+    },
+    {
+      "emoji": "🫜",
+      "description": "root vegetable",
+      "version": "16.0",
+      "keywords": [
+        "beet",
+        "food",
+        "garden",
+        "radish",
+        "root",
+        "salad",
+        "turnip",
+        "vegetable",
+        "vegetarian"
+      ],
       "category": "food-drink",
       "group": "food-drink",
       "subgroup": "food-vegetable"
@@ -19874,7 +22868,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bread",
-        "loaf"
+        "carbs",
+        "food",
+        "grain",
+        "loaf",
+        "restaurant",
+        "toast",
+        "wheat"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19887,6 +22887,7 @@ const UnicodeEmojis: {
       "keywords": [
         "bread",
         "breakfast",
+        "crescent",
         "croissant",
         "food",
         "french",
@@ -19916,7 +22917,10 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "arepa",
+        "bread",
         "flatbread",
+        "food",
+        "gordita",
         "lavash",
         "naan",
         "pita"
@@ -19930,6 +22934,7 @@ const UnicodeEmojis: {
       "description": "pretzel",
       "version": "5.0",
       "keywords": [
+        "convoluted",
         "pretzel",
         "twisted"
       ],
@@ -19944,6 +22949,7 @@ const UnicodeEmojis: {
       "keywords": [
         "bagel",
         "bakery",
+        "bread",
         "breakfast",
         "schmear"
       ],
@@ -19987,7 +22993,7 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "cheese",
-        "cheese wedge"
+        "wedge"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -19999,8 +23005,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bone",
-        "meat",
-        "meat on bone"
+        "meat"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20014,8 +23019,10 @@ const UnicodeEmojis: {
         "bone",
         "chicken",
         "drumstick",
+        "hungry",
         "leg",
-        "poultry"
+        "poultry",
+        "turkey"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20027,9 +23034,11 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "chop",
-        "cut of meat",
+        "cut",
         "lambchop",
+        "meat",
         "porkchop",
+        "red",
         "steak"
       ],
       "category": "food-drink",
@@ -20056,7 +23065,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "burger",
-        "hamburger"
+        "eat",
+        "fast",
+        "food",
+        "hamburger",
+        "hungry"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20067,6 +23080,8 @@ const UnicodeEmojis: {
       "description": "french fries",
       "version": "0.6",
       "keywords": [
+        "fast",
+        "food",
         "french",
         "fries"
       ],
@@ -20080,6 +23095,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cheese",
+        "food",
+        "hungry",
+        "pepperoni",
         "pizza",
         "slice"
       ],
@@ -20092,8 +23110,9 @@ const UnicodeEmojis: {
       "description": "hot dog",
       "version": "1.0",
       "keywords": [
+        "dog",
         "frankfurter",
-        "hot dog",
+        "hot",
         "hotdog",
         "sausage"
       ],
@@ -20143,7 +23162,9 @@ const UnicodeEmojis: {
       "description": "tamale",
       "version": "13.0",
       "keywords": [
+        "food",
         "mexican",
+        "pamonha",
         "tamale",
         "wrapped"
       ],
@@ -20200,9 +23221,16 @@ const UnicodeEmojis: {
       "keywords": [
         "breakfast",
         "cooking",
+        "easy",
         "egg",
+        "fry",
         "frying",
-        "pan"
+        "over",
+        "pan",
+        "restaurant",
+        "side",
+        "sunny",
+        "up"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20217,8 +23245,7 @@ const UnicodeEmojis: {
         "food",
         "paella",
         "pan",
-        "shallow",
-        "shallow pan of food"
+        "shallow"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20229,8 +23256,9 @@ const UnicodeEmojis: {
       "description": "pot of food",
       "version": "0.6",
       "keywords": [
+        "food",
         "pot",
-        "pot of food",
+        "soup",
         "stew"
       ],
       "category": "food-drink",
@@ -20245,9 +23273,10 @@ const UnicodeEmojis: {
         "cheese",
         "chocolate",
         "fondue",
+        "food",
         "melted",
         "pot",
-        "Swiss"
+        "ski"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20258,10 +23287,13 @@ const UnicodeEmojis: {
       "description": "bowl with spoon",
       "version": "5.0",
       "keywords": [
-        "bowl with spoon",
+        "bowl",
         "breakfast",
         "cereal",
-        "congee"
+        "congee",
+        "oatmeal",
+        "porridge",
+        "spoon"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20285,6 +23317,9 @@ const UnicodeEmojis: {
       "description": "popcorn",
       "version": "1.0",
       "keywords": [
+        "corn",
+        "movie",
+        "pop",
         "popcorn"
       ],
       "category": "food-drink",
@@ -20309,8 +23344,13 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "condiment",
+        "flavor",
+        "mad",
         "salt",
-        "shaker"
+        "salty",
+        "shaker",
+        "taste",
+        "upset"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20322,7 +23362,8 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "can",
-        "canned food"
+        "canned",
+        "food"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20334,7 +23375,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bento",
-        "box"
+        "box",
+        "food"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20346,6 +23388,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cracker",
+        "food",
         "rice"
       ],
       "category": "food-drink",
@@ -20358,6 +23401,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "ball",
+        "food",
         "Japanese",
         "rice"
       ],
@@ -20371,6 +23415,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cooked",
+        "food",
         "rice"
       ],
       "category": "food-drink",
@@ -20383,6 +23428,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "curry",
+        "food",
         "rice"
       ],
       "category": "food-drink",
@@ -20395,8 +23441,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bowl",
+        "chopsticks",
+        "food",
         "noodle",
+        "pho",
         "ramen",
+        "soup",
         "steaming"
       ],
       "category": "food-drink",
@@ -20408,7 +23458,10 @@ const UnicodeEmojis: {
       "description": "spaghetti",
       "version": "0.6",
       "keywords": [
+        "food",
+        "meatballs",
         "pasta",
+        "restaurant",
         "spaghetti"
       ],
       "category": "food-drink",
@@ -20420,6 +23473,7 @@ const UnicodeEmojis: {
       "description": "roasted sweet potato",
       "version": "0.6",
       "keywords": [
+        "food",
         "potato",
         "roasted",
         "sweet"
@@ -20433,8 +23487,10 @@ const UnicodeEmojis: {
       "description": "oden",
       "version": "0.6",
       "keywords": [
+        "food",
         "kebab",
         "oden",
+        "restaurant",
         "seafood",
         "skewer",
         "stick"
@@ -20448,6 +23504,7 @@ const UnicodeEmojis: {
       "description": "sushi",
       "version": "0.6",
       "keywords": [
+        "food",
         "sushi"
       ],
       "category": "food-drink",
@@ -20475,8 +23532,9 @@ const UnicodeEmojis: {
       "keywords": [
         "cake",
         "fish",
-        "fish cake with swirl",
+        "food",
         "pastry",
+        "restaurant",
         "swirl"
       ],
       "category": "food-drink",
@@ -20489,8 +23547,9 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "autumn",
+        "cake",
         "festival",
-        "moon cake",
+        "moon",
         "yuèbǐng"
       ],
       "category": "food-drink",
@@ -20534,7 +23593,8 @@ const UnicodeEmojis: {
       "description": "fortune cookie",
       "version": "5.0",
       "keywords": [
-        "fortune cookie",
+        "cookie",
+        "fortune",
         "prophecy"
       ],
       "category": "food-drink",
@@ -20546,79 +23606,17 @@ const UnicodeEmojis: {
       "description": "takeout box",
       "version": "5.0",
       "keywords": [
-        "oyster pail",
-        "takeout box"
+        "box",
+        "chopsticks",
+        "delivery",
+        "food",
+        "oyster",
+        "pail",
+        "takeout"
       ],
       "category": "food-drink",
       "group": "food-drink",
       "subgroup": "food-asian"
-    },
-    {
-      "emoji": "🦀",
-      "description": "crab",
-      "version": "1.0",
-      "keywords": [
-        "Cancer",
-        "crab",
-        "zodiac"
-      ],
-      "category": "animals-nature",
-      "group": "food-drink",
-      "subgroup": "food-marine"
-    },
-    {
-      "emoji": "🦞",
-      "description": "lobster",
-      "version": "11.0",
-      "keywords": [
-        "bisque",
-        "claws",
-        "lobster",
-        "seafood"
-      ],
-      "category": "animals-nature",
-      "group": "food-drink",
-      "subgroup": "food-marine"
-    },
-    {
-      "emoji": "🦐",
-      "description": "shrimp",
-      "version": "3.0",
-      "keywords": [
-        "food",
-        "shellfish",
-        "shrimp",
-        "small"
-      ],
-      "category": "animals-nature",
-      "group": "food-drink",
-      "subgroup": "food-marine"
-    },
-    {
-      "emoji": "🦑",
-      "description": "squid",
-      "version": "3.0",
-      "keywords": [
-        "food",
-        "molusc",
-        "squid"
-      ],
-      "category": "animals-nature",
-      "group": "food-drink",
-      "subgroup": "food-marine"
-    },
-    {
-      "emoji": "🦪",
-      "description": "oyster",
-      "version": "12.0",
-      "keywords": [
-        "diving",
-        "oyster",
-        "pearl"
-      ],
-      "category": "animals-nature",
-      "group": "food-drink",
-      "subgroup": "food-marine"
     },
     {
       "emoji": "🍦",
@@ -20627,8 +23625,11 @@ const UnicodeEmojis: {
       "keywords": [
         "cream",
         "dessert",
+        "food",
         "ice",
         "icecream",
+        "restaurant",
+        "serve",
         "soft",
         "sweet"
       ],
@@ -20643,6 +23644,7 @@ const UnicodeEmojis: {
       "keywords": [
         "dessert",
         "ice",
+        "restaurant",
         "shaved",
         "sweet"
       ],
@@ -20657,7 +23659,9 @@ const UnicodeEmojis: {
       "keywords": [
         "cream",
         "dessert",
+        "food",
         "ice",
+        "restaurant",
         "sweet"
       ],
       "category": "food-drink",
@@ -20673,6 +23677,7 @@ const UnicodeEmojis: {
         "dessert",
         "donut",
         "doughnut",
+        "food",
         "sweet"
       ],
       "category": "food-drink",
@@ -20684,6 +23689,8 @@ const UnicodeEmojis: {
       "description": "cookie",
       "version": "0.6",
       "keywords": [
+        "chip",
+        "chocolate",
         "cookie",
         "dessert",
         "sweet"
@@ -20697,10 +23704,12 @@ const UnicodeEmojis: {
       "description": "birthday cake",
       "version": "0.6",
       "keywords": [
+        "bday",
         "birthday",
         "cake",
         "celebration",
         "dessert",
+        "happy",
         "pastry",
         "sweet"
       ],
@@ -20731,7 +23740,11 @@ const UnicodeEmojis: {
       "keywords": [
         "bakery",
         "cupcake",
-        "sweet"
+        "dessert",
+        "sprinkles",
+        "sugar",
+        "sweet",
+        "treat"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20742,9 +23755,14 @@ const UnicodeEmojis: {
       "description": "pie",
       "version": "5.0",
       "keywords": [
+        "apple",
         "filling",
+        "fruit",
+        "meat",
         "pastry",
-        "pie"
+        "pie",
+        "pumpkin",
+        "slice"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20756,9 +23774,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bar",
+        "candy",
         "chocolate",
         "dessert",
-        "sweet"
+        "halloween",
+        "sweet",
+        "tooth"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20770,8 +23791,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "candy",
+        "cavities",
         "dessert",
-        "sweet"
+        "halloween",
+        "restaurant",
+        "sweet",
+        "tooth",
+        "wrapper"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20784,7 +23810,9 @@ const UnicodeEmojis: {
       "keywords": [
         "candy",
         "dessert",
+        "food",
         "lollipop",
+        "restaurant",
         "sweet"
       ],
       "category": "food-drink",
@@ -20810,8 +23838,12 @@ const UnicodeEmojis: {
       "description": "honey pot",
       "version": "0.6",
       "keywords": [
+        "barrel",
+        "bear",
+        "food",
         "honey",
         "honeypot",
+        "jar",
         "pot",
         "sweet"
       ],
@@ -20824,10 +23856,15 @@ const UnicodeEmojis: {
       "description": "baby bottle",
       "version": "1.0",
       "keywords": [
+        "babies",
         "baby",
+        "birth",
+        "born",
         "bottle",
         "drink",
-        "milk"
+        "infant",
+        "milk",
+        "newborn"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20840,7 +23877,6 @@ const UnicodeEmojis: {
       "keywords": [
         "drink",
         "glass",
-        "glass of milk",
         "milk"
       ],
       "category": "food-drink",
@@ -20853,9 +23889,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "beverage",
+        "cafe",
+        "caffeine",
+        "chai",
         "coffee",
         "drink",
         "hot",
+        "morning",
         "steaming",
         "tea"
       ],
@@ -20868,7 +23908,9 @@ const UnicodeEmojis: {
       "description": "teapot",
       "version": "13.0",
       "keywords": [
+        "brew",
         "drink",
+        "food",
         "pot",
         "tea",
         "teapot"
@@ -20885,9 +23927,10 @@ const UnicodeEmojis: {
         "beverage",
         "cup",
         "drink",
+        "handle",
+        "oolong",
         "tea",
-        "teacup",
-        "teacup without handle"
+        "teacup"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20903,6 +23946,7 @@ const UnicodeEmojis: {
         "bottle",
         "cup",
         "drink",
+        "restaurant",
         "sake"
       ],
       "category": "food-drink",
@@ -20916,7 +23960,6 @@ const UnicodeEmojis: {
       "keywords": [
         "bar",
         "bottle",
-        "bottle with popping cork",
         "cork",
         "drink",
         "popping"
@@ -20930,10 +23973,16 @@ const UnicodeEmojis: {
       "description": "wine glass",
       "version": "0.6",
       "keywords": [
+        "alcohol",
         "bar",
         "beverage",
+        "booze",
+        "club",
         "drink",
+        "drinking",
+        "drinks",
         "glass",
+        "restaurant",
         "wine"
       ],
       "category": "food-drink",
@@ -20945,10 +23994,18 @@ const UnicodeEmojis: {
       "description": "cocktail glass",
       "version": "0.6",
       "keywords": [
+        "alcohol",
         "bar",
+        "booze",
+        "club",
         "cocktail",
         "drink",
-        "glass"
+        "drinking",
+        "drinks",
+        "glass",
+        "mad",
+        "martini",
+        "men"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20959,9 +24016,20 @@ const UnicodeEmojis: {
       "description": "tropical drink",
       "version": "0.6",
       "keywords": [
+        "alcohol",
         "bar",
+        "booze",
+        "club",
+        "cocktail",
         "drink",
-        "tropical"
+        "drinking",
+        "drinks",
+        "drunk",
+        "mai",
+        "party",
+        "tai",
+        "tropical",
+        "tropics"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20972,10 +24040,20 @@ const UnicodeEmojis: {
       "description": "beer mug",
       "version": "0.6",
       "keywords": [
+        "alcohol",
+        "ale",
         "bar",
         "beer",
+        "booze",
         "drink",
-        "mug"
+        "drinking",
+        "drinks",
+        "mug",
+        "octoberfest",
+        "oktoberfest",
+        "pint",
+        "stein",
+        "summer"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -20986,12 +24064,17 @@ const UnicodeEmojis: {
       "description": "clinking beer mugs",
       "version": "0.6",
       "keywords": [
+        "alcohol",
         "bar",
         "beer",
+        "booze",
+        "bottoms",
+        "cheers",
         "clink",
-        "clinking beer mugs",
-        "drink",
-        "mug"
+        "clinking",
+        "drinking",
+        "drinks",
+        "mugs"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21004,9 +24087,10 @@ const UnicodeEmojis: {
       "keywords": [
         "celebrate",
         "clink",
-        "clinking glasses",
+        "clinking",
         "drink",
-        "glass"
+        "glass",
+        "glasses"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21019,8 +24103,10 @@ const UnicodeEmojis: {
       "keywords": [
         "glass",
         "liquor",
+        "scotch",
         "shot",
         "tumbler",
+        "whiskey",
         "whisky"
       ],
       "category": "food-drink",
@@ -21032,11 +24118,16 @@ const UnicodeEmojis: {
       "description": "pouring liquid",
       "version": "14.0",
       "keywords": [
+        "accident",
         "drink",
         "empty",
         "glass",
-        "pouring liquid",
-        "spill"
+        "liquid",
+        "oops",
+        "pour",
+        "pouring",
+        "spill",
+        "water"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21047,9 +24138,14 @@ const UnicodeEmojis: {
       "description": "cup with straw",
       "version": "5.0",
       "keywords": [
-        "cup with straw",
+        "cup",
+        "drink",
         "juice",
-        "soda"
+        "malt",
+        "soda",
+        "soft",
+        "straw",
+        "water"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21060,7 +24156,9 @@ const UnicodeEmojis: {
       "description": "bubble tea",
       "version": "13.0",
       "keywords": [
+        "boba",
         "bubble",
+        "food",
         "milk",
         "pearl",
         "tea"
@@ -21102,8 +24200,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "cold",
+        "cube",
         "ice",
-        "ice cube",
         "iceberg"
       ],
       "category": "food-drink",
@@ -21116,7 +24214,9 @@ const UnicodeEmojis: {
       "version": "5.0",
       "keywords": [
         "chopsticks",
-        "hashi"
+        "hashi",
+        "jeotgarak",
+        "kuaizi"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21128,8 +24228,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cooking",
+        "dinner",
+        "eat",
         "fork",
-        "fork and knife with plate",
         "knife",
         "plate"
       ],
@@ -21142,11 +24243,22 @@ const UnicodeEmojis: {
       "description": "fork and knife",
       "version": "0.6",
       "keywords": [
+        "breakfast",
+        "breaky",
         "cooking",
         "cutlery",
+        "delicious",
+        "dinner",
+        "eat",
+        "feed",
+        "food",
         "fork",
-        "fork and knife",
-        "knife"
+        "hungry",
+        "knife",
+        "lunch",
+        "restaurant",
+        "yum",
+        "yummy"
       ],
       "category": "food-drink",
       "group": "food-drink",
@@ -21157,6 +24269,7 @@ const UnicodeEmojis: {
       "description": "spoon",
       "version": "3.0",
       "keywords": [
+        "eat",
         "spoon",
         "tableware"
       ],
@@ -21169,9 +24282,10 @@ const UnicodeEmojis: {
       "description": "kitchen knife",
       "version": "0.6",
       "keywords": [
+        "chef",
         "cooking",
         "hocho",
-        "kitchen knife",
+        "kitchen",
         "knife",
         "tool",
         "weapon"
@@ -21189,6 +24303,7 @@ const UnicodeEmojis: {
         "container",
         "empty",
         "jar",
+        "nothing",
         "sauce",
         "store"
       ],
@@ -21206,6 +24321,8 @@ const UnicodeEmojis: {
         "cooking",
         "drink",
         "jug",
+        "tool",
+        "weapon",
         "zodiac"
       ],
       "category": "food-drink",
@@ -21220,8 +24337,9 @@ const UnicodeEmojis: {
         "Africa",
         "earth",
         "Europe",
+        "Europe-Africa",
         "globe",
-        "globe showing Europe-Africa",
+        "showing",
         "world"
       ],
       "category": "travel-places",
@@ -21236,7 +24354,7 @@ const UnicodeEmojis: {
         "Americas",
         "earth",
         "globe",
-        "globe showing Americas",
+        "showing",
         "world"
       ],
       "category": "travel-places",
@@ -21249,10 +24367,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "Asia",
+        "Asia-Australia",
         "Australia",
         "earth",
         "globe",
-        "globe showing Asia-Australia",
+        "showing",
         "world"
       ],
       "category": "travel-places",
@@ -21266,9 +24385,11 @@ const UnicodeEmojis: {
       "keywords": [
         "earth",
         "globe",
-        "globe with meridians",
+        "internet",
         "meridians",
-        "world"
+        "web",
+        "world",
+        "worldwide"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21292,8 +24413,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "Japan",
-        "map",
-        "map of Japan"
+        "map"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21305,6 +24425,7 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "compass",
+        "direction",
         "magnetic",
         "navigation",
         "orienteering"
@@ -21321,7 +24442,7 @@ const UnicodeEmojis: {
         "cold",
         "mountain",
         "snow",
-        "snow-capped mountain"
+        "snow-capped"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21345,6 +24466,7 @@ const UnicodeEmojis: {
       "keywords": [
         "eruption",
         "mountain",
+        "nature",
         "volcano"
       ],
       "category": "travel-places",
@@ -21357,8 +24479,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "fuji",
-        "mount fuji",
-        "mountain"
+        "mount",
+        "mountain",
+        "nature"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21381,7 +24504,6 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "beach",
-        "beach with umbrella",
         "umbrella"
       ],
       "category": "travel-places",
@@ -21416,7 +24538,7 @@ const UnicodeEmojis: {
       "description": "national park",
       "version": "0.7",
       "keywords": [
-        "national park",
+        "national",
         "park"
       ],
       "category": "travel-places",
@@ -21439,8 +24561,8 @@ const UnicodeEmojis: {
       "description": "classical building",
       "version": "0.7",
       "keywords": [
-        "classical",
-        "classical building"
+        "building",
+        "classical"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21451,8 +24573,9 @@ const UnicodeEmojis: {
       "description": "building construction",
       "version": "0.7",
       "keywords": [
-        "building construction",
-        "construction"
+        "building",
+        "construction",
+        "crane"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21482,7 +24605,8 @@ const UnicodeEmojis: {
         "heavy",
         "rock",
         "solid",
-        "stone"
+        "stone",
+        "tough"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21507,9 +24631,11 @@ const UnicodeEmojis: {
       "description": "hut",
       "version": "13.0",
       "keywords": [
+        "home",
         "house",
         "hut",
         "roundhouse",
+        "shelter",
         "yurt"
       ],
       "category": "travel-places",
@@ -21521,6 +24647,7 @@ const UnicodeEmojis: {
       "description": "houses",
       "version": "0.7",
       "keywords": [
+        "house",
         "houses"
       ],
       "category": "travel-places",
@@ -21533,6 +24660,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "derelict",
+        "home",
         "house"
       ],
       "category": "travel-places",
@@ -21544,8 +24672,17 @@ const UnicodeEmojis: {
       "description": "house",
       "version": "0.6",
       "keywords": [
+        "building",
+        "country",
+        "heart",
         "home",
-        "house"
+        "house",
+        "ranch",
+        "settle",
+        "simple",
+        "suburban",
+        "suburbia",
+        "where"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21556,10 +24693,18 @@ const UnicodeEmojis: {
       "description": "house with garden",
       "version": "0.6",
       "keywords": [
+        "building",
+        "country",
         "garden",
+        "heart",
         "home",
         "house",
-        "house with garden"
+        "ranch",
+        "settle",
+        "simple",
+        "suburban",
+        "suburbia",
+        "where"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21571,7 +24716,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "building",
-        "office building"
+        "city",
+        "cubical",
+        "job",
+        "office"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21582,8 +24730,9 @@ const UnicodeEmojis: {
       "description": "Japanese post office",
       "version": "0.6",
       "keywords": [
+        "building",
         "Japanese",
-        "Japanese post office",
+        "office",
         "post"
       ],
       "category": "travel-places",
@@ -21595,9 +24744,10 @@ const UnicodeEmojis: {
       "description": "post office",
       "version": "1.0",
       "keywords": [
+        "building",
         "European",
-        "post",
-        "post office"
+        "office",
+        "post"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21608,6 +24758,7 @@ const UnicodeEmojis: {
       "description": "hospital",
       "version": "0.6",
       "keywords": [
+        "building",
         "doctor",
         "hospital",
         "medicine"
@@ -21645,6 +24796,7 @@ const UnicodeEmojis: {
       "description": "love hotel",
       "version": "0.6",
       "keywords": [
+        "building",
         "hotel",
         "love"
       ],
@@ -21657,7 +24809,10 @@ const UnicodeEmojis: {
       "description": "convenience store",
       "version": "0.6",
       "keywords": [
+        "24",
+        "building",
         "convenience",
+        "hours",
         "store"
       ],
       "category": "travel-places",
@@ -21681,6 +24836,7 @@ const UnicodeEmojis: {
       "description": "department store",
       "version": "0.6",
       "keywords": [
+        "building",
         "department",
         "store"
       ],
@@ -21705,6 +24861,7 @@ const UnicodeEmojis: {
       "description": "Japanese castle",
       "version": "0.6",
       "keywords": [
+        "building",
         "castle",
         "Japanese"
       ],
@@ -21717,6 +24874,7 @@ const UnicodeEmojis: {
       "description": "castle",
       "version": "0.6",
       "keywords": [
+        "building",
         "castle",
         "European"
       ],
@@ -21730,6 +24888,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "chapel",
+        "hitched",
+        "nuptials",
         "romance",
         "wedding"
       ],
@@ -21755,8 +24915,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "liberty",
+        "Liberty",
+        "new",
+        "ny",
+        "nyc",
         "statue",
-        "Statue of Liberty"
+        "Statue",
+        "york"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21767,6 +24932,8 @@ const UnicodeEmojis: {
       "description": "church",
       "version": "0.6",
       "keywords": [
+        "bless",
+        "chapel",
         "Christian",
         "church",
         "cross",
@@ -21782,6 +24949,7 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "islam",
+        "masjid",
         "mosque",
         "Muslim",
         "religion"
@@ -21809,6 +24977,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Jew",
         "Jewish",
+        "judaism",
         "religion",
         "synagogue",
         "temple"
@@ -21835,10 +25004,12 @@ const UnicodeEmojis: {
       "description": "kaaba",
       "version": "1.0",
       "keywords": [
+        "hajj",
         "islam",
         "kaaba",
         "Muslim",
-        "religion"
+        "religion",
+        "umrah"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21885,8 +25056,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "night",
-        "night with stars",
-        "star"
+        "star",
+        "stars"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21910,10 +25081,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "morning",
-        "mountain",
+        "mountains",
+        "over",
         "sun",
-        "sunrise",
-        "sunrise over mountains"
+        "sunrise"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -21925,6 +25096,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "morning",
+        "nature",
         "sun",
         "sunrise"
       ],
@@ -21937,11 +25109,14 @@ const UnicodeEmojis: {
       "description": "cityscape at dusk",
       "version": "0.6",
       "keywords": [
+        "at",
+        "building",
         "city",
-        "cityscape at dusk",
+        "cityscape",
         "dusk",
         "evening",
         "landscape",
+        "sun",
         "sunset"
       ],
       "category": "travel-places",
@@ -21953,6 +25128,7 @@ const UnicodeEmojis: {
       "description": "sunset",
       "version": "0.6",
       "keywords": [
+        "building",
         "dusk",
         "sun",
         "sunset"
@@ -21966,8 +25142,8 @@ const UnicodeEmojis: {
       "description": "bridge at night",
       "version": "0.6",
       "keywords": [
+        "at",
         "bridge",
-        "bridge at night",
         "night"
       ],
       "category": "travel-places",
@@ -21994,6 +25170,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "carousel",
+        "entertainment",
         "horse"
       ],
       "category": "travel-places",
@@ -22005,9 +25182,14 @@ const UnicodeEmojis: {
       "description": "playground slide",
       "version": "14.0",
       "keywords": [
-        "amusement park",
+        "amusement",
+        "park",
         "play",
-        "playground slide"
+        "playground",
+        "playing",
+        "slide",
+        "sliding",
+        "theme"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22018,8 +25200,10 @@ const UnicodeEmojis: {
       "description": "ferris wheel",
       "version": "0.6",
       "keywords": [
-        "amusement park",
+        "amusement",
         "ferris",
+        "park",
+        "theme",
         "wheel"
       ],
       "category": "travel-places",
@@ -22031,9 +25215,11 @@ const UnicodeEmojis: {
       "description": "roller coaster",
       "version": "0.6",
       "keywords": [
-        "amusement park",
+        "amusement",
         "coaster",
-        "roller"
+        "park",
+        "roller",
+        "theme"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22045,8 +25231,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "barber",
+        "cut",
+        "fresh",
         "haircut",
-        "pole"
+        "pole",
+        "shave"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22069,11 +25258,14 @@ const UnicodeEmojis: {
       "description": "locomotive",
       "version": "1.0",
       "keywords": [
+        "caboose",
         "engine",
         "locomotive",
         "railway",
         "steam",
-        "train"
+        "train",
+        "trains",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22089,6 +25281,7 @@ const UnicodeEmojis: {
         "railway",
         "train",
         "tram",
+        "travel",
         "trolleybus"
       ],
       "category": "travel-places",
@@ -22100,7 +25293,7 @@ const UnicodeEmojis: {
       "description": "high-speed train",
       "version": "0.6",
       "keywords": [
-        "high-speed train",
+        "high-speed",
         "railway",
         "shinkansen",
         "speed",
@@ -22116,10 +25309,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bullet",
+        "high-speed",
+        "nose",
         "railway",
         "shinkansen",
         "speed",
-        "train"
+        "train",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22130,6 +25326,8 @@ const UnicodeEmojis: {
       "description": "train",
       "version": "1.0",
       "keywords": [
+        "arrived",
+        "choo",
         "railway",
         "train"
       ],
@@ -22143,7 +25341,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "metro",
-        "subway"
+        "subway",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22154,7 +25353,10 @@ const UnicodeEmojis: {
       "description": "light rail",
       "version": "1.0",
       "keywords": [
-        "light rail",
+        "arrived",
+        "light",
+        "monorail",
+        "rail",
         "railway"
       ],
       "category": "travel-places",
@@ -22205,7 +25407,8 @@ const UnicodeEmojis: {
       "keywords": [
         "car",
         "mountain",
-        "railway"
+        "railway",
+        "trip"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22216,8 +25419,10 @@ const UnicodeEmojis: {
       "description": "tram car",
       "version": "1.0",
       "keywords": [
+        "bus",
         "car",
         "tram",
+        "trolley",
         "trolleybus"
       ],
       "category": "travel-places",
@@ -22230,6 +25435,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bus",
+        "school",
         "vehicle"
       ],
       "category": "travel-places",
@@ -22242,6 +25448,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "bus",
+        "cars",
         "oncoming"
       ],
       "category": "travel-places",
@@ -22268,7 +25475,10 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bus",
-        "minibus"
+        "drive",
+        "minibus",
+        "van",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22280,6 +25490,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "ambulance",
+        "emergency",
         "vehicle"
       ],
       "category": "travel-places",
@@ -22304,7 +25515,9 @@ const UnicodeEmojis: {
       "description": "police car",
       "version": "0.6",
       "keywords": [
+        "5–0",
         "car",
+        "cops",
         "patrol",
         "police"
       ],
@@ -22330,8 +25543,13 @@ const UnicodeEmojis: {
       "description": "taxi",
       "version": "0.6",
       "keywords": [
+        "cab",
+        "cabbie",
+        "car",
+        "drive",
         "taxi",
-        "vehicle"
+        "vehicle",
+        "yellow"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22342,8 +25560,14 @@ const UnicodeEmojis: {
       "description": "oncoming taxi",
       "version": "1.0",
       "keywords": [
+        "cab",
+        "cabbie",
+        "cars",
+        "drove",
+        "hail",
         "oncoming",
-        "taxi"
+        "taxi",
+        "yellow"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22355,7 +25579,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "automobile",
-        "car"
+        "car",
+        "driving",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22368,7 +25594,10 @@ const UnicodeEmojis: {
       "keywords": [
         "automobile",
         "car",
-        "oncoming"
+        "cars",
+        "drove",
+        "oncoming",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22379,9 +25608,13 @@ const UnicodeEmojis: {
       "description": "sport utility vehicle",
       "version": "0.6",
       "keywords": [
+        "car",
+        "drive",
         "recreational",
-        "sport utility",
-        "sport utility vehicle"
+        "sport",
+        "sportutility",
+        "utility",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22392,8 +25625,12 @@ const UnicodeEmojis: {
       "description": "pickup truck",
       "version": "13.0",
       "keywords": [
+        "automobile",
+        "car",
+        "flatbed",
         "pick-up",
         "pickup",
+        "transportation",
         "truck"
       ],
       "category": "travel-places",
@@ -22405,8 +25642,11 @@ const UnicodeEmojis: {
       "description": "delivery truck",
       "version": "0.6",
       "keywords": [
+        "car",
         "delivery",
-        "truck"
+        "drive",
+        "truck",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22417,10 +25657,14 @@ const UnicodeEmojis: {
       "description": "articulated lorry",
       "version": "1.0",
       "keywords": [
-        "articulated lorry",
+        "articulated",
+        "car",
+        "drive",
         "lorry",
+        "move",
         "semi",
-        "truck"
+        "truck",
+        "vehicle"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22444,7 +25688,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "car",
-        "racing"
+        "racing",
+        "zoom"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22480,7 +25725,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
-        "manual wheelchair"
+        "manual",
+        "wheelchair"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22492,7 +25738,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "accessibility",
-        "motorized wheelchair"
+        "motorized",
+        "wheelchair"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22503,8 +25750,9 @@ const UnicodeEmojis: {
       "description": "auto rickshaw",
       "version": "12.0",
       "keywords": [
-        "auto rickshaw",
-        "tuk tuk"
+        "auto",
+        "rickshaw",
+        "tuk"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22516,7 +25764,15 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bicycle",
-        "bike"
+        "bike",
+        "class",
+        "cycle",
+        "cycling",
+        "cyclist",
+        "gang",
+        "ride",
+        "spin",
+        "spinning"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22540,7 +25796,10 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "board",
-        "skateboard"
+        "skate",
+        "skateboard",
+        "skater",
+        "wheels"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22551,8 +25810,11 @@ const UnicodeEmojis: {
       "description": "roller skate",
       "version": "13.0",
       "keywords": [
+        "blades",
         "roller",
-        "skate"
+        "skate",
+        "skates",
+        "sport"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22564,6 +25826,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bus",
+        "busstop",
         "stop"
       ],
       "category": "travel-places",
@@ -22589,7 +25852,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "railway",
-        "railway track",
+        "track",
         "train"
       ],
       "category": "travel-places",
@@ -22617,6 +25880,7 @@ const UnicodeEmojis: {
         "fuel",
         "fuelpump",
         "gas",
+        "gasoline",
         "pump",
         "station"
       ],
@@ -22629,9 +25893,11 @@ const UnicodeEmojis: {
       "description": "wheel",
       "version": "14.0",
       "keywords": [
+        "car",
         "circle",
         "tire",
         "turn",
+        "vehicle",
         "wheel"
       ],
       "category": "travel-places",
@@ -22643,11 +25909,15 @@ const UnicodeEmojis: {
       "description": "police car light",
       "version": "0.6",
       "keywords": [
+        "alarm",
+        "alert",
         "beacon",
         "car",
+        "emergency",
         "light",
         "police",
-        "revolving"
+        "revolving",
+        "siren"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22658,9 +25928,12 @@ const UnicodeEmojis: {
       "description": "horizontal traffic light",
       "version": "0.6",
       "keywords": [
-        "horizontal traffic light",
+        "horizontal",
+        "intersection",
         "light",
         "signal",
+        "stop",
+        "stoplight",
         "traffic"
       ],
       "category": "travel-places",
@@ -22672,10 +25945,14 @@ const UnicodeEmojis: {
       "description": "vertical traffic light",
       "version": "1.0",
       "keywords": [
+        "drove",
+        "intersection",
         "light",
         "signal",
+        "stop",
+        "stoplight",
         "traffic",
-        "vertical traffic light"
+        "vertical"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22724,12 +26001,17 @@ const UnicodeEmojis: {
       "description": "ring buoy",
       "version": "14.0",
       "keywords": [
+        "buoy",
         "float",
-        "life preserver",
-        "life saver",
+        "life",
+        "lifesaver",
+        "preserver",
         "rescue",
-        "ring buoy",
-        "safety"
+        "ring",
+        "safety",
+        "save",
+        "saver",
+        "swim"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22743,6 +26025,7 @@ const UnicodeEmojis: {
         "boat",
         "resort",
         "sailboat",
+        "sailing",
         "sea",
         "yacht"
       ],
@@ -22767,8 +26050,14 @@ const UnicodeEmojis: {
       "description": "speedboat",
       "version": "0.6",
       "keywords": [
+        "billionaire",
         "boat",
-        "speedboat"
+        "lake",
+        "luxury",
+        "millionaire",
+        "speedboat",
+        "summer",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22805,7 +26094,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "boat",
-        "motor boat",
+        "motor",
         "motorboat"
       ],
       "category": "travel-places",
@@ -22819,7 +26108,8 @@ const UnicodeEmojis: {
       "keywords": [
         "boat",
         "passenger",
-        "ship"
+        "ship",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22831,7 +26121,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "aeroplane",
-        "airplane"
+        "airplane",
+        "fly",
+        "flying",
+        "jet",
+        "plane",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22844,7 +26139,8 @@ const UnicodeEmojis: {
       "keywords": [
         "aeroplane",
         "airplane",
-        "small airplane"
+        "plane",
+        "small"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22859,7 +26155,8 @@ const UnicodeEmojis: {
         "airplane",
         "check-in",
         "departure",
-        "departures"
+        "departures",
+        "plane"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22872,10 +26169,11 @@ const UnicodeEmojis: {
       "keywords": [
         "aeroplane",
         "airplane",
-        "airplane arrival",
+        "arrival",
         "arrivals",
         "arriving",
-        "landing"
+        "landing",
+        "plane"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22912,7 +26210,10 @@ const UnicodeEmojis: {
       "description": "helicopter",
       "version": "1.0",
       "keywords": [
+        "copter",
         "helicopter",
+        "roflcopter",
+        "travel",
         "vehicle"
       ],
       "category": "travel-places",
@@ -22937,9 +26238,11 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "cable",
+        "cableway",
         "gondola",
+        "lift",
         "mountain",
-        "mountain cableway"
+        "ski"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22954,6 +26257,7 @@ const UnicodeEmojis: {
         "cable",
         "car",
         "gondola",
+        "ropeway",
         "tramway"
       ],
       "category": "travel-places",
@@ -22977,8 +26281,11 @@ const UnicodeEmojis: {
       "description": "rocket",
       "version": "0.6",
       "keywords": [
+        "launch",
         "rocket",
-        "space"
+        "rockets",
+        "space",
+        "travel"
       ],
       "category": "travel-places",
       "group": "travel-places",
@@ -22989,7 +26296,11 @@ const UnicodeEmojis: {
       "description": "flying saucer",
       "version": "5.0",
       "keywords": [
-        "flying saucer",
+        "aliens",
+        "extra",
+        "flying",
+        "saucer",
+        "terrestrial",
         "UFO"
       ],
       "category": "travel-places",
@@ -23014,8 +26325,11 @@ const UnicodeEmojis: {
       "description": "luggage",
       "version": "11.0",
       "keywords": [
+        "bag",
         "luggage",
         "packing",
+        "roller",
+        "suitcase",
         "travel"
       ],
       "category": "travel-places",
@@ -23027,8 +26341,10 @@ const UnicodeEmojis: {
       "description": "hourglass done",
       "version": "0.6",
       "keywords": [
-        "hourglass done",
+        "done",
+        "hourglass",
         "sand",
+        "time",
         "timer"
       ],
       "category": "objects",
@@ -23040,10 +26356,15 @@ const UnicodeEmojis: {
       "description": "hourglass not done",
       "version": "0.6",
       "keywords": [
+        "done",
+        "flowing",
         "hourglass",
-        "hourglass not done",
+        "hours",
+        "not",
         "sand",
-        "timer"
+        "timer",
+        "waiting",
+        "yolo"
       ],
       "category": "objects",
       "group": "travel-places",
@@ -23055,6 +26376,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "clock",
+        "time",
         "watch"
       ],
       "category": "objects",
@@ -23067,7 +26389,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "alarm",
-        "clock"
+        "clock",
+        "hours",
+        "hrs",
+        "late",
+        "time",
+        "waiting"
       ],
       "category": "objects",
       "group": "travel-places",
@@ -23079,7 +26406,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "clock",
-        "stopwatch"
+        "stopwatch",
+        "time"
       ],
       "category": "objects",
       "group": "travel-places",
@@ -23103,7 +26431,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "clock",
-        "mantelpiece clock"
+        "mantelpiece",
+        "time"
       ],
       "category": "objects",
       "group": "travel-places",
@@ -23114,11 +26443,11 @@ const UnicodeEmojis: {
       "description": "twelve o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "12",
         "12:00",
         "clock",
         "o’clock",
+        "time",
         "twelve"
       ],
       "category": "symbols",
@@ -23132,8 +26461,10 @@ const UnicodeEmojis: {
       "keywords": [
         "12",
         "12:30",
+        "30",
         "clock",
         "thirty",
+        "time",
         "twelve",
         "twelve-thirty"
       ],
@@ -23146,12 +26477,12 @@ const UnicodeEmojis: {
       "description": "one o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "1",
         "1:00",
         "clock",
         "o’clock",
-        "one"
+        "one",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23164,10 +26495,12 @@ const UnicodeEmojis: {
       "keywords": [
         "1",
         "1:30",
+        "30",
         "clock",
         "one",
         "one-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23178,11 +26511,11 @@ const UnicodeEmojis: {
       "description": "two o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "2",
         "2:00",
         "clock",
         "o’clock",
+        "time",
         "two"
       ],
       "category": "symbols",
@@ -23196,8 +26529,10 @@ const UnicodeEmojis: {
       "keywords": [
         "2",
         "2:30",
+        "30",
         "clock",
         "thirty",
+        "time",
         "two",
         "two-thirty"
       ],
@@ -23210,12 +26545,12 @@ const UnicodeEmojis: {
       "description": "three o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "3",
         "3:00",
         "clock",
         "o’clock",
-        "three"
+        "three",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23228,10 +26563,12 @@ const UnicodeEmojis: {
       "keywords": [
         "3",
         "3:30",
+        "30",
         "clock",
         "thirty",
         "three",
-        "three-thirty"
+        "three-thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23242,12 +26579,12 @@ const UnicodeEmojis: {
       "description": "four o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "4",
         "4:00",
         "clock",
         "four",
-        "o’clock"
+        "o’clock",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23258,12 +26595,14 @@ const UnicodeEmojis: {
       "description": "four-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "4",
         "4:30",
         "clock",
         "four",
         "four-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23274,12 +26613,12 @@ const UnicodeEmojis: {
       "description": "five o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "5",
         "5:00",
         "clock",
         "five",
-        "o’clock"
+        "o’clock",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23290,12 +26629,14 @@ const UnicodeEmojis: {
       "description": "five-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "5",
         "5:30",
         "clock",
         "five",
         "five-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23306,12 +26647,12 @@ const UnicodeEmojis: {
       "description": "six o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "6",
         "6:00",
         "clock",
         "o’clock",
-        "six"
+        "six",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23322,6 +26663,7 @@ const UnicodeEmojis: {
       "description": "six-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "6",
         "6:30",
         "clock",
@@ -23338,7 +26680,7 @@ const UnicodeEmojis: {
       "description": "seven o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
+        "0",
         "7",
         "7:00",
         "clock",
@@ -23354,6 +26696,7 @@ const UnicodeEmojis: {
       "description": "seven-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "7",
         "7:30",
         "clock",
@@ -23370,12 +26713,12 @@ const UnicodeEmojis: {
       "description": "eight o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "8",
         "8:00",
         "clock",
         "eight",
-        "o’clock"
+        "o’clock",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23386,12 +26729,14 @@ const UnicodeEmojis: {
       "description": "eight-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "8",
         "8:30",
         "clock",
         "eight",
         "eight-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23402,12 +26747,12 @@ const UnicodeEmojis: {
       "description": "nine o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "9",
         "9:00",
         "clock",
         "nine",
-        "o’clock"
+        "o’clock",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23418,12 +26763,14 @@ const UnicodeEmojis: {
       "description": "nine-thirty",
       "version": "0.7",
       "keywords": [
+        "30",
         "9",
         "9:30",
         "clock",
         "nine",
         "nine-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23434,7 +26781,7 @@ const UnicodeEmojis: {
       "description": "ten o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
+        "0",
         "10",
         "10:00",
         "clock",
@@ -23452,10 +26799,12 @@ const UnicodeEmojis: {
       "keywords": [
         "10",
         "10:30",
+        "30",
         "clock",
         "ten",
         "ten-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23466,12 +26815,12 @@ const UnicodeEmojis: {
       "description": "eleven o’clock",
       "version": "0.6",
       "keywords": [
-        "00",
         "11",
         "11:00",
         "clock",
         "eleven",
-        "o’clock"
+        "o’clock",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23484,10 +26833,12 @@ const UnicodeEmojis: {
       "keywords": [
         "11",
         "11:30",
+        "30",
         "clock",
         "eleven",
         "eleven-thirty",
-        "thirty"
+        "thirty",
+        "time"
       ],
       "category": "symbols",
       "group": "travel-places",
@@ -23500,7 +26851,8 @@ const UnicodeEmojis: {
       "keywords": [
         "dark",
         "moon",
-        "new moon"
+        "new",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23512,7 +26864,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "crescent",
+        "dreams",
         "moon",
+        "space",
         "waxing"
       ],
       "category": "animals-nature",
@@ -23524,9 +26878,10 @@ const UnicodeEmojis: {
       "description": "first quarter moon",
       "version": "0.6",
       "keywords": [
-        "first quarter moon",
+        "first",
         "moon",
-        "quarter"
+        "quarter",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23539,6 +26894,7 @@ const UnicodeEmojis: {
       "keywords": [
         "gibbous",
         "moon",
+        "space",
         "waxing"
       ],
       "category": "animals-nature",
@@ -23551,7 +26907,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "full",
-        "moon"
+        "moon",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23564,6 +26921,7 @@ const UnicodeEmojis: {
       "keywords": [
         "gibbous",
         "moon",
+        "space",
         "waning"
       ],
       "category": "animals-nature",
@@ -23575,9 +26933,10 @@ const UnicodeEmojis: {
       "description": "last quarter moon",
       "version": "1.0",
       "keywords": [
-        "last quarter moon",
+        "last",
         "moon",
-        "quarter"
+        "quarter",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23590,6 +26949,7 @@ const UnicodeEmojis: {
       "keywords": [
         "crescent",
         "moon",
+        "space",
         "waning"
       ],
       "category": "animals-nature",
@@ -23602,7 +26962,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "crescent",
-        "moon"
+        "moon",
+        "ramadan",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23615,7 +26977,8 @@ const UnicodeEmojis: {
       "keywords": [
         "face",
         "moon",
-        "new moon face"
+        "new",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23627,9 +26990,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "face",
-        "first quarter moon face",
+        "first",
         "moon",
-        "quarter"
+        "quarter",
+        "space"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23640,8 +27004,9 @@ const UnicodeEmojis: {
       "description": "last quarter moon face",
       "version": "0.7",
       "keywords": [
+        "dreams",
         "face",
-        "last quarter moon face",
+        "last",
         "moon",
         "quarter"
       ],
@@ -23668,8 +27033,10 @@ const UnicodeEmojis: {
       "keywords": [
         "bright",
         "rays",
+        "space",
         "sun",
-        "sunny"
+        "sunny",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23694,10 +27061,16 @@ const UnicodeEmojis: {
       "description": "sun with face",
       "version": "1.0",
       "keywords": [
+        "beach",
         "bright",
+        "day",
         "face",
+        "heat",
+        "shine",
         "sun",
-        "sun with face"
+        "sunny",
+        "sunshine",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23708,7 +27081,8 @@ const UnicodeEmojis: {
       "description": "ringed planet",
       "version": "12.0",
       "keywords": [
-        "ringed planet",
+        "planet",
+        "ringed",
         "saturn",
         "saturnine"
       ],
@@ -23721,7 +27095,11 @@ const UnicodeEmojis: {
       "description": "star",
       "version": "0.6",
       "keywords": [
-        "star"
+        "astronomy",
+        "medium",
+        "star",
+        "stars",
+        "white"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23734,10 +27112,12 @@ const UnicodeEmojis: {
       "keywords": [
         "glittery",
         "glow",
-        "glowing star",
+        "glowing",
+        "night",
         "shining",
         "sparkle",
-        "star"
+        "star",
+        "win"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23749,7 +27129,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "falling",
+        "night",
         "shooting",
+        "space",
         "star"
       ],
       "category": "animals-nature",
@@ -23761,8 +27143,9 @@ const UnicodeEmojis: {
       "description": "milky way",
       "version": "0.6",
       "keywords": [
-        "milky way",
-        "space"
+        "milky",
+        "space",
+        "way"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23785,9 +27168,11 @@ const UnicodeEmojis: {
       "description": "sun behind cloud",
       "version": "0.6",
       "keywords": [
+        "behind",
         "cloud",
+        "cloudy",
         "sun",
-        "sun behind cloud"
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23799,9 +27184,10 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cloud",
-        "cloud with lightning and rain",
+        "lightning",
         "rain",
-        "thunder"
+        "thunder",
+        "thunderstorm"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23812,9 +27198,10 @@ const UnicodeEmojis: {
       "description": "sun behind small cloud",
       "version": "0.7",
       "keywords": [
+        "behind",
         "cloud",
         "sun",
-        "sun behind small cloud"
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23825,9 +27212,10 @@ const UnicodeEmojis: {
       "description": "sun behind large cloud",
       "version": "0.7",
       "keywords": [
+        "behind",
         "cloud",
         "sun",
-        "sun behind large cloud"
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23838,10 +27226,11 @@ const UnicodeEmojis: {
       "description": "sun behind rain cloud",
       "version": "0.7",
       "keywords": [
+        "behind",
         "cloud",
         "rain",
         "sun",
-        "sun behind rain cloud"
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23853,8 +27242,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cloud",
-        "cloud with rain",
-        "rain"
+        "rain",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23866,9 +27255,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cloud",
-        "cloud with snow",
         "cold",
-        "snow"
+        "snow",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23880,8 +27269,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cloud",
-        "cloud with lightning",
-        "lightning"
+        "lightning",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23894,6 +27283,7 @@ const UnicodeEmojis: {
       "keywords": [
         "cloud",
         "tornado",
+        "weather",
         "whirlwind"
       ],
       "category": "animals-nature",
@@ -23906,7 +27296,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cloud",
-        "fog"
+        "fog",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23935,7 +27326,8 @@ const UnicodeEmojis: {
         "dizzy",
         "hurricane",
         "twister",
-        "typhoon"
+        "typhoon",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23946,8 +27338,22 @@ const UnicodeEmojis: {
       "description": "rainbow",
       "version": "0.6",
       "keywords": [
+        "gay",
+        "genderqueer",
+        "glbt",
+        "glbtq",
+        "lesbian",
+        "lgbt",
+        "lgbtq",
+        "lgbtqia",
+        "nature",
+        "pride",
+        "queer",
         "rain",
-        "rainbow"
+        "rainbow",
+        "trans",
+        "transgender",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -23958,7 +27364,7 @@ const UnicodeEmojis: {
       "description": "closed umbrella",
       "version": "0.6",
       "keywords": [
-        "closed umbrella",
+        "closed",
         "clothing",
         "rain",
         "umbrella"
@@ -23987,9 +27393,10 @@ const UnicodeEmojis: {
       "keywords": [
         "clothing",
         "drop",
+        "drops",
         "rain",
         "umbrella",
-        "umbrella with rain drops"
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -24000,10 +27407,10 @@ const UnicodeEmojis: {
       "description": "umbrella on ground",
       "version": "0.7",
       "keywords": [
+        "ground",
         "rain",
         "sun",
-        "umbrella",
-        "umbrella on ground"
+        "umbrella"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -24016,8 +27423,12 @@ const UnicodeEmojis: {
       "keywords": [
         "danger",
         "electric",
-        "high voltage",
+        "electricity",
+        "high",
         "lightning",
+        "nature",
+        "thunder",
+        "thunderbolt",
         "voltage",
         "zap"
       ],
@@ -24032,7 +27443,8 @@ const UnicodeEmojis: {
       "keywords": [
         "cold",
         "snow",
-        "snowflake"
+        "snowflake",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -24044,6 +27456,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "cold",
+        "man",
         "snow",
         "snowman"
       ],
@@ -24057,9 +27470,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cold",
+        "man",
         "snow",
-        "snowman",
-        "snowman without snow"
+        "snowman"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -24082,8 +27495,13 @@ const UnicodeEmojis: {
       "description": "fire",
       "version": "0.6",
       "keywords": [
+        "af",
+        "burn",
         "fire",
         "flame",
+        "hot",
+        "lit",
+        "litaf",
         "tool"
       ],
       "category": "animals-nature",
@@ -24099,7 +27517,12 @@ const UnicodeEmojis: {
         "comic",
         "drop",
         "droplet",
-        "sweat"
+        "nature",
+        "sad",
+        "sweat",
+        "tear",
+        "water",
+        "weather"
       ],
       "category": "animals-nature",
       "group": "travel-places",
@@ -24110,7 +27533,11 @@ const UnicodeEmojis: {
       "description": "water wave",
       "version": "0.6",
       "keywords": [
+        "nature",
         "ocean",
+        "surf",
+        "surfer",
+        "surfing",
         "water",
         "wave"
       ],
@@ -24127,7 +27554,8 @@ const UnicodeEmojis: {
         "halloween",
         "jack",
         "jack-o-lantern",
-        "lantern"
+        "lantern",
+        "pumpkin"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24151,8 +27579,11 @@ const UnicodeEmojis: {
       "description": "fireworks",
       "version": "0.6",
       "keywords": [
+        "boom",
         "celebration",
-        "fireworks"
+        "entertainment",
+        "fireworks",
+        "yolo"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24163,6 +27594,7 @@ const UnicodeEmojis: {
       "description": "sparkler",
       "version": "0.6",
       "keywords": [
+        "boom",
         "celebration",
         "fireworks",
         "sparkle",
@@ -24179,8 +27611,13 @@ const UnicodeEmojis: {
       "keywords": [
         "dynamite",
         "explosive",
+        "fire",
         "firecracker",
-        "fireworks"
+        "fireworks",
+        "light",
+        "pop",
+        "popping",
+        "spark"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24192,6 +27629,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "*",
+        "magic",
         "sparkle",
         "sparkles",
         "star"
@@ -24206,6 +27644,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "balloon",
+        "birthday",
+        "celebrate",
         "celebration"
       ],
       "category": "activities-events",
@@ -24217,10 +27657,16 @@ const UnicodeEmojis: {
       "description": "party popper",
       "version": "0.6",
       "keywords": [
+        "awesome",
+        "birthday",
+        "celebrate",
         "celebration",
+        "excited",
+        "hooray",
         "party",
         "popper",
-        "tada"
+        "tada",
+        "woohoo"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24232,8 +27678,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "ball",
+        "celebrate",
         "celebration",
-        "confetti"
+        "confetti",
+        "party",
+        "woohoo"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24247,7 +27696,7 @@ const UnicodeEmojis: {
         "banner",
         "celebration",
         "Japanese",
-        "tanabata tree",
+        "tanabata",
         "tree"
       ],
       "category": "activities-events",
@@ -24261,9 +27710,10 @@ const UnicodeEmojis: {
       "keywords": [
         "bamboo",
         "celebration",
+        "decoration",
         "Japanese",
         "pine",
-        "pine decoration"
+        "plant"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24276,9 +27726,9 @@ const UnicodeEmojis: {
       "keywords": [
         "celebration",
         "doll",
+        "dolls",
         "festival",
-        "Japanese",
-        "Japanese dolls"
+        "Japanese"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24319,7 +27769,7 @@ const UnicodeEmojis: {
         "celebration",
         "ceremony",
         "moon",
-        "moon viewing ceremony"
+        "viewing"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24330,12 +27780,15 @@ const UnicodeEmojis: {
       "description": "red envelope",
       "version": "11.0",
       "keywords": [
+        "envelope",
         "gift",
-        "good luck",
+        "good",
         "hóngbāo",
-        "lai see",
+        "lai",
+        "luck",
         "money",
-        "red envelope"
+        "red",
+        "see"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24358,10 +27811,14 @@ const UnicodeEmojis: {
       "description": "wrapped gift",
       "version": "0.6",
       "keywords": [
+        "birthday",
+        "bow",
         "box",
         "celebration",
+        "christmas",
         "gift",
         "present",
+        "surprise",
         "wrapped"
       ],
       "category": "activities-events",
@@ -24387,8 +27844,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "admission",
-        "admission tickets",
-        "ticket"
+        "ticket",
+        "tickets"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24400,6 +27857,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "admission",
+        "stub",
         "ticket"
       ],
       "category": "activities-events",
@@ -24411,6 +27869,7 @@ const UnicodeEmojis: {
       "description": "military medal",
       "version": "0.7",
       "keywords": [
+        "award",
         "celebration",
         "medal",
         "military"
@@ -24424,8 +27883,15 @@ const UnicodeEmojis: {
       "description": "trophy",
       "version": "0.6",
       "keywords": [
+        "champion",
+        "champs",
         "prize",
-        "trophy"
+        "slay",
+        "sport",
+        "trophy",
+        "victory",
+        "win",
+        "winning"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24436,8 +27902,11 @@ const UnicodeEmojis: {
       "description": "sports medal",
       "version": "1.0",
       "keywords": [
+        "award",
+        "gold",
         "medal",
-        "sports medal"
+        "sports",
+        "winner"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24448,10 +27917,11 @@ const UnicodeEmojis: {
       "description": "1st place medal",
       "version": "3.0",
       "keywords": [
-        "1st place medal",
+        "1st",
         "first",
         "gold",
-        "medal"
+        "medal",
+        "place"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24462,8 +27932,9 @@ const UnicodeEmojis: {
       "description": "2nd place medal",
       "version": "3.0",
       "keywords": [
-        "2nd place medal",
+        "2nd",
         "medal",
+        "place",
         "second",
         "silver"
       ],
@@ -24476,9 +27947,10 @@ const UnicodeEmojis: {
       "description": "3rd place medal",
       "version": "3.0",
       "keywords": [
-        "3rd place medal",
+        "3rd",
         "bronze",
         "medal",
+        "place",
         "third"
       ],
       "category": "activities-events",
@@ -24492,7 +27964,9 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "football",
-        "soccer"
+        "futbol",
+        "soccer",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24504,7 +27978,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "ball",
-        "baseball"
+        "baseball",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24518,6 +27993,7 @@ const UnicodeEmojis: {
         "ball",
         "glove",
         "softball",
+        "sports",
         "underarm"
       ],
       "category": "activities-events",
@@ -24531,7 +28007,8 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "basketball",
-        "hoop"
+        "hoop",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24557,7 +28034,10 @@ const UnicodeEmojis: {
       "keywords": [
         "american",
         "ball",
-        "football"
+        "bowl",
+        "football",
+        "sport",
+        "super"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24570,7 +28050,8 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "football",
-        "rugby"
+        "rugby",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24583,6 +28064,7 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "racquet",
+        "sport",
         "tennis"
       ],
       "category": "activities-events",
@@ -24594,7 +28076,8 @@ const UnicodeEmojis: {
       "description": "flying disc",
       "version": "11.0",
       "keywords": [
-        "flying disc",
+        "disc",
+        "flying",
         "ultimate"
       ],
       "category": "activities-events",
@@ -24608,7 +28091,9 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "bowling",
-        "game"
+        "game",
+        "sport",
+        "strike"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24621,7 +28106,7 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "bat",
-        "cricket game",
+        "cricket",
         "game"
       ],
       "category": "activities-events",
@@ -24666,6 +28151,7 @@ const UnicodeEmojis: {
         "ball",
         "goal",
         "lacrosse",
+        "sports",
         "stick"
       ],
       "category": "activities-events",
@@ -24681,8 +28167,11 @@ const UnicodeEmojis: {
         "bat",
         "game",
         "paddle",
-        "ping pong",
-        "table tennis"
+        "ping",
+        "pingpong",
+        "pong",
+        "table",
+        "tennis"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24720,10 +28209,10 @@ const UnicodeEmojis: {
       "description": "martial arts uniform",
       "version": "3.0",
       "keywords": [
+        "arts",
         "judo",
         "karate",
-        "martial arts",
-        "martial arts uniform",
+        "martial",
         "taekwondo",
         "uniform"
       ],
@@ -24748,9 +28237,10 @@ const UnicodeEmojis: {
       "description": "flag in hole",
       "version": "0.6",
       "keywords": [
-        "flag in hole",
+        "flag",
         "golf",
-        "hole"
+        "hole",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24762,7 +28252,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "ice",
-        "skate"
+        "skate",
+        "skating"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24773,9 +28264,11 @@ const UnicodeEmojis: {
       "description": "fishing pole",
       "version": "0.6",
       "keywords": [
+        "entertainment",
         "fish",
-        "fishing pole",
-        "pole"
+        "fishing",
+        "pole",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24787,7 +28280,7 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "diving",
-        "diving mask",
+        "mask",
         "scuba",
         "snorkeling"
       ],
@@ -24816,7 +28309,8 @@ const UnicodeEmojis: {
       "keywords": [
         "ski",
         "skis",
-        "snow"
+        "snow",
+        "sport"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24827,9 +28321,12 @@ const UnicodeEmojis: {
       "description": "sled",
       "version": "5.0",
       "keywords": [
+        "luge",
         "sled",
         "sledge",
-        "sleigh"
+        "sleigh",
+        "snow",
+        "toboggan"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24840,9 +28337,10 @@ const UnicodeEmojis: {
       "description": "curling stone",
       "version": "5.0",
       "keywords": [
-        "curling stone",
+        "curling",
         "game",
-        "rock"
+        "rock",
+        "stone"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24853,9 +28351,11 @@ const UnicodeEmojis: {
       "description": "bullseye",
       "version": "0.6",
       "keywords": [
+        "bull",
         "bullseye",
         "dart",
-        "direct hit",
+        "direct",
+        "entertainment",
         "game",
         "hit",
         "target"
@@ -24913,11 +28413,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "8",
+        "8ball",
         "ball",
         "billiard",
         "eight",
         "game",
-        "pool 8 ball"
+        "pool"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24930,9 +28431,13 @@ const UnicodeEmojis: {
       "keywords": [
         "ball",
         "crystal",
-        "fairy tale",
+        "fairy",
+        "fairytale",
         "fantasy",
         "fortune",
+        "future",
+        "magic",
+        "tale",
         "tool"
       ],
       "category": "activities-events",
@@ -24945,7 +28450,8 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "magic",
-        "magic wand",
+        "magician",
+        "wand",
         "witch",
         "wizard"
       ],
@@ -24959,8 +28465,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "controller",
+        "entertainment",
         "game",
-        "video game"
+        "video"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24973,7 +28480,8 @@ const UnicodeEmojis: {
       "keywords": [
         "game",
         "joystick",
-        "video game"
+        "video",
+        "videogame"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24984,9 +28492,13 @@ const UnicodeEmojis: {
       "description": "slot machine",
       "version": "0.6",
       "keywords": [
+        "casino",
+        "gamble",
+        "gambling",
         "game",
+        "machine",
         "slot",
-        "slot machine"
+        "slots"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -24999,6 +28511,7 @@ const UnicodeEmojis: {
       "keywords": [
         "dice",
         "die",
+        "entertainment",
         "game"
       ],
       "category": "activities-events",
@@ -25025,10 +28538,11 @@ const UnicodeEmojis: {
       "description": "teddy bear",
       "version": "11.0",
       "keywords": [
+        "bear",
         "plaything",
         "plush",
         "stuffed",
-        "teddy bear",
+        "teddy",
         "toy"
       ],
       "category": "activities-events",
@@ -25040,8 +28554,16 @@ const UnicodeEmojis: {
       "description": "piñata",
       "version": "13.0",
       "keywords": [
+        "candy",
+        "celebrate",
         "celebration",
+        "cinco",
+        "de",
+        "festive",
+        "mayo",
         "party",
+        "pinada",
+        "pinata",
         "piñata"
       ],
       "category": "activities-events",
@@ -25053,10 +28575,11 @@ const UnicodeEmojis: {
       "description": "mirror ball",
       "version": "14.0",
       "keywords": [
+        "ball",
         "dance",
         "disco",
         "glitter",
-        "mirror ball",
+        "mirror",
         "party"
       ],
       "category": "activities-events",
@@ -25068,9 +28591,13 @@ const UnicodeEmojis: {
       "description": "nesting dolls",
       "version": "13.0",
       "keywords": [
+        "babooshka",
+        "baboushka",
+        "babushka",
         "doll",
+        "dolls",
+        "matryoshka",
         "nesting",
-        "nesting dolls",
         "russia"
       ],
       "category": "activities-events",
@@ -25084,7 +28611,8 @@ const UnicodeEmojis: {
       "keywords": [
         "card",
         "game",
-        "spade suit"
+        "spade",
+        "suit"
       ],
       "category": "symbols",
       "group": "activities",
@@ -25096,8 +28624,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "card",
+        "emotion",
         "game",
-        "heart suit"
+        "heart",
+        "hearts",
+        "suit"
       ],
       "category": "symbols",
       "group": "activities",
@@ -25109,8 +28640,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "card",
-        "diamond suit",
-        "game"
+        "diamond",
+        "game",
+        "suit"
       ],
       "category": "symbols",
       "group": "activities",
@@ -25122,8 +28654,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "card",
-        "club suit",
-        "game"
+        "club",
+        "clubs",
+        "game",
+        "suit"
       ],
       "category": "symbols",
       "group": "activities",
@@ -25135,9 +28669,9 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "chess",
-        "chess pawn",
         "dupe",
-        "expendable"
+        "expendable",
+        "pawn"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -25162,9 +28696,9 @@ const UnicodeEmojis: {
       "description": "mahjong red dragon",
       "version": "0.6",
       "keywords": [
+        "dragon",
         "game",
         "mahjong",
-        "mahjong red dragon",
         "red"
       ],
       "category": "activities-events",
@@ -25177,8 +28711,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "card",
+        "cards",
         "flower",
-        "flower playing cards",
         "game",
         "Japanese",
         "playing"
@@ -25192,12 +28726,16 @@ const UnicodeEmojis: {
       "description": "performing arts",
       "version": "0.6",
       "keywords": [
+        "actor",
+        "actress",
         "art",
+        "arts",
+        "entertainment",
         "mask",
         "performing",
-        "performing arts",
         "theater",
-        "theatre"
+        "theatre",
+        "thespian"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -25210,7 +28748,7 @@ const UnicodeEmojis: {
       "keywords": [
         "art",
         "frame",
-        "framed picture",
+        "framed",
         "museum",
         "painting",
         "picture"
@@ -25225,8 +28763,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "art",
-        "artist palette",
+        "artist",
+        "artsy",
+        "arty",
+        "colorful",
+        "creative",
+        "entertainment",
         "museum",
+        "painter",
         "painting",
         "palette"
       ],
@@ -25256,10 +28800,12 @@ const UnicodeEmojis: {
       "keywords": [
         "embroidery",
         "needle",
+        "sew",
         "sewing",
         "stitches",
         "sutures",
-        "tailoring"
+        "tailoring",
+        "thread"
       ],
       "category": "activities-events",
       "group": "activities",
@@ -25284,6 +28830,7 @@ const UnicodeEmojis: {
       "description": "knot",
       "version": "13.0",
       "keywords": [
+        "cord",
         "knot",
         "rope",
         "tangled",
@@ -25330,8 +28877,11 @@ const UnicodeEmojis: {
       "description": "goggles",
       "version": "11.0",
       "keywords": [
-        "eye protection",
+        "dive",
+        "eye",
         "goggles",
+        "protection",
+        "scuba",
         "swimming",
         "welding"
       ],
@@ -25344,10 +28894,15 @@ const UnicodeEmojis: {
       "description": "lab coat",
       "version": "11.0",
       "keywords": [
+        "clothes",
+        "coat",
         "doctor",
+        "dr",
         "experiment",
-        "lab coat",
-        "scientist"
+        "jacket",
+        "lab",
+        "scientist",
+        "white"
       ],
       "category": "objects",
       "group": "objects",
@@ -25372,7 +28927,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "clothing",
+        "employed",
         "necktie",
+        "serious",
+        "shirt",
         "tie"
       ],
       "category": "objects",
@@ -25384,10 +28942,17 @@ const UnicodeEmojis: {
       "description": "t-shirt",
       "version": "0.6",
       "keywords": [
+        "blue",
+        "casual",
+        "clothes",
         "clothing",
+        "collar",
+        "dressed",
         "shirt",
+        "shopping",
         "t-shirt",
-        "tshirt"
+        "tshirt",
+        "weekend"
       ],
       "category": "objects",
       "group": "objects",
@@ -25398,10 +28963,17 @@ const UnicodeEmojis: {
       "description": "jeans",
       "version": "0.6",
       "keywords": [
+        "blue",
+        "casual",
+        "clothes",
         "clothing",
+        "denim",
+        "dressed",
         "jeans",
         "pants",
-        "trousers"
+        "shopping",
+        "trousers",
+        "weekend"
       ],
       "category": "objects",
       "group": "objects",
@@ -25412,8 +28984,11 @@ const UnicodeEmojis: {
       "description": "scarf",
       "version": "5.0",
       "keywords": [
+        "bundle",
+        "cold",
         "neck",
-        "scarf"
+        "scarf",
+        "up"
       ],
       "category": "objects",
       "group": "objects",
@@ -25436,8 +29011,12 @@ const UnicodeEmojis: {
       "description": "coat",
       "version": "5.0",
       "keywords": [
+        "brr",
+        "bundle",
         "coat",
-        "jacket"
+        "cold",
+        "jacket",
+        "up"
       ],
       "category": "objects",
       "group": "objects",
@@ -25460,8 +29039,12 @@ const UnicodeEmojis: {
       "description": "dress",
       "version": "0.6",
       "keywords": [
+        "clothes",
         "clothing",
-        "dress"
+        "dress",
+        "dressed",
+        "fancy",
+        "shopping"
       ],
       "category": "objects",
       "group": "objects",
@@ -25473,6 +29056,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "clothing",
+        "comfortable",
         "kimono"
       ],
       "category": "objects",
@@ -25497,8 +29081,10 @@ const UnicodeEmojis: {
       "description": "one-piece swimsuit",
       "version": "12.0",
       "keywords": [
-        "bathing suit",
-        "one-piece swimsuit"
+        "bathing",
+        "one-piece",
+        "suit",
+        "swimsuit"
       ],
       "category": "objects",
       "group": "objects",
@@ -25509,9 +29095,10 @@ const UnicodeEmojis: {
       "description": "briefs",
       "version": "12.0",
       "keywords": [
-        "bathing suit",
+        "bathing",
         "briefs",
         "one-piece",
+        "suit",
         "swimsuit",
         "underwear"
       ],
@@ -25524,9 +29111,11 @@ const UnicodeEmojis: {
       "description": "shorts",
       "version": "12.0",
       "keywords": [
-        "bathing suit",
+        "bathing",
         "pants",
         "shorts",
+        "suit",
+        "swimsuit",
         "underwear"
       ],
       "category": "objects",
@@ -25538,8 +29127,12 @@ const UnicodeEmojis: {
       "description": "bikini",
       "version": "0.6",
       "keywords": [
+        "bathing",
+        "beach",
         "bikini",
         "clothing",
+        "pool",
+        "suit",
         "swim"
       ],
       "category": "objects",
@@ -25551,9 +29144,17 @@ const UnicodeEmojis: {
       "description": "woman’s clothes",
       "version": "0.6",
       "keywords": [
+        "blouse",
+        "clothes",
         "clothing",
+        "collar",
+        "dress",
+        "dressed",
+        "lady",
+        "shirt",
+        "shopping",
         "woman",
-        "woman’s clothes"
+        "woman’s"
       ],
       "category": "objects",
       "group": "objects",
@@ -25564,11 +29165,16 @@ const UnicodeEmojis: {
       "description": "folding hand fan",
       "version": "15.0",
       "keywords": [
+        "clack",
+        "clap",
+        "cool",
         "cooling",
         "dance",
         "fan",
+        "flirt",
         "flutter",
-        "folding hand fan",
+        "folding",
+        "hand",
         "hot",
         "shy"
       ],
@@ -25581,9 +29187,14 @@ const UnicodeEmojis: {
       "description": "purse",
       "version": "0.6",
       "keywords": [
+        "clothes",
         "clothing",
         "coin",
-        "purse"
+        "dress",
+        "fancy",
+        "handbag",
+        "purse",
+        "shopping"
       ],
       "category": "objects",
       "group": "objects",
@@ -25595,9 +29206,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bag",
+        "clothes",
         "clothing",
+        "dress",
         "handbag",
-        "purse"
+        "lady",
+        "purse",
+        "shopping"
       ],
       "category": "objects",
       "group": "objects",
@@ -25609,9 +29224,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bag",
+        "clothes",
         "clothing",
-        "clutch bag",
-        "pouch"
+        "clutch",
+        "dress",
+        "handbag",
+        "pouch",
+        "purse"
       ],
       "category": "objects",
       "group": "objects",
@@ -25623,9 +29242,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "bag",
+        "bags",
         "hotel",
-        "shopping",
-        "shopping bags"
+        "shopping"
       ],
       "category": "objects",
       "group": "objects",
@@ -25637,7 +29256,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "backpack",
+        "backpacking",
         "bag",
+        "bookbag",
+        "education",
         "rucksack",
         "satchel",
         "school"
@@ -25651,10 +29273,13 @@ const UnicodeEmojis: {
       "description": "thong sandal",
       "version": "13.0",
       "keywords": [
-        "beach sandals",
+        "beach",
+        "flip",
+        "flop",
+        "sandal",
         "sandals",
-        "thong sandal",
-        "thong sandals",
+        "shoe",
+        "thong",
         "thongs",
         "zōri"
       ],
@@ -25667,10 +29292,17 @@ const UnicodeEmojis: {
       "description": "man’s shoe",
       "version": "0.6",
       "keywords": [
+        "brown",
+        "clothes",
         "clothing",
+        "feet",
+        "foot",
+        "kick",
         "man",
-        "man’s shoe",
-        "shoe"
+        "man’s",
+        "shoe",
+        "shoes",
+        "shopping"
       ],
       "category": "objects",
       "group": "objects",
@@ -25682,10 +29314,16 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "athletic",
+        "clothes",
         "clothing",
-        "running shoe",
+        "fast",
+        "kick",
+        "running",
         "shoe",
-        "sneaker"
+        "shoes",
+        "shopping",
+        "sneaker",
+        "tennis"
       ],
       "category": "objects",
       "group": "objects",
@@ -25698,8 +29336,11 @@ const UnicodeEmojis: {
       "keywords": [
         "backpacking",
         "boot",
+        "brown",
         "camping",
-        "hiking"
+        "hiking",
+        "outdoors",
+        "shoe"
       ],
       "category": "objects",
       "group": "objects",
@@ -25710,8 +29351,11 @@ const UnicodeEmojis: {
       "description": "flat shoe",
       "version": "11.0",
       "keywords": [
-        "ballet flat",
-        "flat shoe",
+        "ballet",
+        "comfy",
+        "flat",
+        "flats",
+        "shoe",
         "slip-on",
         "slipper"
       ],
@@ -25724,10 +29368,17 @@ const UnicodeEmojis: {
       "description": "high-heeled shoe",
       "version": "0.6",
       "keywords": [
+        "clothes",
         "clothing",
+        "dress",
+        "fashion",
         "heel",
-        "high-heeled shoe",
+        "heels",
+        "high-heeled",
         "shoe",
+        "shoes",
+        "shopping",
+        "stiletto",
         "woman"
       ],
       "category": "objects",
@@ -25743,7 +29394,7 @@ const UnicodeEmojis: {
         "sandal",
         "shoe",
         "woman",
-        "woman’s sandal"
+        "woman’s"
       ],
       "category": "objects",
       "group": "objects",
@@ -25755,8 +29406,8 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "ballet",
-        "ballet shoes",
-        "dance"
+        "dance",
+        "shoes"
       ],
       "category": "objects",
       "group": "objects",
@@ -25768,10 +29419,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "boot",
+        "clothes",
         "clothing",
+        "dress",
         "shoe",
+        "shoes",
+        "shopping",
         "woman",
-        "woman’s boot"
+        "woman’s"
       ],
       "category": "objects",
       "group": "objects",
@@ -25784,6 +29439,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Afro",
         "comb",
+        "groom",
         "hair",
         "pick"
       ],
@@ -25798,8 +29454,13 @@ const UnicodeEmojis: {
       "keywords": [
         "clothing",
         "crown",
+        "family",
         "king",
-        "queen"
+        "medieval",
+        "queen",
+        "royal",
+        "royalty",
+        "win"
       ],
       "category": "objects",
       "group": "objects",
@@ -25810,10 +29471,14 @@ const UnicodeEmojis: {
       "description": "woman’s hat",
       "version": "0.6",
       "keywords": [
+        "clothes",
         "clothing",
+        "garden",
         "hat",
+        "hats",
+        "party",
         "woman",
-        "woman’s hat"
+        "woman’s"
       ],
       "category": "objects",
       "group": "objects",
@@ -25824,8 +29489,12 @@ const UnicodeEmojis: {
       "description": "top hat",
       "version": "0.6",
       "keywords": [
+        "clothes",
         "clothing",
+        "fancy",
+        "formal",
         "hat",
+        "magic",
         "top",
         "tophat"
       ],
@@ -25841,8 +29510,10 @@ const UnicodeEmojis: {
         "cap",
         "celebration",
         "clothing",
+        "education",
         "graduation",
-        "hat"
+        "hat",
+        "scholar"
       ],
       "category": "objects",
       "group": "objects",
@@ -25853,8 +29524,12 @@ const UnicodeEmojis: {
       "description": "billed cap",
       "version": "5.0",
       "keywords": [
-        "baseball cap",
-        "billed cap"
+        "baseball",
+        "bent",
+        "billed",
+        "cap",
+        "dad",
+        "hat"
       ],
       "category": "objects",
       "group": "objects",
@@ -25869,6 +29544,7 @@ const UnicodeEmojis: {
         "helmet",
         "military",
         "soldier",
+        "war",
         "warrior"
       ],
       "category": "objects",
@@ -25885,7 +29561,8 @@ const UnicodeEmojis: {
         "face",
         "hat",
         "helmet",
-        "rescue worker’s helmet"
+        "rescue",
+        "worker’s"
       ],
       "category": "objects",
       "group": "objects",
@@ -25912,6 +29589,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cosmetics",
+        "date",
         "lipstick",
         "makeup"
       ],
@@ -25925,7 +29603,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "diamond",
-        "ring"
+        "engaged",
+        "engagement",
+        "married",
+        "ring",
+        "romance",
+        "shiny",
+        "sparkling",
+        "wedding"
       ],
       "category": "objects",
       "group": "objects",
@@ -25937,9 +29622,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "diamond",
+        "engagement",
         "gem",
-        "gem stone",
-        "jewel"
+        "jewel",
+        "money",
+        "romance",
+        "stone",
+        "wedding"
       ],
       "category": "objects",
       "group": "objects",
@@ -25951,9 +29640,10 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "mute",
-        "muted speaker",
+        "muted",
         "quiet",
         "silent",
+        "sound",
         "speaker"
       ],
       "category": "symbols",
@@ -25965,8 +29655,11 @@ const UnicodeEmojis: {
       "description": "speaker low volume",
       "version": "0.7",
       "keywords": [
+        "low",
         "soft",
-        "speaker low volume"
+        "sound",
+        "speaker",
+        "volume"
       ],
       "category": "symbols",
       "group": "objects",
@@ -25978,7 +29671,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "medium",
-        "speaker medium volume"
+        "sound",
+        "speaker",
+        "volume"
       ],
       "category": "symbols",
       "group": "objects",
@@ -25989,8 +29684,12 @@ const UnicodeEmojis: {
       "description": "speaker high volume",
       "version": "0.6",
       "keywords": [
+        "high",
         "loud",
-        "speaker high volume"
+        "music",
+        "sound",
+        "speaker",
+        "volume"
       ],
       "category": "symbols",
       "group": "objects",
@@ -26001,9 +29700,12 @@ const UnicodeEmojis: {
       "description": "loudspeaker",
       "version": "0.6",
       "keywords": [
+        "address",
+        "communication",
         "loud",
         "loudspeaker",
-        "public address"
+        "public",
+        "sound"
       ],
       "category": "objects",
       "group": "objects",
@@ -26015,7 +29717,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cheering",
-        "megaphone"
+        "megaphone",
+        "sound"
       ],
       "category": "objects",
       "group": "objects",
@@ -26039,7 +29742,10 @@ const UnicodeEmojis: {
       "description": "bell",
       "version": "0.6",
       "keywords": [
-        "bell"
+        "bell",
+        "break",
+        "church",
+        "sound"
       ],
       "category": "objects",
       "group": "objects",
@@ -26051,11 +29757,15 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bell",
-        "bell with slash",
         "forbidden",
         "mute",
+        "no",
+        "not",
+        "prohibited",
         "quiet",
-        "silent"
+        "silent",
+        "slash",
+        "sound"
       ],
       "category": "symbols",
       "group": "objects",
@@ -26067,7 +29777,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "music",
-        "musical score",
+        "musical",
+        "note",
         "score"
       ],
       "category": "activities-events",
@@ -26080,8 +29791,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "music",
-        "musical note",
-        "note"
+        "musical",
+        "note",
+        "sound"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26093,9 +29805,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "music",
-        "musical notes",
+        "musical",
         "note",
-        "notes"
+        "notes",
+        "sound"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26148,7 +29861,10 @@ const UnicodeEmojis: {
       "keywords": [
         "karaoke",
         "mic",
-        "microphone"
+        "microphone",
+        "music",
+        "sing",
+        "sound"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26160,7 +29876,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "earbud",
-        "headphone"
+        "headphone",
+        "sound"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26171,7 +29888,9 @@ const UnicodeEmojis: {
       "description": "radio",
       "version": "0.6",
       "keywords": [
+        "entertainment",
         "radio",
+        "tbt",
         "video"
       ],
       "category": "activities-events",
@@ -26198,8 +29917,12 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "accordion",
+        "box",
         "concertina",
-        "squeeze box"
+        "instrument",
+        "music",
+        "squeeze",
+        "squeezebox"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26212,7 +29935,8 @@ const UnicodeEmojis: {
       "keywords": [
         "guitar",
         "instrument",
-        "music"
+        "music",
+        "strat"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26226,7 +29950,7 @@ const UnicodeEmojis: {
         "instrument",
         "keyboard",
         "music",
-        "musical keyboard",
+        "musical",
         "piano"
       ],
       "category": "activities-events",
@@ -26293,7 +30017,8 @@ const UnicodeEmojis: {
         "beat",
         "conga",
         "drum",
-        "long drum",
+        "instrument",
+        "long",
         "rhythm"
       ],
       "category": "activities-events",
@@ -26305,12 +30030,16 @@ const UnicodeEmojis: {
       "description": "maracas",
       "version": "15.0",
       "keywords": [
+        "cha",
+        "dance",
         "instrument",
         "maracas",
         "music",
+        "party",
         "percussion",
         "rattle",
-        "shake"
+        "shake",
+        "shaker"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26321,12 +30050,34 @@ const UnicodeEmojis: {
       "description": "flute",
       "version": "15.0",
       "keywords": [
+        "band",
         "fife",
+        "flautist",
         "flute",
+        "instrument",
+        "marching",
         "music",
+        "orchestra",
+        "piccolo",
         "pipe",
         "recorder",
         "woodwind"
+      ],
+      "category": "activities-events",
+      "group": "objects",
+      "subgroup": "musical-instrument"
+    },
+    {
+      "emoji": "🪉",
+      "description": "harp",
+      "version": "16.0",
+      "keywords": [
+        "cupid",
+        "harp",
+        "instrument",
+        "love",
+        "music",
+        "orchestra"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26338,6 +30089,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cell",
+        "communication",
         "mobile",
         "phone",
         "telephone"
@@ -26352,11 +30104,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "build",
+        "call",
         "cell",
+        "communication",
         "mobile",
-        "mobile phone with arrow",
         "phone",
-        "receive"
+        "receive",
+        "telephone"
       ],
       "category": "objects",
       "group": "objects",
@@ -26379,9 +30134,11 @@ const UnicodeEmojis: {
       "description": "telephone receiver",
       "version": "0.6",
       "keywords": [
+        "communication",
         "phone",
         "receiver",
-        "telephone"
+        "telephone",
+        "voip"
       ],
       "category": "objects",
       "group": "objects",
@@ -26392,6 +30149,7 @@ const UnicodeEmojis: {
       "description": "pager",
       "version": "0.6",
       "keywords": [
+        "communication",
         "pager"
       ],
       "category": "objects",
@@ -26403,8 +30161,9 @@ const UnicodeEmojis: {
       "description": "fax machine",
       "version": "0.6",
       "keywords": [
+        "communication",
         "fax",
-        "fax machine"
+        "machine"
       ],
       "category": "objects",
       "group": "objects",
@@ -26426,9 +30185,12 @@ const UnicodeEmojis: {
       "description": "low battery",
       "version": "14.0",
       "keywords": [
+        "battery",
+        "drained",
         "electronic",
-        "low battery",
-        "low energy"
+        "energy",
+        "low",
+        "power"
       ],
       "category": "objects",
       "group": "objects",
@@ -26454,6 +30216,7 @@ const UnicodeEmojis: {
       "keywords": [
         "computer",
         "laptop",
+        "office",
         "pc",
         "personal"
       ],
@@ -26467,7 +30230,8 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "computer",
-        "desktop"
+        "desktop",
+        "monitor"
       ],
       "category": "objects",
       "group": "objects",
@@ -26503,7 +30267,7 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "computer",
-        "computer mouse"
+        "mouse"
       ],
       "category": "objects",
       "group": "objects",
@@ -26553,9 +30317,11 @@ const UnicodeEmojis: {
       "description": "optical disk",
       "version": "0.6",
       "keywords": [
+        "blu-ray",
         "CD",
         "computer",
         "disk",
+        "dvd",
         "optical"
       ],
       "category": "objects",
@@ -26568,9 +30334,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "Blu-ray",
+        "cd",
         "computer",
         "disk",
-        "dvd",
         "DVD",
         "optical"
       ],
@@ -26584,7 +30350,8 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "abacus",
-        "calculation"
+        "calculation",
+        "calculator"
       ],
       "category": "objects",
       "group": "objects",
@@ -26595,9 +30362,13 @@ const UnicodeEmojis: {
       "description": "movie camera",
       "version": "0.6",
       "keywords": [
+        "bollywood",
         "camera",
         "cinema",
-        "movie"
+        "film",
+        "hollywood",
+        "movie",
+        "record"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -26637,8 +30408,9 @@ const UnicodeEmojis: {
       "description": "clapper board",
       "version": "0.6",
       "keywords": [
+        "action",
+        "board",
         "clapper",
-        "clapper board",
         "movie"
       ],
       "category": "activities-events",
@@ -26664,6 +30436,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "camera",
+        "photo",
+        "selfie",
+        "snap",
+        "tbt",
+        "trip",
         "video"
       ],
       "category": "activities-events",
@@ -26676,7 +30453,6 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "camera",
-        "camera with flash",
         "flash",
         "video"
       ],
@@ -26689,7 +30465,9 @@ const UnicodeEmojis: {
       "description": "video camera",
       "version": "0.6",
       "keywords": [
+        "camcorder",
         "camera",
+        "tbt",
         "video"
       ],
       "category": "activities-events",
@@ -26701,7 +30479,10 @@ const UnicodeEmojis: {
       "description": "videocassette",
       "version": "0.6",
       "keywords": [
+        "old",
+        "school",
         "tape",
+        "vcr",
         "vhs",
         "video",
         "videocassette"
@@ -26716,9 +30497,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "glass",
+        "lab",
+        "left",
+        "left-pointing",
         "magnifying",
-        "magnifying glass tilted left",
+        "science",
         "search",
+        "tilted",
         "tool"
       ],
       "category": "objects",
@@ -26730,10 +30515,15 @@ const UnicodeEmojis: {
       "description": "magnifying glass tilted right",
       "version": "0.6",
       "keywords": [
+        "contact",
         "glass",
+        "lab",
         "magnifying",
-        "magnifying glass tilted right",
+        "right",
+        "right-pointing",
+        "science",
         "search",
+        "tilted",
         "tool"
       ],
       "category": "objects",
@@ -26790,8 +30580,9 @@ const UnicodeEmojis: {
         "bar",
         "lantern",
         "light",
+        "paper",
         "red",
-        "red paper lantern"
+        "restaurant"
       ],
       "category": "objects",
       "group": "objects",
@@ -26804,6 +30595,7 @@ const UnicodeEmojis: {
       "keywords": [
         "diya",
         "lamp",
+        "light",
         "oil"
       ],
       "category": "objects",
@@ -26818,8 +30610,11 @@ const UnicodeEmojis: {
         "book",
         "cover",
         "decorated",
+        "decorative",
+        "education",
         "notebook",
-        "notebook with decorative cover"
+        "school",
+        "writing"
       ],
       "category": "objects",
       "group": "objects",
@@ -26831,7 +30626,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "book",
-        "closed"
+        "closed",
+        "education"
       ],
       "category": "objects",
       "group": "objects",
@@ -26843,7 +30639,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "book",
-        "open"
+        "education",
+        "fantasy",
+        "knowledge",
+        "library",
+        "novels",
+        "open",
+        "reading"
       ],
       "category": "objects",
       "group": "objects",
@@ -26855,7 +30657,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "book",
-        "green"
+        "education",
+        "fantasy",
+        "green",
+        "library",
+        "reading"
       ],
       "category": "objects",
       "group": "objects",
@@ -26867,7 +30673,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "blue",
-        "book"
+        "book",
+        "education",
+        "fantasy",
+        "library",
+        "reading"
       ],
       "category": "objects",
       "group": "objects",
@@ -26879,7 +30689,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "book",
-        "orange"
+        "education",
+        "fantasy",
+        "library",
+        "orange",
+        "reading"
       ],
       "category": "objects",
       "group": "objects",
@@ -26891,7 +30705,15 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "book",
-        "books"
+        "books",
+        "education",
+        "fantasy",
+        "knowledge",
+        "library",
+        "novels",
+        "reading",
+        "school",
+        "study"
       ],
       "category": "objects",
       "group": "objects",
@@ -26928,7 +30750,7 @@ const UnicodeEmojis: {
         "curl",
         "document",
         "page",
-        "page with curl"
+        "paper"
       ],
       "category": "objects",
       "group": "objects",
@@ -26952,8 +30774,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "document",
+        "facing",
         "page",
-        "page facing up"
+        "paper",
+        "up"
       ],
       "category": "objects",
       "group": "objects",
@@ -26964,6 +30788,7 @@ const UnicodeEmojis: {
       "description": "newspaper",
       "version": "0.6",
       "keywords": [
+        "communication",
         "news",
         "newspaper",
         "paper"
@@ -26981,7 +30806,7 @@ const UnicodeEmojis: {
         "newspaper",
         "paper",
         "rolled",
-        "rolled-up newspaper"
+        "rolled-up"
       ],
       "category": "objects",
       "group": "objects",
@@ -27018,7 +30843,8 @@ const UnicodeEmojis: {
       "description": "label",
       "version": "0.7",
       "keywords": [
-        "label"
+        "label",
+        "tag"
       ],
       "category": "objects",
       "group": "objects",
@@ -27030,9 +30856,21 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bag",
+        "bank",
+        "bet",
+        "billion",
+        "cash",
+        "cost",
         "dollar",
+        "gold",
+        "million",
         "money",
-        "moneybag"
+        "moneybag",
+        "paid",
+        "paying",
+        "pot",
+        "rich",
+        "win"
       ],
       "category": "objects",
       "group": "objects",
@@ -27044,9 +30882,12 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "coin",
+        "dollar",
+        "euro",
         "gold",
         "metal",
         "money",
+        "rich",
         "silver",
         "treasure"
       ],
@@ -27059,6 +30900,7 @@ const UnicodeEmojis: {
       "description": "yen banknote",
       "version": "0.6",
       "keywords": [
+        "bank",
         "banknote",
         "bill",
         "currency",
@@ -27075,6 +30917,7 @@ const UnicodeEmojis: {
       "description": "dollar banknote",
       "version": "0.6",
       "keywords": [
+        "bank",
         "banknote",
         "bill",
         "currency",
@@ -27091,12 +30934,15 @@ const UnicodeEmojis: {
       "description": "euro banknote",
       "version": "1.0",
       "keywords": [
+        "100",
+        "bank",
         "banknote",
         "bill",
         "currency",
         "euro",
         "money",
-        "note"
+        "note",
+        "rich"
       ],
       "category": "objects",
       "group": "objects",
@@ -27107,12 +30953,16 @@ const UnicodeEmojis: {
       "description": "pound banknote",
       "version": "1.0",
       "keywords": [
+        "bank",
         "banknote",
         "bill",
+        "billion",
+        "cash",
         "currency",
         "money",
         "note",
-        "pound"
+        "pound",
+        "pounds"
       ],
       "category": "objects",
       "group": "objects",
@@ -27123,11 +30973,17 @@ const UnicodeEmojis: {
       "description": "money with wings",
       "version": "0.6",
       "keywords": [
+        "bank",
         "banknote",
         "bill",
+        "billion",
+        "cash",
+        "dollar",
         "fly",
+        "million",
         "money",
-        "money with wings",
+        "note",
+        "pay",
         "wings"
       ],
       "category": "objects",
@@ -27139,9 +30995,13 @@ const UnicodeEmojis: {
       "description": "credit card",
       "version": "0.6",
       "keywords": [
+        "bank",
         "card",
+        "cash",
+        "charge",
         "credit",
-        "money"
+        "money",
+        "pay"
       ],
       "category": "objects",
       "group": "objects",
@@ -27155,6 +31015,7 @@ const UnicodeEmojis: {
         "accounting",
         "bookkeeping",
         "evidence",
+        "invoice",
         "proof",
         "receipt"
       ],
@@ -27167,11 +31028,17 @@ const UnicodeEmojis: {
       "description": "chart increasing with yen",
       "version": "0.6",
       "keywords": [
+        "bank",
         "chart",
-        "chart increasing with yen",
+        "currency",
         "graph",
         "growth",
+        "increasing",
+        "market",
         "money",
+        "rise",
+        "trend",
+        "upward",
         "yen"
       ],
       "category": "symbols",
@@ -27183,6 +31050,7 @@ const UnicodeEmojis: {
       "description": "envelope",
       "version": "0.6",
       "keywords": [
+        "e-mail",
         "email",
         "envelope",
         "letter"
@@ -27210,12 +31078,15 @@ const UnicodeEmojis: {
       "description": "incoming envelope",
       "version": "0.6",
       "keywords": [
+        "delivering",
         "e-mail",
         "email",
         "envelope",
         "incoming",
         "letter",
-        "receive"
+        "mail",
+        "receive",
+        "sent"
       ],
       "category": "objects",
       "group": "objects",
@@ -27227,11 +31098,16 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "communication",
+        "down",
         "e-mail",
         "email",
         "envelope",
-        "envelope with arrow",
-        "outgoing"
+        "letter",
+        "mail",
+        "outgoing",
+        "send",
+        "sent"
       ],
       "category": "objects",
       "group": "objects",
@@ -27243,6 +31119,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "box",
+        "email",
         "letter",
         "mail",
         "outbox",
@@ -27259,11 +31136,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "box",
+        "email",
         "inbox",
         "letter",
         "mail",
         "receive",
-        "tray"
+        "tray",
+        "zero"
       ],
       "category": "objects",
       "group": "objects",
@@ -27275,8 +31154,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "box",
+        "communication",
+        "delivery",
         "package",
-        "parcel"
+        "parcel",
+        "shipping"
       ],
       "category": "objects",
       "group": "objects",
@@ -27288,10 +31170,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "closed",
-        "closed mailbox with raised flag",
+        "communication",
+        "flag",
         "mail",
         "mailbox",
-        "postbox"
+        "postbox",
+        "raised"
       ],
       "category": "objects",
       "group": "objects",
@@ -27303,7 +31187,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "closed",
-        "closed mailbox with lowered flag",
+        "flag",
         "lowered",
         "mail",
         "mailbox",
@@ -27318,11 +31202,12 @@ const UnicodeEmojis: {
       "description": "open mailbox with raised flag",
       "version": "0.7",
       "keywords": [
+        "flag",
         "mail",
         "mailbox",
         "open",
-        "open mailbox with raised flag",
-        "postbox"
+        "postbox",
+        "raised"
       ],
       "category": "objects",
       "group": "objects",
@@ -27333,11 +31218,11 @@ const UnicodeEmojis: {
       "description": "open mailbox with lowered flag",
       "version": "0.7",
       "keywords": [
+        "flag",
         "lowered",
         "mail",
         "mailbox",
         "open",
-        "open mailbox with lowered flag",
         "postbox"
       ],
       "category": "objects",
@@ -27363,7 +31248,6 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "ballot",
-        "ballot box with ballot",
         "box"
       ],
       "category": "objects",
@@ -27386,7 +31270,7 @@ const UnicodeEmojis: {
       "description": "black nib",
       "version": "0.6",
       "keywords": [
-        "black nib",
+        "black",
         "nib",
         "pen"
       ],
@@ -27446,7 +31330,10 @@ const UnicodeEmojis: {
       "description": "memo",
       "version": "0.6",
       "keywords": [
+        "communication",
+        "media",
         "memo",
+        "notes",
         "pencil"
       ],
       "category": "objects",
@@ -27458,7 +31345,8 @@ const UnicodeEmojis: {
       "description": "briefcase",
       "version": "0.6",
       "keywords": [
-        "briefcase"
+        "briefcase",
+        "office"
       ],
       "category": "objects",
       "group": "objects",
@@ -27520,7 +31408,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "calendar",
-        "tear-off calendar"
+        "tear-off"
       ],
       "category": "objects",
       "group": "objects",
@@ -27532,9 +31420,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "note",
+        "notepad",
         "pad",
-        "spiral",
-        "spiral notepad"
+        "spiral"
       ],
       "category": "objects",
       "group": "objects",
@@ -27560,7 +31448,9 @@ const UnicodeEmojis: {
       "keywords": [
         "card",
         "index",
-        "rolodex"
+        "old",
+        "rolodex",
+        "school"
       ],
       "category": "objects",
       "group": "objects",
@@ -27572,10 +31462,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "chart",
-        "chart increasing",
+        "data",
         "graph",
         "growth",
+        "increasing",
+        "right",
         "trend",
+        "up",
         "upward"
       ],
       "category": "objects",
@@ -27588,9 +31481,12 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "chart",
-        "chart decreasing",
+        "data",
+        "decreasing",
         "down",
+        "downward",
         "graph",
+        "negative",
         "trend"
       ],
       "category": "objects",
@@ -27604,6 +31500,7 @@ const UnicodeEmojis: {
       "keywords": [
         "bar",
         "chart",
+        "data",
         "graph"
       ],
       "category": "objects",
@@ -27615,7 +31512,10 @@ const UnicodeEmojis: {
       "description": "clipboard",
       "version": "0.6",
       "keywords": [
-        "clipboard"
+        "clipboard",
+        "do",
+        "list",
+        "notes"
       ],
       "category": "objects",
       "group": "objects",
@@ -27626,6 +31526,7 @@ const UnicodeEmojis: {
       "description": "pushpin",
       "version": "0.6",
       "keywords": [
+        "collage",
         "pin",
         "pushpin"
       ],
@@ -27638,9 +31539,11 @@ const UnicodeEmojis: {
       "description": "round pushpin",
       "version": "0.6",
       "keywords": [
+        "location",
+        "map",
         "pin",
         "pushpin",
-        "round pushpin"
+        "round"
       ],
       "category": "objects",
       "group": "objects",
@@ -27663,8 +31566,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "link",
-        "linked paperclips",
-        "paperclip"
+        "linked",
+        "paperclip",
+        "paperclips"
       ],
       "category": "objects",
       "group": "objects",
@@ -27675,9 +31579,12 @@ const UnicodeEmojis: {
       "description": "straight ruler",
       "version": "0.6",
       "keywords": [
+        "angle",
+        "edge",
+        "math",
         "ruler",
-        "straight edge",
-        "straight ruler"
+        "straight",
+        "straightedge"
       ],
       "category": "objects",
       "group": "objects",
@@ -27688,10 +31595,14 @@ const UnicodeEmojis: {
       "description": "triangular ruler",
       "version": "0.6",
       "keywords": [
+        "angle",
+        "math",
+        "rule",
         "ruler",
         "set",
+        "slide",
         "triangle",
-        "triangular ruler"
+        "triangular"
       ],
       "category": "objects",
       "group": "objects",
@@ -27702,7 +31613,9 @@ const UnicodeEmojis: {
       "description": "scissors",
       "version": "0.6",
       "keywords": [
+        "cut",
         "cutting",
+        "paper",
         "scissors",
         "tool"
       ],
@@ -27730,7 +31643,8 @@ const UnicodeEmojis: {
       "keywords": [
         "cabinet",
         "file",
-        "filing"
+        "filing",
+        "paper"
       ],
       "category": "objects",
       "group": "objects",
@@ -27741,6 +31655,10 @@ const UnicodeEmojis: {
       "description": "wastebasket",
       "version": "0.7",
       "keywords": [
+        "can",
+        "garbage",
+        "trash",
+        "waste",
         "wastebasket"
       ],
       "category": "objects",
@@ -27753,7 +31671,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "closed",
-        "locked"
+        "lock",
+        "locked",
+        "private"
       ],
       "category": "objects",
       "group": "objects",
@@ -27764,6 +31684,7 @@ const UnicodeEmojis: {
       "description": "unlocked",
       "version": "0.6",
       "keywords": [
+        "cracked",
         "lock",
         "open",
         "unlock",
@@ -27780,7 +31701,7 @@ const UnicodeEmojis: {
       "keywords": [
         "ink",
         "lock",
-        "locked with pen",
+        "locked",
         "nib",
         "pen",
         "privacy"
@@ -27794,10 +31715,11 @@ const UnicodeEmojis: {
       "description": "locked with key",
       "version": "0.6",
       "keywords": [
+        "bike",
         "closed",
         "key",
         "lock",
-        "locked with key",
+        "locked",
         "secure"
       ],
       "category": "objects",
@@ -27810,8 +31732,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "key",
+        "keys",
         "lock",
-        "password"
+        "major",
+        "password",
+        "unlock"
       ],
       "category": "objects",
       "group": "objects",
@@ -27837,6 +31762,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "hammer",
+        "home",
+        "improvement",
+        "repairs",
         "tool"
       ],
       "category": "activities-events",
@@ -27848,6 +31776,7 @@ const UnicodeEmojis: {
       "description": "axe",
       "version": "12.0",
       "keywords": [
+        "ax",
         "axe",
         "chop",
         "hatchet",
@@ -27863,6 +31792,7 @@ const UnicodeEmojis: {
       "description": "pick",
       "version": "0.7",
       "keywords": [
+        "hammer",
         "mining",
         "pick",
         "tool"
@@ -27877,7 +31807,6 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "hammer",
-        "hammer and pick",
         "pick",
         "tool"
       ],
@@ -27891,7 +31820,6 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "hammer",
-        "hammer and wrench",
         "spanner",
         "tool",
         "wrench"
@@ -27932,7 +31860,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bomb",
-        "comic"
+        "boom",
+        "comic",
+        "dangerous",
+        "explosion",
+        "hot"
       ],
       "category": "objects",
       "group": "objects",
@@ -27945,7 +31877,8 @@ const UnicodeEmojis: {
       "keywords": [
         "boomerang",
         "rebound",
-        "repercussion"
+        "repercussion",
+        "weapon"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -27957,10 +31890,12 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "archer",
+        "archery",
         "arrow",
         "bow",
-        "bow and arrow",
         "Sagittarius",
+        "tool",
+        "weapon",
         "zodiac"
       ],
       "category": "activities-events",
@@ -27985,10 +31920,12 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "carpenter",
-        "carpentry saw",
+        "carpentry",
+        "cut",
         "lumber",
         "saw",
-        "tool"
+        "tool",
+        "trim"
       ],
       "category": "activities-events",
       "group": "objects",
@@ -27999,6 +31936,8 @@ const UnicodeEmojis: {
       "description": "wrench",
       "version": "0.6",
       "keywords": [
+        "home",
+        "improvement",
         "spanner",
         "tool",
         "wrench"
@@ -28012,6 +31951,8 @@ const UnicodeEmojis: {
       "description": "screwdriver",
       "version": "13.0",
       "keywords": [
+        "flathead",
+        "handy",
         "screw",
         "screwdriver",
         "tool"
@@ -28026,8 +31967,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bolt",
+        "home",
+        "improvement",
         "nut",
-        "nut and bolt",
         "tool"
       ],
       "category": "objects",
@@ -28071,6 +32013,9 @@ const UnicodeEmojis: {
         "justice",
         "Libra",
         "scale",
+        "scales",
+        "tool",
+        "weight",
         "zodiac"
       ],
       "category": "objects",
@@ -28084,7 +32029,9 @@ const UnicodeEmojis: {
       "keywords": [
         "accessibility",
         "blind",
-        "white cane"
+        "cane",
+        "probing",
+        "white"
       ],
       "category": "objects",
       "group": "objects",
@@ -28095,7 +32042,8 @@ const UnicodeEmojis: {
       "description": "link",
       "version": "0.6",
       "keywords": [
-        "link"
+        "link",
+        "links"
       ],
       "category": "objects",
       "group": "objects",
@@ -28103,9 +32051,16 @@ const UnicodeEmojis: {
     },
     {
       "emoji": "⛓️‍💥",
-      "description": null,
+      "description": "broken chain",
       "version": "15.1",
-      "keywords": null,
+      "keywords": [
+        "break",
+        "breaking",
+        "broken",
+        "chain",
+        "cuffs",
+        "freedom"
+      ],
       "category": "objects",
       "group": "objects",
       "subgroup": "tool"
@@ -28132,7 +32087,8 @@ const UnicodeEmojis: {
         "curve",
         "ensnare",
         "hook",
-        "selling point"
+        "point",
+        "selling"
       ],
       "category": "objects",
       "group": "objects",
@@ -28143,8 +32099,10 @@ const UnicodeEmojis: {
       "description": "toolbox",
       "version": "11.0",
       "keywords": [
+        "box",
         "chest",
         "mechanic",
+        "red",
         "tool",
         "toolbox"
       ],
@@ -28160,7 +32118,11 @@ const UnicodeEmojis: {
         "attraction",
         "horseshoe",
         "magnet",
-        "magnetic"
+        "magnetic",
+        "negative",
+        "positive",
+        "shape",
+        "u"
       ],
       "category": "objects",
       "group": "objects",
@@ -28175,6 +32137,25 @@ const UnicodeEmojis: {
         "ladder",
         "rung",
         "step"
+      ],
+      "category": "objects",
+      "group": "objects",
+      "subgroup": "tool"
+    },
+    {
+      "emoji": "🪏",
+      "description": "shovel",
+      "version": "16.0",
+      "keywords": [
+        "bury",
+        "dig",
+        "garden",
+        "hole",
+        "plant",
+        "scoop",
+        "shovel",
+        "snow",
+        "spade"
       ],
       "category": "objects",
       "group": "objects",
@@ -28203,7 +32184,8 @@ const UnicodeEmojis: {
         "experiment",
         "lab",
         "science",
-        "test tube"
+        "test",
+        "tube"
       ],
       "category": "objects",
       "group": "objects",
@@ -28218,8 +32200,9 @@ const UnicodeEmojis: {
         "biologist",
         "biology",
         "culture",
+        "dish",
         "lab",
-        "petri dish"
+        "petri"
       ],
       "category": "objects",
       "group": "objects",
@@ -28246,6 +32229,8 @@ const UnicodeEmojis: {
       "description": "microscope",
       "version": "1.0",
       "keywords": [
+        "experiment",
+        "lab",
         "microscope",
         "science",
         "tool"
@@ -28259,6 +32244,8 @@ const UnicodeEmojis: {
       "description": "telescope",
       "version": "1.0",
       "keywords": [
+        "contact",
+        "extraterrestrial",
         "science",
         "telescope",
         "tool"
@@ -28272,9 +32259,12 @@ const UnicodeEmojis: {
       "description": "satellite antenna",
       "version": "0.6",
       "keywords": [
+        "aliens",
         "antenna",
+        "contact",
         "dish",
-        "satellite"
+        "satellite",
+        "science"
       ],
       "category": "objects",
       "group": "objects",
@@ -28285,11 +32275,15 @@ const UnicodeEmojis: {
       "description": "syringe",
       "version": "0.6",
       "keywords": [
+        "doctor",
+        "flu",
         "medicine",
         "needle",
         "shot",
         "sick",
-        "syringe"
+        "syringe",
+        "tool",
+        "vaccination"
       ],
       "category": "objects",
       "group": "objects",
@@ -28301,8 +32295,9 @@ const UnicodeEmojis: {
       "version": "12.0",
       "keywords": [
         "bleed",
-        "blood donation",
-        "drop of blood",
+        "blood",
+        "donation",
+        "drop",
         "injury",
         "medicine",
         "menstruation"
@@ -28317,9 +32312,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "doctor",
+        "drugs",
+        "medicated",
         "medicine",
         "pill",
-        "sick"
+        "pills",
+        "sick",
+        "vitamin"
       ],
       "category": "objects",
       "group": "objects",
@@ -28330,7 +32329,7 @@ const UnicodeEmojis: {
       "description": "adhesive bandage",
       "version": "12.0",
       "keywords": [
-        "adhesive bandage",
+        "adhesive",
         "bandage"
       ],
       "category": "objects",
@@ -28342,11 +32341,14 @@ const UnicodeEmojis: {
       "description": "crutch",
       "version": "14.0",
       "keywords": [
+        "aid",
         "cane",
         "crutch",
         "disability",
+        "help",
         "hurt",
-        "mobility aid",
+        "injured",
+        "mobility",
         "stick"
       ],
       "category": "objects",
@@ -28376,7 +32378,9 @@ const UnicodeEmojis: {
         "doctor",
         "medical",
         "skeleton",
-        "x-ray"
+        "skull",
+        "x-ray",
+        "xray"
       ],
       "category": "objects",
       "group": "objects",
@@ -28387,7 +32391,10 @@ const UnicodeEmojis: {
       "description": "door",
       "version": "0.6",
       "keywords": [
-        "door"
+        "back",
+        "closet",
+        "door",
+        "front"
       ],
       "category": "objects",
       "group": "objects",
@@ -28412,6 +32419,7 @@ const UnicodeEmojis: {
       "description": "mirror",
       "version": "13.0",
       "keywords": [
+        "makeup",
         "mirror",
         "reflection",
         "reflector",
@@ -28426,8 +32434,9 @@ const UnicodeEmojis: {
       "description": "window",
       "version": "13.0",
       "keywords": [
+        "air",
         "frame",
-        "fresh air",
+        "fresh",
         "opening",
         "transparent",
         "view",
@@ -28456,7 +32465,6 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "couch",
-        "couch and lamp",
         "hotel",
         "lamp"
       ],
@@ -28482,6 +32490,7 @@ const UnicodeEmojis: {
       "description": "toilet",
       "version": "0.6",
       "keywords": [
+        "bathroom",
         "toilet"
       ],
       "category": "objects",
@@ -28493,9 +32502,11 @@ const UnicodeEmojis: {
       "description": "plunger",
       "version": "13.0",
       "keywords": [
-        "force cup",
+        "cup",
+        "force",
         "plumber",
         "plunger",
+        "poop",
         "suction",
         "toilet"
       ],
@@ -28533,7 +32544,9 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "bait",
-        "mouse trap",
+        "cheese",
+        "lure",
+        "mouse",
         "mousetrap",
         "snare",
         "trap"
@@ -28560,8 +32573,8 @@ const UnicodeEmojis: {
       "description": "lotion bottle",
       "version": "11.0",
       "keywords": [
+        "bottle",
         "lotion",
-        "lotion bottle",
         "moisturizer",
         "shampoo",
         "sunscreen"
@@ -28576,8 +32589,10 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "diaper",
-        "punk rock",
-        "safety pin"
+        "pin",
+        "punk",
+        "rock",
+        "safety"
       ],
       "category": "objects",
       "group": "objects",
@@ -28616,9 +32631,10 @@ const UnicodeEmojis: {
       "description": "roll of paper",
       "version": "11.0",
       "keywords": [
-        "paper towels",
-        "roll of paper",
-        "toilet paper"
+        "paper",
+        "roll",
+        "toilet",
+        "towels"
       ],
       "category": "objects",
       "group": "objects",
@@ -28645,6 +32661,7 @@ const UnicodeEmojis: {
       "keywords": [
         "bar",
         "bathing",
+        "clean",
         "cleaning",
         "lather",
         "soap",
@@ -28659,9 +32676,12 @@ const UnicodeEmojis: {
       "description": "bubbles",
       "version": "14.0",
       "keywords": [
+        "bubble",
         "bubbles",
         "burp",
         "clean",
+        "floating",
+        "pearl",
         "soap",
         "underwater"
       ],
@@ -28680,6 +32700,7 @@ const UnicodeEmojis: {
         "dental",
         "hygiene",
         "teeth",
+        "toiletry",
         "toothbrush"
       ],
       "category": "objects",
@@ -28694,6 +32715,7 @@ const UnicodeEmojis: {
         "absorbing",
         "cleaning",
         "porous",
+        "soak",
         "sponge"
       ],
       "category": "objects",
@@ -28706,8 +32728,8 @@ const UnicodeEmojis: {
       "version": "11.0",
       "keywords": [
         "extinguish",
+        "extinguisher",
         "fire",
-        "fire extinguisher",
         "quench"
       ],
       "category": "objects",
@@ -28745,7 +32767,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "coffin",
-        "death"
+        "dead",
+        "death",
+        "vampire"
       ],
       "category": "objects",
       "group": "objects",
@@ -28757,9 +32781,13 @@ const UnicodeEmojis: {
       "version": "13.0",
       "keywords": [
         "cemetery",
+        "dead",
         "grave",
         "graveyard",
         "headstone",
+        "memorial",
+        "rip",
+        "tomb",
         "tombstone"
       ],
       "category": "objects",
@@ -28785,11 +32813,12 @@ const UnicodeEmojis: {
       "description": "nazar amulet",
       "version": "11.0",
       "keywords": [
+        "amulet",
         "bead",
+        "blue",
         "charm",
         "evil-eye",
         "nazar",
-        "nazar amulet",
         "talisman"
       ],
       "category": "objects",
@@ -28803,10 +32832,14 @@ const UnicodeEmojis: {
       "keywords": [
         "amulet",
         "Fatima",
+        "fortune",
+        "guide",
         "hamsa",
         "hand",
         "Mary",
         "Miriam",
+        "palm",
+        "protect",
         "protection"
       ],
       "category": "objects",
@@ -28821,7 +32854,9 @@ const UnicodeEmojis: {
         "face",
         "moai",
         "moyai",
-        "statue"
+        "statue",
+        "stoneface",
+        "travel"
       ],
       "category": "objects",
       "group": "objects",
@@ -28832,9 +32867,12 @@ const UnicodeEmojis: {
       "description": "placard",
       "version": "13.0",
       "keywords": [
+        "card",
         "demonstration",
+        "notice",
         "picket",
         "placard",
+        "plaque",
         "protest",
         "sign"
       ],
@@ -28847,9 +32885,11 @@ const UnicodeEmojis: {
       "description": "identification card",
       "version": "14.0",
       "keywords": [
+        "card",
         "credentials",
+        "document",
         "ID",
-        "identification card",
+        "identification",
         "license",
         "security"
       ],
@@ -28863,9 +32903,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "ATM",
-        "ATM sign",
         "automated",
         "bank",
+        "cash",
+        "money",
+        "sign",
         "teller"
       ],
       "category": "symbols",
@@ -28877,9 +32919,10 @@ const UnicodeEmojis: {
       "description": "litter in bin sign",
       "version": "1.0",
       "keywords": [
+        "bin",
         "litter",
-        "litter bin",
-        "litter in bin sign"
+        "litterbin",
+        "sign"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -28904,7 +32947,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "access",
-        "wheelchair symbol"
+        "handicap",
+        "symbol",
+        "wheelchair"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -28918,8 +32963,9 @@ const UnicodeEmojis: {
         "bathroom",
         "lavatory",
         "man",
-        "men’s room",
+        "men’s",
         "restroom",
+        "room",
         "toilet",
         "WC"
       ],
@@ -28935,10 +32981,11 @@ const UnicodeEmojis: {
         "bathroom",
         "lavatory",
         "restroom",
+        "room",
         "toilet",
         "WC",
         "woman",
-        "women’s room"
+        "women’s"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -28965,8 +33012,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "baby",
-        "baby symbol",
-        "changing"
+        "changing",
+        "symbol"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29006,7 +33053,8 @@ const UnicodeEmojis: {
       "description": "customs",
       "version": "1.0",
       "keywords": [
-        "customs"
+        "customs",
+        "packing"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29017,8 +33065,18 @@ const UnicodeEmojis: {
       "description": "baggage claim",
       "version": "1.0",
       "keywords": [
+        "arrived",
         "baggage",
-        "claim"
+        "bags",
+        "case",
+        "checked",
+        "claim",
+        "journey",
+        "packing",
+        "plane",
+        "ready",
+        "travel",
+        "trip"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29030,7 +33088,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "baggage",
-        "left luggage",
+        "case",
+        "left",
         "locker",
         "luggage"
       ],
@@ -29043,6 +33102,7 @@ const UnicodeEmojis: {
       "description": "warning",
       "version": "0.6",
       "keywords": [
+        "caution",
         "warning"
       ],
       "category": "symbols",
@@ -29055,7 +33115,7 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "child",
-        "children crossing",
+        "children",
         "crossing",
         "pedestrian",
         "traffic"
@@ -29069,10 +33129,13 @@ const UnicodeEmojis: {
       "description": "no entry",
       "version": "0.6",
       "keywords": [
+        "do",
         "entry",
+        "fail",
         "forbidden",
         "no",
         "not",
+        "pass",
         "prohibited",
         "traffic"
       ],
@@ -29089,7 +33152,8 @@ const UnicodeEmojis: {
         "forbidden",
         "no",
         "not",
-        "prohibited"
+        "prohibited",
+        "smoke"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29101,10 +33165,11 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bicycle",
+        "bicycles",
         "bike",
         "forbidden",
         "no",
-        "no bicycles",
+        "not",
         "prohibited"
       ],
       "category": "symbols",
@@ -29120,6 +33185,7 @@ const UnicodeEmojis: {
         "no",
         "not",
         "prohibited",
+        "smoke",
         "smoking"
       ],
       "category": "symbols",
@@ -29133,8 +33199,8 @@ const UnicodeEmojis: {
       "keywords": [
         "forbidden",
         "litter",
+        "littering",
         "no",
-        "no littering",
         "not",
         "prohibited"
       ],
@@ -29147,8 +33213,10 @@ const UnicodeEmojis: {
       "description": "non-potable water",
       "version": "1.0",
       "keywords": [
+        "dry",
         "non-drinking",
         "non-potable",
+        "prohibited",
         "water"
       ],
       "category": "symbols",
@@ -29162,9 +33230,9 @@ const UnicodeEmojis: {
       "keywords": [
         "forbidden",
         "no",
-        "no pedestrians",
         "not",
         "pedestrian",
+        "pedestrians",
         "prohibited"
       ],
       "category": "symbols",
@@ -29180,8 +33248,11 @@ const UnicodeEmojis: {
         "forbidden",
         "mobile",
         "no",
-        "no mobile phones",
-        "phone"
+        "not",
+        "phone",
+        "phones",
+        "prohibited",
+        "telephone"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29193,10 +33264,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "18",
-        "age restriction",
+        "age",
         "eighteen",
-        "no one under eighteen",
+        "forbidden",
+        "no",
+        "not",
+        "one",
         "prohibited",
+        "restriction",
         "underage"
       ],
       "category": "symbols",
@@ -29236,7 +33311,7 @@ const UnicodeEmojis: {
         "cardinal",
         "direction",
         "north",
-        "up arrow"
+        "up"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29251,7 +33326,7 @@ const UnicodeEmojis: {
         "direction",
         "intercardinal",
         "northeast",
-        "up-right arrow"
+        "up-right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29266,7 +33341,7 @@ const UnicodeEmojis: {
         "cardinal",
         "direction",
         "east",
-        "right arrow"
+        "right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29279,7 +33354,7 @@ const UnicodeEmojis: {
       "keywords": [
         "arrow",
         "direction",
-        "down-right arrow",
+        "down-right",
         "intercardinal",
         "southeast"
       ],
@@ -29309,7 +33384,7 @@ const UnicodeEmojis: {
       "keywords": [
         "arrow",
         "direction",
-        "down-left arrow",
+        "down-left",
         "intercardinal",
         "southwest"
       ],
@@ -29325,7 +33400,7 @@ const UnicodeEmojis: {
         "arrow",
         "cardinal",
         "direction",
-        "left arrow",
+        "left",
         "west"
       ],
       "category": "symbols",
@@ -29341,7 +33416,7 @@ const UnicodeEmojis: {
         "direction",
         "intercardinal",
         "northwest",
-        "up-left arrow"
+        "up-left"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29353,7 +33428,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
-        "up-down arrow"
+        "up-down"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29365,7 +33440,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
-        "left-right arrow"
+        "left-right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29377,7 +33452,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
-        "right arrow curving left"
+        "curving",
+        "left",
+        "right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29389,7 +33466,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
-        "left arrow curving right"
+        "curving",
+        "left",
+        "right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29401,7 +33480,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
-        "right arrow curving up"
+        "curving",
+        "right",
+        "up"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29413,8 +33494,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "curving",
         "down",
-        "right arrow curving down"
+        "right"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29426,9 +33508,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "arrows",
         "clockwise",
-        "clockwise vertical arrows",
-        "reload"
+        "refresh",
+        "reload",
+        "vertical"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29439,11 +33523,16 @@ const UnicodeEmojis: {
       "description": "counterclockwise arrows button",
       "version": "1.0",
       "keywords": [
+        "again",
         "anticlockwise",
         "arrow",
+        "arrows",
+        "button",
         "counterclockwise",
-        "counterclockwise arrows button",
-        "withershins"
+        "deja",
+        "refresh",
+        "rewindershins",
+        "vu"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29480,7 +33569,6 @@ const UnicodeEmojis: {
       "keywords": [
         "arrow",
         "mark",
-        "ON",
         "ON!"
       ],
       "category": "symbols",
@@ -29493,6 +33581,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "brb",
+        "omw",
         "SOON"
       ],
       "category": "symbols",
@@ -29505,6 +33595,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "homie",
         "TOP",
         "up"
       ],
@@ -29517,7 +33608,8 @@ const UnicodeEmojis: {
       "description": "place of worship",
       "version": "1.0",
       "keywords": [
-        "place of worship",
+        "place",
+        "pray",
         "religion",
         "worship"
       ],
@@ -29532,7 +33624,7 @@ const UnicodeEmojis: {
       "keywords": [
         "atheist",
         "atom",
-        "atom symbol"
+        "symbol"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29559,9 +33651,9 @@ const UnicodeEmojis: {
         "David",
         "Jew",
         "Jewish",
+        "judaism",
         "religion",
-        "star",
-        "star of David"
+        "star"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29575,8 +33667,7 @@ const UnicodeEmojis: {
         "Buddhist",
         "dharma",
         "religion",
-        "wheel",
-        "wheel of dharma"
+        "wheel"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29587,11 +33678,15 @@ const UnicodeEmojis: {
       "description": "yin yang",
       "version": "0.7",
       "keywords": [
+        "difficult",
+        "lives",
         "religion",
         "tao",
         "taoist",
+        "total",
         "yang",
-        "yin"
+        "yin",
+        "yinyang"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29602,9 +33697,10 @@ const UnicodeEmojis: {
       "description": "latin cross",
       "version": "0.7",
       "keywords": [
+        "christ",
         "Christian",
         "cross",
-        "latin cross",
+        "latin",
         "religion"
       ],
       "category": "symbols",
@@ -29618,7 +33714,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Christian",
         "cross",
-        "orthodox cross",
+        "orthodox",
         "religion"
       ],
       "category": "symbols",
@@ -29630,10 +33726,12 @@ const UnicodeEmojis: {
       "description": "star and crescent",
       "version": "0.7",
       "keywords": [
+        "crescent",
         "islam",
         "Muslim",
+        "ramadan",
         "religion",
-        "star and crescent"
+        "star"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29644,8 +33742,10 @@ const UnicodeEmojis: {
       "description": "peace symbol",
       "version": "1.0",
       "keywords": [
+        "healing",
         "peace",
-        "peace symbol"
+        "peaceful",
+        "symbol"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29658,6 +33758,9 @@ const UnicodeEmojis: {
       "keywords": [
         "candelabrum",
         "candlestick",
+        "hanukkah",
+        "jewish",
+        "judaism",
         "menorah",
         "religion"
       ],
@@ -29670,8 +33773,11 @@ const UnicodeEmojis: {
       "description": "dotted six-pointed star",
       "version": "0.6",
       "keywords": [
-        "dotted six-pointed star",
+        "dotted",
         "fortune",
+        "jewish",
+        "judaism",
+        "six-pointed",
         "star"
       ],
       "category": "symbols",
@@ -29683,9 +33789,14 @@ const UnicodeEmojis: {
       "description": "khanda",
       "version": "15.0",
       "keywords": [
-        "khanda",
+        "Deg",
+        "Fateh",
+        "Khalsa",
+        "Khanda",
         "religion",
-        "Sikh"
+        "Sikh",
+        "Sikhism",
+        "Tegh"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29697,6 +33808,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "Aries",
+        "horoscope",
         "ram",
         "zodiac"
       ],
@@ -29710,6 +33822,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "bull",
+        "horoscope",
         "ox",
         "Taurus",
         "zodiac"
@@ -29724,6 +33837,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "Gemini",
+        "horoscope",
         "twins",
         "zodiac"
       ],
@@ -29738,6 +33852,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Cancer",
         "crab",
+        "horoscope",
         "zodiac"
       ],
       "category": "symbols",
@@ -29749,6 +33864,7 @@ const UnicodeEmojis: {
       "description": "Leo",
       "version": "0.6",
       "keywords": [
+        "horoscope",
         "Leo",
         "lion",
         "zodiac"
@@ -29762,6 +33878,7 @@ const UnicodeEmojis: {
       "description": "Virgo",
       "version": "0.6",
       "keywords": [
+        "horoscope",
         "Virgo",
         "zodiac"
       ],
@@ -29775,6 +33892,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "balance",
+        "horoscope",
         "justice",
         "Libra",
         "scales",
@@ -29789,9 +33907,10 @@ const UnicodeEmojis: {
       "description": "Scorpio",
       "version": "0.6",
       "keywords": [
+        "horoscope",
         "Scorpio",
         "scorpion",
-        "scorpius",
+        "Scorpius",
         "zodiac"
       ],
       "category": "symbols",
@@ -29804,6 +33923,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "archer",
+        "horoscope",
         "Sagittarius",
         "zodiac"
       ],
@@ -29818,6 +33938,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Capricorn",
         "goat",
+        "horoscope",
         "zodiac"
       ],
       "category": "symbols",
@@ -29831,6 +33952,7 @@ const UnicodeEmojis: {
       "keywords": [
         "Aquarius",
         "bearer",
+        "horoscope",
         "water",
         "zodiac"
       ],
@@ -29844,6 +33966,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "fish",
+        "horoscope",
         "Pisces",
         "zodiac"
       ],
@@ -29872,8 +33995,10 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "arrow",
+        "button",
         "crossed",
-        "shuffle tracks button"
+        "shuffle",
+        "tracks"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29885,9 +34010,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "arrow",
+        "button",
         "clockwise",
-        "repeat",
-        "repeat button"
+        "repeat"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29899,9 +34024,11 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "arrow",
+        "button",
         "clockwise",
         "once",
-        "repeat single button"
+        "repeat",
+        "single"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -29913,8 +34040,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "play",
-        "play button",
         "right",
         "triangle"
       ],
@@ -29928,9 +34055,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "double",
         "fast",
-        "fast-forward button",
+        "fast-forward",
         "forward"
       ],
       "category": "symbols",
@@ -29943,9 +34071,10 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "arrow",
-        "next scene",
-        "next track",
-        "next track button",
+        "button",
+        "next",
+        "scene",
+        "track",
         "triangle"
       ],
       "category": "symbols",
@@ -29958,9 +34087,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "arrow",
+        "button",
         "pause",
         "play",
-        "play or pause button",
         "right",
         "triangle"
       ],
@@ -29974,9 +34103,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "left",
         "reverse",
-        "reverse button",
         "triangle"
       ],
       "category": "symbols",
@@ -29989,8 +34118,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "double",
-        "fast reverse button",
+        "fast",
+        "reverse",
         "rewind"
       ],
       "category": "symbols",
@@ -30003,9 +34134,11 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "arrow",
-        "last track button",
-        "previous scene",
-        "previous track",
+        "button",
+        "last",
+        "previous",
+        "scene",
+        "track",
         "triangle"
       ],
       "category": "symbols",
@@ -30019,7 +34152,9 @@ const UnicodeEmojis: {
       "keywords": [
         "arrow",
         "button",
-        "upwards button"
+        "red",
+        "up",
+        "upwards"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30031,8 +34166,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "double",
-        "fast up button"
+        "fast",
+        "up"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30046,7 +34183,8 @@ const UnicodeEmojis: {
         "arrow",
         "button",
         "down",
-        "downwards button"
+        "downwards",
+        "red"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30058,9 +34196,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "arrow",
+        "button",
         "double",
         "down",
-        "fast down button"
+        "fast"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30072,9 +34211,9 @@ const UnicodeEmojis: {
       "version": "0.7",
       "keywords": [
         "bar",
+        "button",
         "double",
         "pause",
-        "pause button",
         "vertical"
       ],
       "category": "symbols",
@@ -30086,9 +34225,9 @@ const UnicodeEmojis: {
       "description": "stop button",
       "version": "0.7",
       "keywords": [
+        "button",
         "square",
-        "stop",
-        "stop button"
+        "stop"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30099,9 +34238,9 @@ const UnicodeEmojis: {
       "description": "record button",
       "version": "0.7",
       "keywords": [
+        "button",
         "circle",
-        "record",
-        "record button"
+        "record"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30112,8 +34251,8 @@ const UnicodeEmojis: {
       "description": "eject button",
       "version": "1.0",
       "keywords": [
-        "eject",
-        "eject button"
+        "button",
+        "eject"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30139,8 +34278,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "brightness",
+        "button",
         "dim",
-        "dim button",
         "low"
       ],
       "category": "symbols",
@@ -30153,8 +34292,9 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "bright",
-        "bright button",
-        "brightness"
+        "brightness",
+        "button",
+        "light"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30166,11 +34306,14 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "antenna",
-        "antenna bars",
         "bar",
+        "bars",
         "cell",
+        "communication",
         "mobile",
-        "phone"
+        "phone",
+        "signal",
+        "telephone"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30181,10 +34324,18 @@ const UnicodeEmojis: {
       "description": "wireless",
       "version": "15.0",
       "keywords": [
+        "broadband",
         "computer",
+        "connectivity",
+        "hotspot",
         "internet",
         "network",
-        "wireless"
+        "router",
+        "smartphone",
+        "wi-fi",
+        "wifi",
+        "wireless",
+        "wlan"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30196,6 +34347,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "cell",
+        "communication",
         "mobile",
         "mode",
         "phone",
@@ -30226,7 +34378,8 @@ const UnicodeEmojis: {
       "description": "female sign",
       "version": "4.0",
       "keywords": [
-        "female sign",
+        "female",
+        "sign",
         "woman"
       ],
       "category": "symbols",
@@ -30238,8 +34391,9 @@ const UnicodeEmojis: {
       "description": "male sign",
       "version": "4.0",
       "keywords": [
-        "male sign",
-        "man"
+        "male",
+        "man",
+        "sign"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30250,8 +34404,8 @@ const UnicodeEmojis: {
       "description": "transgender symbol",
       "version": "13.0",
       "keywords": [
-        "transgender",
-        "transgender symbol"
+        "symbol",
+        "transgender"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30279,9 +34433,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "+",
-        "math",
-        "plus",
-        "sign"
+        "plus"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30294,6 +34446,7 @@ const UnicodeEmojis: {
       "keywords": [
         "-",
         "−",
+        "heavy",
         "math",
         "minus",
         "sign"
@@ -30310,6 +34463,7 @@ const UnicodeEmojis: {
         "÷",
         "divide",
         "division",
+        "heavy",
         "math",
         "sign"
       ],
@@ -30322,9 +34476,13 @@ const UnicodeEmojis: {
       "description": "heavy equals sign",
       "version": "14.0",
       "keywords": [
+        "answer",
+        "equal",
         "equality",
-        "heavy equals sign",
-        "math"
+        "equals",
+        "heavy",
+        "math",
+        "sign"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30352,9 +34510,10 @@ const UnicodeEmojis: {
         "!",
         "!!",
         "bangbang",
-        "double exclamation mark",
+        "double",
         "exclamation",
-        "mark"
+        "mark",
+        "punctuation"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30387,7 +34546,7 @@ const UnicodeEmojis: {
         "mark",
         "punctuation",
         "question",
-        "red question mark"
+        "red"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30403,7 +34562,7 @@ const UnicodeEmojis: {
         "outlined",
         "punctuation",
         "question",
-        "white question mark"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30419,7 +34578,7 @@ const UnicodeEmojis: {
         "mark",
         "outlined",
         "punctuation",
-        "white exclamation mark"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30434,7 +34593,7 @@ const UnicodeEmojis: {
         "exclamation",
         "mark",
         "punctuation",
-        "red exclamation mark"
+        "red"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30472,10 +34631,16 @@ const UnicodeEmojis: {
       "description": "heavy dollar sign",
       "version": "0.6",
       "keywords": [
+        "billion",
+        "cash",
+        "charge",
         "currency",
         "dollar",
-        "heavy dollar sign",
-        "money"
+        "heavy",
+        "million",
+        "money",
+        "pay",
+        "sign"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30487,9 +34652,10 @@ const UnicodeEmojis: {
       "version": "4.0",
       "keywords": [
         "aesculapius",
-        "medical symbol",
+        "medical",
         "medicine",
-        "staff"
+        "staff",
+        "symbol"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30501,7 +34667,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "recycle",
-        "recycling symbol"
+        "recycling",
+        "symbol"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30512,7 +34679,8 @@ const UnicodeEmojis: {
       "description": "fleur-de-lis",
       "version": "1.0",
       "keywords": [
-        "fleur-de-lis"
+        "fleur-de-lis",
+        "knights"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30525,6 +34693,7 @@ const UnicodeEmojis: {
       "keywords": [
         "anchor",
         "emblem",
+        "poseidon",
         "ship",
         "tool",
         "trident"
@@ -30552,9 +34721,12 @@ const UnicodeEmojis: {
       "keywords": [
         "beginner",
         "chevron",
+        "green",
         "Japanese",
-        "Japanese symbol for beginner",
-        "leaf"
+        "leaf",
+        "symbol",
+        "tool",
+        "yellow"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30566,7 +34738,8 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "circle",
-        "hollow red circle",
+        "heavy",
+        "hollow",
         "large",
         "o",
         "red"
@@ -30583,7 +34756,14 @@ const UnicodeEmojis: {
         "✓",
         "button",
         "check",
-        "mark"
+        "checked",
+        "checkmark",
+        "complete",
+        "completed",
+        "done",
+        "fixed",
+        "mark",
+        "tick"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30595,9 +34775,13 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "✓",
+        "ballot",
         "box",
         "check",
-        "check box with check"
+        "checked",
+        "done",
+        "off",
+        "tick"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30610,7 +34794,12 @@ const UnicodeEmojis: {
       "keywords": [
         "✓",
         "check",
-        "mark"
+        "checked",
+        "checkmark",
+        "done",
+        "heavy",
+        "mark",
+        "tick"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30639,8 +34828,11 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "×",
-        "cross mark button",
+        "button",
+        "cross",
         "mark",
+        "multiplication",
+        "multiply",
         "square",
         "x"
       ],
@@ -30654,7 +34846,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "curl",
-        "curly loop",
+        "curly",
         "loop"
       ],
       "category": "symbols",
@@ -30667,8 +34859,8 @@ const UnicodeEmojis: {
       "version": "1.0",
       "keywords": [
         "curl",
+        "curly",
         "double",
-        "double curly loop",
         "loop"
       ],
       "category": "symbols",
@@ -30680,9 +34872,9 @@ const UnicodeEmojis: {
       "description": "part alternation mark",
       "version": "0.6",
       "keywords": [
+        "alternation",
         "mark",
-        "part",
-        "part alternation mark"
+        "part"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30695,7 +34887,7 @@ const UnicodeEmojis: {
       "keywords": [
         "*",
         "asterisk",
-        "eight-spoked asterisk"
+        "eight-spoked"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30707,7 +34899,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "*",
-        "eight-pointed star",
+        "eight-pointed",
         "star"
       ],
       "category": "symbols",
@@ -30757,8 +34949,27 @@ const UnicodeEmojis: {
       "keywords": [
         "mark",
         "TM",
-        "trade mark",
+        "trade",
         "trademark"
+      ],
+      "category": "symbols",
+      "group": "symbols",
+      "subgroup": "other-symbol"
+    },
+    {
+      "emoji": "🫟",
+      "description": "splatter",
+      "version": "16.0",
+      "keywords": [
+        "drip",
+        "holi",
+        "ink",
+        "liquid",
+        "mess",
+        "paint",
+        "spill",
+        "splatter",
+        "stain"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30955,9 +35166,12 @@ const UnicodeEmojis: {
       "description": "input symbols",
       "version": "0.6",
       "keywords": [
-        "〒♪&%",
+        "&",
+        "%",
+        "♪",
+        "〒",
         "input",
-        "input symbols"
+        "symbols"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30983,9 +35197,9 @@ const UnicodeEmojis: {
       "description": "A button (blood type)",
       "version": "0.6",
       "keywords": [
-        "A",
-        "A button (blood type)",
-        "blood type"
+        "blood",
+        "button",
+        "type"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -30997,8 +35211,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "AB",
-        "AB button (blood type)",
-        "blood type"
+        "blood",
+        "button",
+        "type"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31010,8 +35225,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "B",
-        "B button (blood type)",
-        "blood type"
+        "blood",
+        "button",
+        "type"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31022,8 +35238,8 @@ const UnicodeEmojis: {
       "description": "CL button",
       "version": "0.6",
       "keywords": [
-        "CL",
-        "CL button"
+        "button",
+        "CL"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31034,8 +35250,8 @@ const UnicodeEmojis: {
       "description": "COOL button",
       "version": "0.6",
       "keywords": [
-        "COOL",
-        "COOL button"
+        "button",
+        "COOL"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31046,8 +35262,8 @@ const UnicodeEmojis: {
       "description": "FREE button",
       "version": "0.6",
       "keywords": [
-        "FREE",
-        "FREE button"
+        "button",
+        "FREE"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31058,7 +35274,7 @@ const UnicodeEmojis: {
       "description": "information",
       "version": "0.6",
       "keywords": [
-        "i",
+        "I",
         "information"
       ],
       "category": "symbols",
@@ -31070,8 +35286,8 @@ const UnicodeEmojis: {
       "description": "ID button",
       "version": "0.6",
       "keywords": [
+        "button",
         "ID",
-        "ID button",
         "identity"
       ],
       "category": "symbols",
@@ -31084,7 +35300,7 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "circle",
-        "circled M",
+        "circled",
         "M"
       ],
       "category": "symbols",
@@ -31096,8 +35312,8 @@ const UnicodeEmojis: {
       "description": "NEW button",
       "version": "0.6",
       "keywords": [
-        "NEW",
-        "NEW button"
+        "button",
+        "NEW"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31108,8 +35324,8 @@ const UnicodeEmojis: {
       "description": "NG button",
       "version": "0.6",
       "keywords": [
-        "NG",
-        "NG button"
+        "button",
+        "NG"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31120,9 +35336,10 @@ const UnicodeEmojis: {
       "description": "O button (blood type)",
       "version": "0.6",
       "keywords": [
-        "blood type",
+        "blood",
+        "button",
         "O",
-        "O button (blood type)"
+        "type"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31133,8 +35350,9 @@ const UnicodeEmojis: {
       "description": "OK button",
       "version": "0.6",
       "keywords": [
+        "button",
         "OK",
-        "OK button"
+        "okay"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31145,8 +35363,8 @@ const UnicodeEmojis: {
       "description": "P button",
       "version": "0.6",
       "keywords": [
+        "button",
         "P",
-        "P button",
         "parking"
       ],
       "category": "symbols",
@@ -31158,9 +35376,9 @@ const UnicodeEmojis: {
       "description": "SOS button",
       "version": "0.6",
       "keywords": [
+        "button",
         "help",
-        "SOS",
-        "SOS button"
+        "SOS"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31171,10 +35389,10 @@ const UnicodeEmojis: {
       "description": "UP! button",
       "version": "0.6",
       "keywords": [
+        "button",
         "mark",
         "UP",
-        "UP!",
-        "UP! button"
+        "UP!"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31185,9 +35403,9 @@ const UnicodeEmojis: {
       "description": "VS button",
       "version": "0.6",
       "keywords": [
+        "button",
         "versus",
-        "VS",
-        "VS button"
+        "VS"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31198,11 +35416,10 @@ const UnicodeEmojis: {
       "description": "Japanese “here” button",
       "version": "0.6",
       "keywords": [
-        "“here”",
+        "button",
+        "here",
         "Japanese",
-        "Japanese “here” button",
-        "katakana",
-        "ココ"
+        "katakana"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31213,11 +35430,11 @@ const UnicodeEmojis: {
       "description": "Japanese “service charge” button",
       "version": "0.6",
       "keywords": [
-        "“service charge”",
+        "button",
+        "charge",
         "Japanese",
-        "Japanese “service charge” button",
         "katakana",
-        "サ"
+        "service"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31228,11 +35445,11 @@ const UnicodeEmojis: {
       "description": "Japanese “monthly amount” button",
       "version": "0.6",
       "keywords": [
-        "“monthly amount”",
+        "amount",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “monthly amount” button",
-        "月"
+        "monthly"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31243,11 +35460,12 @@ const UnicodeEmojis: {
       "description": "Japanese “not free of charge” button",
       "version": "0.6",
       "keywords": [
-        "“not free of charge”",
+        "button",
+        "charge",
+        "free",
         "ideograph",
         "Japanese",
-        "Japanese “not free of charge” button",
-        "有"
+        "not"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31258,11 +35476,10 @@ const UnicodeEmojis: {
       "description": "Japanese “reserved” button",
       "version": "0.6",
       "keywords": [
-        "“reserved”",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “reserved” button",
-        "指"
+        "reserved"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31273,11 +35490,10 @@ const UnicodeEmojis: {
       "description": "Japanese “bargain” button",
       "version": "0.6",
       "keywords": [
-        "“bargain”",
+        "bargain",
+        "button",
         "ideograph",
-        "Japanese",
-        "Japanese “bargain” button",
-        "得"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31288,11 +35504,10 @@ const UnicodeEmojis: {
       "description": "Japanese “discount” button",
       "version": "0.6",
       "keywords": [
-        "“discount”",
+        "button",
+        "discount",
         "ideograph",
-        "Japanese",
-        "Japanese “discount” button",
-        "割"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31303,11 +35518,11 @@ const UnicodeEmojis: {
       "description": "Japanese “free of charge” button",
       "version": "0.6",
       "keywords": [
-        "“free of charge”",
+        "button",
+        "charge",
+        "free",
         "ideograph",
-        "Japanese",
-        "Japanese “free of charge” button",
-        "無"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31318,11 +35533,10 @@ const UnicodeEmojis: {
       "description": "Japanese “prohibited” button",
       "version": "0.6",
       "keywords": [
-        "“prohibited”",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “prohibited” button",
-        "禁"
+        "prohibited"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31333,11 +35547,10 @@ const UnicodeEmojis: {
       "description": "Japanese “acceptable” button",
       "version": "0.6",
       "keywords": [
-        "“acceptable”",
+        "acceptable",
+        "button",
         "ideograph",
-        "Japanese",
-        "Japanese “acceptable” button",
-        "可"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31348,11 +35561,10 @@ const UnicodeEmojis: {
       "description": "Japanese “application” button",
       "version": "0.6",
       "keywords": [
-        "“application”",
+        "application",
+        "button",
         "ideograph",
-        "Japanese",
-        "Japanese “application” button",
-        "申"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31363,11 +35575,11 @@ const UnicodeEmojis: {
       "description": "Japanese “passing grade” button",
       "version": "0.6",
       "keywords": [
-        "“passing grade”",
+        "button",
+        "grade",
         "ideograph",
         "Japanese",
-        "Japanese “passing grade” button",
-        "合"
+        "passing"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31378,11 +35590,10 @@ const UnicodeEmojis: {
       "description": "Japanese “vacancy” button",
       "version": "0.6",
       "keywords": [
-        "“vacancy”",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “vacancy” button",
-        "空"
+        "vacancy"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31393,11 +35604,10 @@ const UnicodeEmojis: {
       "description": "Japanese “congratulations” button",
       "version": "0.6",
       "keywords": [
-        "“congratulations”",
+        "button",
+        "congratulations",
         "ideograph",
-        "Japanese",
-        "Japanese “congratulations” button",
-        "祝"
+        "Japanese"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31408,11 +35618,10 @@ const UnicodeEmojis: {
       "description": "Japanese “secret” button",
       "version": "0.6",
       "keywords": [
-        "“secret”",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “secret” button",
-        "秘"
+        "secret"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31423,11 +35632,11 @@ const UnicodeEmojis: {
       "description": "Japanese “open for business” button",
       "version": "0.6",
       "keywords": [
-        "“open for business”",
+        "business",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “open for business” button",
-        "営"
+        "open"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31438,11 +35647,11 @@ const UnicodeEmojis: {
       "description": "Japanese “no vacancy” button",
       "version": "0.6",
       "keywords": [
-        "“no vacancy”",
+        "button",
         "ideograph",
         "Japanese",
-        "Japanese “no vacancy” button",
-        "満"
+        "no",
+        "vacancy"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31539,7 +35748,7 @@ const UnicodeEmojis: {
       "description": "black circle",
       "version": "0.6",
       "keywords": [
-        "black circle",
+        "black",
         "circle",
         "geometric"
       ],
@@ -31554,7 +35763,7 @@ const UnicodeEmojis: {
       "keywords": [
         "circle",
         "geometric",
-        "white circle"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31565,6 +35774,8 @@ const UnicodeEmojis: {
       "description": "red square",
       "version": "12.0",
       "keywords": [
+        "card",
+        "penalty",
         "red",
         "square"
       ],
@@ -31589,6 +35800,8 @@ const UnicodeEmojis: {
       "description": "yellow square",
       "version": "12.0",
       "keywords": [
+        "card",
+        "penalty",
         "square",
         "yellow"
       ],
@@ -31649,8 +35862,9 @@ const UnicodeEmojis: {
       "description": "black large square",
       "version": "0.6",
       "keywords": [
-        "black large square",
+        "black",
         "geometric",
+        "large",
         "square"
       ],
       "category": "symbols",
@@ -31663,8 +35877,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "geometric",
+        "large",
         "square",
-        "white large square"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31675,8 +35890,9 @@ const UnicodeEmojis: {
       "description": "black medium square",
       "version": "0.6",
       "keywords": [
-        "black medium square",
+        "black",
         "geometric",
+        "medium",
         "square"
       ],
       "category": "symbols",
@@ -31689,8 +35905,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "geometric",
+        "medium",
         "square",
-        "white medium square"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31701,8 +35918,9 @@ const UnicodeEmojis: {
       "description": "black medium-small square",
       "version": "0.6",
       "keywords": [
-        "black medium-small square",
+        "black",
         "geometric",
+        "medium-small",
         "square"
       ],
       "category": "symbols",
@@ -31715,8 +35933,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "geometric",
+        "medium-small",
         "square",
-        "white medium-small square"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31727,8 +35946,9 @@ const UnicodeEmojis: {
       "description": "black small square",
       "version": "0.6",
       "keywords": [
-        "black small square",
+        "black",
         "geometric",
+        "small",
         "square"
       ],
       "category": "symbols",
@@ -31741,8 +35961,9 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "geometric",
+        "small",
         "square",
-        "white small square"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31755,7 +35976,7 @@ const UnicodeEmojis: {
       "keywords": [
         "diamond",
         "geometric",
-        "large orange diamond",
+        "large",
         "orange"
       ],
       "category": "symbols",
@@ -31770,7 +35991,7 @@ const UnicodeEmojis: {
         "blue",
         "diamond",
         "geometric",
-        "large blue diamond"
+        "large"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31784,7 +36005,7 @@ const UnicodeEmojis: {
         "diamond",
         "geometric",
         "orange",
-        "small orange diamond"
+        "small"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31798,7 +36019,7 @@ const UnicodeEmojis: {
         "blue",
         "diamond",
         "geometric",
-        "small blue diamond"
+        "small"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31810,8 +36031,10 @@ const UnicodeEmojis: {
       "version": "0.6",
       "keywords": [
         "geometric",
+        "pointed",
         "red",
-        "red triangle pointed up"
+        "triangle",
+        "up"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31824,8 +36047,9 @@ const UnicodeEmojis: {
       "keywords": [
         "down",
         "geometric",
+        "pointed",
         "red",
-        "red triangle pointed down"
+        "triangle"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31838,9 +36062,8 @@ const UnicodeEmojis: {
       "keywords": [
         "comic",
         "diamond",
-        "diamond with a dot",
-        "geometric",
-        "inside"
+        "dot",
+        "geometric"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31868,7 +36091,7 @@ const UnicodeEmojis: {
         "geometric",
         "outlined",
         "square",
-        "white square button"
+        "white"
       ],
       "category": "symbols",
       "group": "symbols",
@@ -31879,7 +36102,7 @@ const UnicodeEmojis: {
       "description": "black square button",
       "version": "0.6",
       "keywords": [
-        "black square button",
+        "black",
         "button",
         "geometric",
         "square"
@@ -31895,8 +36118,14 @@ const UnicodeEmojis: {
       "keywords": [
         "checkered",
         "chequered",
-        "chequered flag",
-        "racing"
+        "finish",
+        "flag",
+        "flags",
+        "game",
+        "race",
+        "racing",
+        "sport",
+        "win"
       ],
       "category": "flags",
       "group": "flags",
@@ -31907,8 +36136,11 @@ const UnicodeEmojis: {
       "description": "triangular flag",
       "version": "0.6",
       "keywords": [
+        "construction",
+        "flag",
+        "golf",
         "post",
-        "triangular flag"
+        "triangular"
       ],
       "category": "flags",
       "group": "flags",
@@ -31922,7 +36154,7 @@ const UnicodeEmojis: {
         "celebration",
         "cross",
         "crossed",
-        "crossed flags",
+        "flags",
         "Japanese"
       ],
       "category": "flags",
@@ -31934,7 +36166,8 @@ const UnicodeEmojis: {
       "description": "black flag",
       "version": "1.0",
       "keywords": [
-        "black flag",
+        "black",
+        "flag",
         "waving"
       ],
       "category": "flags",
@@ -31946,8 +36179,9 @@ const UnicodeEmojis: {
       "description": "white flag",
       "version": "0.7",
       "keywords": [
+        "flag",
         "waving",
-        "white flag"
+        "white"
       ],
       "category": "flags",
       "group": "flags",
@@ -31958,9 +36192,21 @@ const UnicodeEmojis: {
       "description": "rainbow flag",
       "version": "4.0",
       "keywords": [
+        "bisexual",
+        "flag",
+        "gay",
+        "genderqueer",
+        "glbt",
+        "glbtq",
+        "lesbian",
+        "lgbt",
+        "lgbtq",
+        "lgbtqia",
         "pride",
+        "queer",
         "rainbow",
-        "rainbow flag"
+        "trans",
+        "transgender"
       ],
       "category": "flags",
       "group": "flags",
@@ -31971,8 +36217,9 @@ const UnicodeEmojis: {
       "description": "transgender flag",
       "version": "13.0",
       "keywords": [
+        "blue",
         "flag",
-        "light blue",
+        "light",
         "pink",
         "transgender",
         "white"
@@ -31986,10 +36233,11 @@ const UnicodeEmojis: {
       "description": "pirate flag",
       "version": "11.0",
       "keywords": [
-        "Jolly Roger",
+        "flag",
+        "Jolly",
         "pirate",
-        "pirate flag",
         "plunder",
+        "Roger",
         "treasure"
       ],
       "category": "flags",
@@ -32550,6 +36798,17 @@ const UnicodeEmojis: {
       "emoji": "🇨🇵",
       "description": "flag: Clipperton Island",
       "version": "2.0",
+      "keywords": [
+        "flag"
+      ],
+      "category": "flags",
+      "group": "flags",
+      "subgroup": "country-flag"
+    },
+    {
+      "emoji": "🇨🇶",
+      "description": "flag: Sark",
+      "version": "16.0",
       "keywords": [
         "flag"
       ],
