@@ -13,7 +13,7 @@
     "jest": "30.0.4",
     "ts-jest": "29.3.2",
     "tsup": "8.5.1",
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   },
   "name": "unicode-emoji-utils",
   "description": "A collection of utilities for emojis",
