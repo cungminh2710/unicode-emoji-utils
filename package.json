@@ -4,7 +4,7 @@
     "@types/node": "24.10.7",
     "@typescript-eslint/eslint-plugin": "8.50.0",
     "eslint": "8.57.1",
-    "eslint-config-love": "130.0.0",
+    "eslint-config-love": "144.0.0",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-n": "17.17.0",
     "eslint-plugin-promise": "7.2.1",
