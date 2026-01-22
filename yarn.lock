@@ -627,6 +627,14 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.27.0.tgz#64995295227e001f2940258617c6674efb3ac48d"
   integrity sha512-aIitBcjQeyOhMTImhLZmtxfdOcuNRpwlPNmlFKPcHQYPhEssw75Cl1TSXJXpMkzaua9FUetx/4OQKq7eJul5Cg==
 
+"@eslint-community/eslint-plugin-eslint-comments@^3.2.0":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@eslint-community/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.2.1.tgz#3c65061e27f155eae3744c3b30c5a8253a959040"
+  integrity sha512-/HZbjIGaVO2zLlWX3gRgiHmKRVvvqrC0zVu3eXnIj1ORxoyfGSj50l0PfDfqihyZAqrDYzSMdJesXzFjvAoiLQ==
+  dependencies:
+    escape-string-regexp "^1.0.5"
+    ignore "^5.2.4"
+
 "@eslint-community/eslint-utils@^4.1.2", "@eslint-community/eslint-utils@^4.4.0":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz#a23514e8fb9af1269d5f7788aa556798d61c6b59"
@@ -2658,13 +2666,13 @@ eslint-compat-utils@^0.5.1:
   dependencies:
     semver "^7.5.4"
 
-eslint-config-love@144.0.0:
-  version "144.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-love/-/eslint-config-love-144.0.0.tgz#33a7286b2344d7f11a17ee25ff5359871cfce261"
-  integrity sha512-KUCqaRZwTteZWBK/CXvl75ETanLquIn4mie9GLE1jw0PRVKH1UYHtPmy2XhC9hw5ZUm4x+zv0xS6cbHn4oPXHw==
+eslint-config-love@146.0.0:
+  version "146.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-love/-/eslint-config-love-146.0.0.tgz#86c5e5674ce2b0afc44f40f6c4b32c1b93b2078f"
+  integrity sha512-iubmmQ2ctGgyHO1zU+HpRrkPSGiJ4GaqV7Krh80Bs/4hWfutfrRrnCcKQlaDVoAMR+qnaJY4MNSzVBOfndr2Og==
   dependencies:
+    "@eslint-community/eslint-plugin-eslint-comments" "^3.2.0"
     "@typescript-eslint/utils" "^8.41.0"
-    eslint-plugin-eslint-comments "^3.2.0"
     eslint-plugin-import "^2.32.0"
     eslint-plugin-n "^17.0.0"
     eslint-plugin-promise "^7.0.0"
@@ -2694,14 +2702,6 @@ eslint-plugin-es-x@^7.8.0:
     "@eslint-community/eslint-utils" "^4.1.2"
     "@eslint-community/regexpp" "^4.11.0"
     eslint-compat-utils "^0.5.1"
-
-eslint-plugin-eslint-comments@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-eslint-comments/-/eslint-plugin-eslint-comments-3.2.0.tgz#9e1cd7b4413526abb313933071d7aba05ca12ffa"
-  integrity sha512-0jkOl0hfojIHHmEHgmNdqv4fmh7300NdpA9FFpF7zaoLvB/QeXOGNLIo86oAveJFrfB1p05kC8hpEMHM8DwWVQ==
-  dependencies:
-    escape-string-regexp "^1.0.5"
-    ignore "^5.0.5"
 
 eslint-plugin-import@2.32.0, eslint-plugin-import@^2.32.0:
   version "2.32.0"
@@ -3388,15 +3388,15 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-ignore@^5.0.5, ignore@^5.3.2:
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.3.2.tgz#3cd40e729f3643fd87cb04e50bf0eb722bc596f5"
-  integrity sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==
-
 ignore@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.0.tgz#6d3bac8fa7fe0d45d9f9be7bac2fc279577e345a"
   integrity sha512-CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==
+
+ignore@^5.2.4, ignore@^5.3.2:
+  version "5.3.2"
+  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.3.2.tgz#3cd40e729f3643fd87cb04e50bf0eb722bc596f5"
+  integrity sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==
 
 ignore@^7.0.0, ignore@^7.0.5:
   version "7.0.5"
