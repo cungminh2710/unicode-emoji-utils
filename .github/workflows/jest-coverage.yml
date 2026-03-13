@@ -12,6 +12,6 @@ jobs:
               id: coverage
               with:
                   output: report-markdown
-            - uses: marocchino/sticky-pull-request-comment@v2
+            - uses: marocchino/sticky-pull-request-comment@v3
               with:
                   message: ${{ steps.coverage.outputs.report }}
